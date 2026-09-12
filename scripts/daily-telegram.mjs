@@ -6,15 +6,20 @@
      TELEGRAM_CHAT_ID    required — the group or channel id
      SITE_URL            optional — link shown at the end of the message
 
-   Pass --dry-run to print the message instead of sending it. */
+   Pass --dry-run to print the message instead of sending it.
+   Pass --day N to preview a specific day (0-based). */
 
-import { loadWords, dayIndex, wordsForDay, todayUtc } from './words-lib.mjs';
+import { loadWords, dayIndex, wordsForDay, todayUtc, utcOf, themeOfWeek, clozeFor, DAYS_PER_WEEK } from './words-lib.mjs';
 
-const DRY_RUN = process.argv.includes('--dry-run');
+const args = process.argv.slice(2);
+const DRY_RUN = args.includes('--dry-run');
+const DAY_ARG = args.includes('--day') ? Number(args[args.indexOf('--day') + 1]) : null;
 const { TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, SITE_URL, GITHUB_REPOSITORY } = process.env;
 
 /** Telegram's HTML parse mode only needs these three escaped. */
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+
+const TYPE_LABEL = { word: '', 'phrasal-verb': 'phrasal verb', chunk: 'chunk' };
 
 function siteUrl() {
   if (SITE_URL) return SITE_URL.replace(/\/$/, '');
@@ -25,41 +30,81 @@ function siteUrl() {
   return null;
 }
 
-function buildMessage(data) {
-  const day = dayIndex(data);
-  const words = wordsForDay(data, day);
-  const url = siteUrl();
-  const dateLabel = new Date(`${todayUtc()}T00:00:00Z`).toLocaleDateString('en-GB', {
+function dateLabel(dateStr) {
+  return new Date(utcOf(dateStr)).toLocaleDateString('en-GB', {
     weekday: 'long', day: 'numeric', month: 'long', timeZone: 'UTC',
   });
+}
+
+/** One word, the way it should be met for the first time: meaning, a
+    sentence you could say today, the chunk it lives in — and no synonyms,
+    which would only blur the first memory of it. */
+function wordBlock(w, i) {
+  const label = TYPE_LABEL[w.type] || w.pos;
+  const lines = [
+    `<b>${i + 1}. ${esc(w.word)}</b>${w.ipa ? ` <code>${esc(w.ipa)}</code>` : ''} — <i>${esc(label)}</i>`,
+    esc(w.definition),
+  ];
+  if (w.trap) lines.push(`⚠️ ${esc(w.trap)}`);
+  if (w.examples?.length) lines.push(`“${esc(w.examples[0])}”`);
+  if (w.collocations?.length) lines.push(`→ ${esc(w.collocations.slice(0, 2).join(' · '))}`);
+  if (w.mission) lines.push(`🎯 ${esc(w.mission)}`);
+  return lines.join('\n');
+}
+
+/** Yesterday's pair, with the word blanked out: the first retrieval of the day. */
+function recallBlock(data, day) {
+  if (day === 0) return '';
+  const gaps = wordsForDay(data, day - 1)
+    .map((w) => {
+      const c = clozeFor(w);
+      if (!c) return null;
+      const blank = '_'.repeat(Math.max(5, c.answer.length));
+      return `• ${esc(c.before)}${blank}${esc(c.after)}  <tg-spoiler>${esc(c.answer)}</tg-spoiler>`;
+    })
+    .filter(Boolean);
+  if (gaps.length === 0) return '';
+  return ['🔁 <b>Yesterday, from memory</b> (tap to reveal):', ...gaps].join('\n');
+}
+
+function buildMessage(data, day) {
+  const words = wordsForDay(data, day);
+  const url = siteUrl();
+  const date = new Date(utcOf(data.startDate) + day * 86400000).toISOString().slice(0, 10);
+  const week = Math.floor(day / DAYS_PER_WEEK);
+  const weekday = day % DAYS_PER_WEEK;
+  const theme = themeOfWeek(data, week);
 
   if (words.length === 0) {
-    return [
-      `📖 <b>Day ${day + 1}</b> — ${esc(dateLabel)}`,
-      '',
-      'The word list is empty for today. Somebody needs to add the next pair to <code>words.json</code> 🙂',
-      url ? `\n${url}` : '',
-    ].join('\n');
+    // The list has run dry: turn the day into a review day rather than an
+    // empty post, and nudge for new words without pointing at anyone.
+    const back = 28;
+    const older = day >= back ? wordsForDay(data, day - back) : [];
+    const lines = [`📖 <b>Review day</b> — ${esc(dateLabel(date))}`, ''];
+    if (older.length) {
+      lines.push(`Four weeks ago you met <b>${older.map((w) => esc(w.word)).join('</b> and <b>')}</b>. Still yours? Use one of them today.`);
+    } else {
+      lines.push('No new words today — a good day to clear the review queue.');
+    }
+    lines.push('', 'The list needs its next week: see CONTRIBUTING.md.');
+    if (url) lines.push(url);
+    return lines.join('\n');
   }
 
-  const blocks = words.map((w, i) => {
-    const lines = [
-      `<b>${i + 1}. ${esc(w.word)}</b>${w.ipa ? ` <code>${esc(w.ipa)}</code>` : ''} — <i>${esc(w.pos)}</i>`,
-      esc(w.definition),
-    ];
-    if (w.examples?.length) lines.push(`“${esc(w.examples[0])}”`);
-    if (w.synonyms?.length) lines.push(`≈ ${esc(w.synonyms.join(', '))}`);
-    return lines.join('\n');
-  });
+  const header = weekday === 0 && theme
+    ? `🗓 <b>Week ${week + 1}: ${esc(theme)}</b>\n📖 <b>Two words for ${esc(dateLabel(date))}</b>`
+    : `📖 <b>Two words for ${esc(dateLabel(date))}</b>${theme ? ` · <i>${esc(theme)}</i>` : ''}`;
 
   return [
-    `📖 <b>Two words for ${esc(dateLabel)}</b> · day ${day + 1}`,
+    header,
     '',
-    blocks.join('\n\n'),
+    words.map(wordBlock).join('\n\n'),
     '',
-    '💬 Use both words in this chat today — that is the whole point.',
-    url ? `🎯 Practise older words: ${url}` : '',
-  ].filter(Boolean).join('\n');
+    recallBlock(data, day),
+    recallBlock(data, day) ? '' : null,
+    '💬 Reply with one sentence using either word about something real this week.',
+    url ? `🎯 Practise: ${url}` : null,
+  ].filter((l) => l !== null).join('\n');
 }
 
 async function send(text) {
@@ -80,7 +125,8 @@ async function send(text) {
 }
 
 const data = await loadWords();
-const message = buildMessage(data);
+const day = DAY_ARG ?? dayIndex(data);
+const message = buildMessage(data, day);
 
 if (DRY_RUN) {
   console.log(message);

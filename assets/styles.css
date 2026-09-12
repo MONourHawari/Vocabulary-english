@@ -327,3 +327,76 @@ kbd {
 }
 .stat b { display: block; font-size: 1.5rem; letter-spacing: -.02em; }
 .stat span { color: var(--muted); font-size: .82rem; }
+
+/* ---------- theme weeks, traps, pronunciation ---------- */
+
+.eyebrow {
+  margin: 0 0 4px;
+  font-size: .78rem;
+  font-weight: 700;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.notice {
+  background: var(--accent-soft);
+  color: var(--accent);
+  border-radius: 10px;
+  padding: 10px 14px;
+  font-size: .9rem;
+  margin: 0 0 18px;
+}
+
+.trap {
+  margin: -6px 0 16px;
+  padding: 10px 12px;
+  border-radius: 10px;
+  background: var(--bad-soft);
+  color: var(--bad);
+  font-size: .94rem;
+}
+
+.speak {
+  border: 1px solid var(--border);
+  background: var(--surface-2);
+  border-radius: 999px;
+  width: 34px;
+  height: 34px;
+  font-size: 1rem;
+  line-height: 1;
+  cursor: pointer;
+  align-self: center;
+}
+.speak:hover { border-color: var(--accent); }
+
+.hint { color: var(--muted); font-weight: 400; }
+.muted { color: var(--muted); font-size: .95rem; }
+
+/* ---------- typed recall ---------- */
+
+.cloze { font-size: 1.1rem; margin: 0; }
+.gap {
+  display: inline-block;
+  min-width: 4ch;
+  letter-spacing: .12em;
+  color: var(--accent);
+  font-weight: 700;
+}
+.cloze-form { display: grid; gap: 10px; }
+.cloze-form .search { margin: 0; font-size: 1.05rem; }
+.cloze-form input:disabled { opacity: .7; }
+
+/* ---------- library weeks ---------- */
+
+.week { margin-top: 26px; }
+.week-title {
+  font-size: .8rem;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: 0 0 4px;
+  padding-bottom: 6px;
+  border-bottom: 2px solid var(--accent-soft);
+}
+.week-title span { color: var(--muted); font-weight: 600; text-transform: none; letter-spacing: 0; font-size: .9rem; }
