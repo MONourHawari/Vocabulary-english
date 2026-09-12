@@ -1,0 +1,246 @@
+{
+  "startDate": "2026-09-12",
+  "wordsPerDay": 2,
+  "words": [
+    {
+      "word": "thorough",
+      "pos": "adjective",
+      "ipa": "/ˈθʌr.ə/",
+      "definition": "done carefully and completely, with attention to every detail.",
+      "examples": [
+        "She did a thorough review of the migration plan before approving it.",
+        "We need a more thorough explanation — this one skips the hard parts."
+      ],
+      "synonyms": ["detailed", "meticulous", "exhaustive"],
+      "collocations": ["a thorough review", "a thorough understanding", "thorough testing"]
+    },
+    {
+      "word": "leverage",
+      "pos": "verb",
+      "ipa": "/ˈlev.ər.ɪdʒ/",
+      "definition": "to use something you already have in order to get a better result.",
+      "examples": [
+        "Let's leverage the existing cache instead of querying the database again.",
+        "The team leveraged their experience with the old system to move faster."
+      ],
+      "synonyms": ["exploit", "capitalise on", "make use of"],
+      "collocations": ["leverage existing tools", "leverage our experience"]
+    },
+    {
+      "word": "bottleneck",
+      "pos": "noun",
+      "ipa": "/ˈbɒt.l̩.nek/",
+      "definition": "the one slow part of a process that limits how fast the whole thing can go.",
+      "examples": [
+        "Code review has become the bottleneck in our release process.",
+        "Profiling showed the bottleneck was disk access, not the network."
+      ],
+      "synonyms": ["choke point", "constraint"],
+      "collocations": ["identify the bottleneck", "a major bottleneck", "remove a bottleneck"]
+    },
+    {
+      "word": "streamline",
+      "pos": "verb",
+      "ipa": "/ˈstriːm.laɪn/",
+      "definition": "to make a process simpler and more efficient by removing unnecessary steps.",
+      "examples": [
+        "We streamlined onboarding from five forms down to one.",
+        "The goal is to streamline the workflow, not to add more tools."
+      ],
+      "synonyms": ["simplify", "optimise"],
+      "collocations": ["streamline a process", "streamline operations"]
+    },
+    {
+      "word": "feasible",
+      "pos": "adjective",
+      "ipa": "/ˈfiː.zə.bəl/",
+      "definition": "possible to do, with the time and resources you actually have.",
+      "examples": [
+        "Shipping by Friday is feasible if we drop the export feature.",
+        "It sounds nice, but it is not technically feasible this quarter."
+      ],
+      "synonyms": ["viable", "workable", "realistic"],
+      "collocations": ["technically feasible", "a feasible approach", "not feasible"]
+    },
+    {
+      "word": "discrepancy",
+      "pos": "noun",
+      "ipa": "/dɪˈskrep.ən.si/",
+      "definition": "a difference between two things that should be the same.",
+      "examples": [
+        "There is a discrepancy between the invoice total and our records.",
+        "Can you explain the discrepancy in the two reports?"
+      ],
+      "synonyms": ["mismatch", "inconsistency"],
+      "collocations": ["a discrepancy between X and Y", "explain the discrepancy"]
+    },
+    {
+      "word": "mitigate",
+      "pos": "verb",
+      "ipa": "/ˈmɪt.ɪ.ɡeɪt/",
+      "definition": "to make something bad less severe, without removing it completely.",
+      "examples": [
+        "We added a retry to mitigate the impact of network failures.",
+        "Nothing removes the risk entirely, but we can mitigate it."
+      ],
+      "synonyms": ["reduce", "alleviate", "lessen"],
+      "collocations": ["mitigate a risk", "mitigate the impact"]
+    },
+    {
+      "word": "redundant",
+      "pos": "adjective",
+      "ipa": "/rɪˈdʌn.dənt/",
+      "definition": "not needed, because the same thing already exists somewhere else.",
+      "examples": [
+        "This check is redundant — the database already enforces it.",
+        "Two teams were doing redundant work for months."
+      ],
+      "synonyms": ["unnecessary", "duplicated", "superfluous"],
+      "collocations": ["redundant code", "become redundant", "a redundant step"]
+    },
+    {
+      "word": "scope",
+      "pos": "noun",
+      "ipa": "/skəʊp/",
+      "definition": "the limits of what a piece of work includes — and what it leaves out.",
+      "examples": [
+        "Authentication is out of scope for this release.",
+        "The scope keeps growing, so the deadline keeps moving."
+      ],
+      "synonyms": ["extent", "boundaries", "remit"],
+      "collocations": ["in scope", "out of scope", "scope creep", "narrow the scope"]
+    },
+    {
+      "word": "workaround",
+      "pos": "noun",
+      "ipa": "/ˈwɜːk.ə.raʊnd/",
+      "definition": "a temporary way to avoid a problem instead of fixing its cause.",
+      "examples": [
+        "Clearing the cache is a workaround, not a real fix.",
+        "We shipped a workaround so users are not blocked until Monday."
+      ],
+      "synonyms": ["stopgap", "quick fix"],
+      "collocations": ["a temporary workaround", "find a workaround"]
+    },
+    {
+      "word": "deprecate",
+      "pos": "verb",
+      "ipa": "/ˈdep.rə.keɪt/",
+      "definition": "to mark something as old and discouraged, before removing it later.",
+      "examples": [
+        "We will deprecate the v1 endpoint in June and delete it in December.",
+        "That option is deprecated — use the config file instead."
+      ],
+      "synonyms": ["phase out", "retire"],
+      "collocations": ["deprecate an API", "a deprecated method", "deprecation warning"]
+    },
+    {
+      "word": "robust",
+      "pos": "adjective",
+      "ipa": "/rəʊˈbʌst/",
+      "definition": "strong enough to keep working correctly when conditions get bad.",
+      "examples": [
+        "The parser is robust: it survives malformed input without crashing.",
+        "We need a robust process that works even when people are on holiday."
+      ],
+      "synonyms": ["resilient", "sturdy", "reliable"],
+      "collocations": ["a robust solution", "robust error handling"]
+    },
+    {
+      "word": "trade-off",
+      "pos": "noun",
+      "ipa": "/ˈtreɪd.ɒf/",
+      "definition": "a situation where you accept losing one good thing to gain another.",
+      "examples": [
+        "There is a trade-off between speed and memory usage here.",
+        "Every architecture is a trade-off; pick the one that fits your needs."
+      ],
+      "synonyms": ["compromise", "balance"],
+      "collocations": ["a trade-off between X and Y", "accept a trade-off"]
+    },
+    {
+      "word": "clarify",
+      "pos": "verb",
+      "ipa": "/ˈklær.ɪ.faɪ/",
+      "definition": "to make something easier to understand by explaining it more clearly.",
+      "examples": [
+        "Could you clarify what you mean by \"soon\"?",
+        "Let me clarify one point before we vote on it."
+      ],
+      "synonyms": ["explain", "spell out"],
+      "collocations": ["clarify a point", "just to clarify", "clarify expectations"]
+    },
+    {
+      "word": "backlog",
+      "pos": "noun",
+      "ipa": "/ˈbæk.lɒɡ/",
+      "definition": "work that has piled up and is still waiting to be done.",
+      "examples": [
+        "That idea is in the backlog, but nobody is working on it yet.",
+        "We spent a week clearing the backlog of support tickets."
+      ],
+      "synonyms": ["queue", "pile-up"],
+      "collocations": ["clear the backlog", "a growing backlog", "in the backlog"]
+    },
+    {
+      "word": "escalate",
+      "pos": "verb",
+      "ipa": "/ˈes.kə.leɪt/",
+      "definition": "to pass a problem to someone more senior, or to make it grow worse.",
+      "examples": [
+        "If the client does not reply by Thursday, escalate it to the manager.",
+        "A small disagreement escalated into a two-week argument."
+      ],
+      "synonyms": ["raise", "intensify"],
+      "collocations": ["escalate an issue", "escalate to management", "escalate quickly"]
+    },
+    {
+      "word": "granular",
+      "pos": "adjective",
+      "ipa": "/ˈɡræn.jə.lər/",
+      "definition": "made of small, separate details rather than one big block.",
+      "examples": [
+        "We need more granular permissions — read-only is too broad.",
+        "The report is too granular; give me the summary first."
+      ],
+      "synonyms": ["fine-grained", "detailed"],
+      "collocations": ["granular control", "granular permissions", "a granular breakdown"]
+    },
+    {
+      "word": "blocker",
+      "pos": "noun",
+      "ipa": "/ˈblɒk.ər/",
+      "definition": "something that stops you from making any progress until it is solved.",
+      "examples": [
+        "The missing API key is a blocker for the whole team.",
+        "Any blockers before we start the sprint?"
+      ],
+      "synonyms": ["obstacle", "showstopper"],
+      "collocations": ["a blocker for", "remove a blocker", "raise a blocker"]
+    },
+    {
+      "word": "cumbersome",
+      "pos": "adjective",
+      "ipa": "/ˈkʌm.bə.səm/",
+      "definition": "slow and awkward to use, because it is too heavy or complicated.",
+      "examples": [
+        "The approval process is cumbersome: four signatures for one invoice.",
+        "This library is powerful but cumbersome for small scripts."
+      ],
+      "synonyms": ["unwieldy", "clunky", "awkward"],
+      "collocations": ["a cumbersome process", "cumbersome to maintain"]
+    },
+    {
+      "word": "insight",
+      "pos": "noun",
+      "ipa": "/ˈɪn.saɪt/",
+      "definition": "a clear, useful understanding of why something happens.",
+      "examples": [
+        "The logs gave us a real insight into how users actually navigate.",
+        "Thanks for that insight — it changes how I see the problem."
+      ],
+      "synonyms": ["understanding", "realisation"],
+      "collocations": ["gain insight into", "a valuable insight", "share an insight"]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+name: Words of the day
+
+on:
+  schedule:
+    # 07:00 UTC every day. GitHub cron is always UTC, so shift this if you
+    # want a different local time (07:00 UTC = 08:00 in Paris in winter,
+    # 09:00 in summer). Scheduled runs can be a few minutes late.
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Post the two words to Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: node scripts/daily-telegram.mjs

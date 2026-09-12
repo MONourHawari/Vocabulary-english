@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Two Words a Day</title>
+<meta name="description" content="Two new English words every day, plus spaced-repetition practice you can do all day long.">
+<meta name="theme-color" content="#1d4ed8">
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><text y='48' font-size='48'>📖</text></svg>">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="#/today">Two Words <span>a Day</span></a>
+  <nav class="tabs">
+    <a href="#/today" data-tab="today">Today</a>
+    <a href="#/practice" data-tab="practice">Practice <span class="badge" id="due-badge" hidden></span></a>
+    <a href="#/library" data-tab="library">Library</a>
+  </nav>
+</header>
+
+<main id="view" aria-live="polite"></main>
+
+<footer class="foot">
+  <p>Progress is stored in this browser only. <a href="#" id="reset-link">Reset my progress</a></p>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
