@@ -28,6 +28,11 @@ jobs:
       - name: Validate words.json
         run: node scripts/validate-words.mjs
 
+      # Stamp the commit into the asset URLs so browsers never keep an old
+      # app.js next to a new words.json.
+      - name: Cache-bust assets
+        run: sed -i "s/__BUILD__/${GITHUB_SHA::8}/g" index.html
+
       # Pages must be switched on once by hand (Settings → Pages → Source:
       # GitHub Actions): the workflow token is not allowed to create the site.
       - uses: actions/configure-pages@v5

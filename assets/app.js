@@ -189,7 +189,7 @@ function wordCard(entry) {
       <h2 class="word" style="margin:0">${escapeHtml(entry.word)}</h2>
       ${speakButton(entry.word)}
       <span class="pos">${escapeHtml(typeLabel || entry.pos)}</span>
-      ${entry.ipa ? `<span class="ipa">${escapeHtml(entry.ipa)}</span>` : ''}
+      ${entry.ipa ? `<span class="ipa" title="Pronunciation (International Phonetic Alphabet) — tap 🔊 to hear it">${escapeHtml(entry.ipa)}</span>` : ''}
     </div>
     <p class="definition">${escapeHtml(entry.definition)}</p>`];
 
