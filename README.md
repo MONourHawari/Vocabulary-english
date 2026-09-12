@@ -83,8 +83,12 @@ valide le fichier, un collègue relit, on merge, le site se redéploie tout seul
 ## Mise en route (une seule fois)
 
 ### 1. Activer GitHub Pages
-`Settings` → `Pages` → **Source : GitHub Actions**. Pousse sur `main` : le
-workflow `Deploy site` publie le site. URL :
+`Settings` → `Pages` → *Build and deployment* → **Source : GitHub Actions**.
+Cette étape est obligatoire et ne peut pas être automatisée : le jeton du
+workflow n'a pas le droit de créer le site Pages (erreur
+`Resource not accessible by integration` sinon). Ensuite, chaque push sur
+`main` publie le site via le workflow `Deploy site` — ou lance-le à la main
+depuis l'onglet `Actions` la première fois. URL :
 `https://<utilisateur>.github.io/<repo>/`.
 
 ### 2. Brancher Telegram (optionnel mais recommandé)
