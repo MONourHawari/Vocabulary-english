@@ -1312,6 +1312,1654 @@
         "a glitch in"
       ],
       "mission": "Call one small, short problem a glitch — not a bug."
+    },
+    {
+      "word": "carry over",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌkær.i ˈəʊ.və/",
+      "theme": "Planning the sprint",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to move unfinished work from one period, such as a sprint, to the next.",
+      "examples": [
+        "Two tickets will carry over to next sprint.",
+        "We carried over the export work again — third time."
+      ],
+      "forms": [
+        "carried over",
+        "carrying over",
+        "carries over"
+      ],
+      "collocations": [
+        "carry over to next sprint",
+        "carried over",
+        "carry it over"
+      ],
+      "mission": "Say which task will carry over, and why, before anyone asks."
+    },
+    {
+      "word": "leeway",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈliː.weɪ/",
+      "theme": "Planning the sprint",
+      "level": "C1",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "extra freedom or time that lets you change a plan without breaking it.",
+      "examples": [
+        "We have some leeway on the date, but not on the budget.",
+        "Give the estimate a bit of leeway for surprises."
+      ],
+      "collocations": [
+        "some leeway",
+        "leeway on the date",
+        "a bit of leeway"
+      ],
+      "mission": "Say where your plan has leeway and where it has none."
+    },
+    {
+      "word": "ballpark",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˈbɔːl.pɑːk/",
+      "theme": "Planning the sprint",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "approximate; used for a number that gives an idea but is not exact.",
+      "examples": [
+        "Give me a ballpark figure — a week or a month?",
+        "The ballpark cost is around ten days of work."
+      ],
+      "collocations": [
+        "a ballpark figure",
+        "ballpark cost",
+        "in the ballpark"
+      ],
+      "mission": "Ask for a ballpark figure instead of an exact estimate."
+    },
+    {
+      "word": "break down",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌbreɪk ˈdaʊn/",
+      "theme": "Planning the sprint",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to divide something big into smaller parts so it is easier to plan or understand.",
+      "examples": [
+        "Let's break the epic down into tickets we can estimate.",
+        "She broke the cost down by team."
+      ],
+      "forms": [
+        "break the epic down",
+        "broke the cost down",
+        "broke down",
+        "broken down",
+        "breaking down",
+        "breaks down"
+      ],
+      "collocations": [
+        "break it down into",
+        "break down the work",
+        "broken down by"
+      ],
+      "mission": "Break one big task down into three smaller ones, out loud."
+    },
+    {
+      "word": "cut corners",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˌkʌt ˈkɔː.nəz/",
+      "theme": "Planning the sprint",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to do something faster or cheaper by skipping steps, so the quality suffers.",
+      "examples": [
+        "If we cut corners on tests now, we pay for it in June.",
+        "The vendor clearly cut corners on the security review."
+      ],
+      "forms": [
+        "cutting corners",
+        "cuts corners"
+      ],
+      "collocations": [
+        "cut corners on",
+        "without cutting corners",
+        "no cutting corners"
+      ],
+      "mission": "Name one place where the plan cuts corners, and the cost of it."
+    },
+    {
+      "word": "buffer",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈbʌf.ə/",
+      "theme": "Planning the sprint",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "partial",
+      "trap": "Not only the memory buffer: in planning it means spare time you keep for surprises.",
+      "definition": "extra time or resources added to a plan to absorb surprises.",
+      "examples": [
+        "I added a two-day buffer before the demo.",
+        "Without a buffer, one sick day breaks the plan."
+      ],
+      "forms": [
+        "buffers"
+      ],
+      "collocations": [
+        "a two-day buffer",
+        "add a buffer",
+        "without a buffer"
+      ],
+      "mission": "Say how much buffer your estimate includes."
+    },
+    {
+      "word": "tentative",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˈten.tə.tɪv/",
+      "theme": "Planning the sprint",
+      "level": "C1",
+      "source": "Oxford 5000",
+      "cognate": "false-friend",
+      "trap": "Not 'tentative' in French (an attempt) — for that say attempt. Tentative means not final yet.",
+      "definition": "not final or certain; likely to change.",
+      "examples": [
+        "The date is tentative — don't tell the client yet.",
+        "We have a tentative plan for the migration."
+      ],
+      "collocations": [
+        "a tentative date",
+        "a tentative plan",
+        "still tentative"
+      ],
+      "mission": "Mark one date as tentative when you share it."
+    },
+    {
+      "word": "sign off",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌsaɪn ˈɒf/",
+      "theme": "Planning the sprint",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to approve something officially so that work can go ahead.",
+      "examples": [
+        "Who needs to sign off on the scope before we start?",
+        "Legal signed off on the wording yesterday."
+      ],
+      "forms": [
+        "signed off",
+        "signing off",
+        "signs off"
+      ],
+      "collocations": [
+        "sign off on",
+        "signed off",
+        "get sign-off"
+      ],
+      "mission": "Ask who has to sign off on your plan, and by when."
+    },
+    {
+      "word": "call it a day",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌkɔːl ɪt ə ˈdeɪ/",
+      "theme": "Planning the sprint",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to stop working for now, because enough has been done or you are tired.",
+      "examples": [
+        "It's six o'clock — let's call it a day.",
+        "We called it a day after the third failed deploy."
+      ],
+      "forms": [
+        "called it a day",
+        "calling it a day"
+      ],
+      "collocations": [
+        "let's call it a day",
+        "call it a day"
+      ],
+      "mission": "Say 'let's call it a day' at the end of one long session."
+    },
+    {
+      "word": "stretch",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/stretʃ/",
+      "theme": "Planning the sprint",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Say /stretʃ/ — one syllable, unlike 'scratch' in from scratch.",
+      "definition": "something that is possible but harder than usual to reach; also a long period of work.",
+      "examples": [
+        "Five features in one sprint is a stretch.",
+        "It's been a long stretch without a release."
+      ],
+      "collocations": [
+        "a bit of a stretch",
+        "a stretch goal",
+        "a long stretch"
+      ],
+      "mission": "Call one target 'a stretch' and say what would make it realistic."
+    },
+    {
+      "word": "in the loop",
+      "type": "chunk",
+      "pos": "adjective",
+      "ipa": "/ɪn ðə ˈluːp/",
+      "theme": "Planning the sprint",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "informed about what is happening, and included in the messages about it.",
+      "examples": [
+        "Keep me in the loop on the vendor talks.",
+        "Sales weren't in the loop, so they promised the wrong date."
+      ],
+      "collocations": [
+        "keep me in the loop",
+        "in the loop on",
+        "out of the loop"
+      ],
+      "mission": "Ask to be kept in the loop on one topic."
+    },
+    {
+      "word": "give or take",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/ˌɡɪv ɔː ˈteɪk/",
+      "theme": "Planning the sprint",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "said after a number to mean it could be a little more or a little less.",
+      "examples": [
+        "It'll take ten days, give or take.",
+        "Two hundred users, give or take a few."
+      ],
+      "collocations": [
+        "give or take",
+        "give or take a day"
+      ],
+      "mission": "Add 'give or take' to one estimate today."
+    },
+    {
+      "word": "long shot",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˌlɒŋ ˈʃɒt/",
+      "theme": "Planning the sprint",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "an attempt that will probably not succeed but is worth trying.",
+      "examples": [
+        "Shipping by Friday is a long shot.",
+        "It's a long shot, but ask if they have a spare licence."
+      ],
+      "collocations": [
+        "a long shot",
+        "it's a long shot, but"
+      ],
+      "mission": "Call one idea a long shot, then try it anyway."
+    },
+    {
+      "word": "swamped",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/swɒmpt/",
+      "theme": "Planning the sprint",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "having far too much work to deal with.",
+      "examples": [
+        "I'm swamped this week — can it wait?",
+        "Support is swamped after the release."
+      ],
+      "collocations": [
+        "I'm swamped",
+        "swamped with",
+        "completely swamped"
+      ],
+      "mission": "Tell someone you are swamped instead of saying nothing."
+    },
+    {
+      "word": "overlook",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/ˌəʊ.vəˈlʊk/",
+      "theme": "Code review and giving feedback",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "to fail to notice something, usually a small but important detail.",
+      "examples": [
+        "I overlooked the null case in the loop.",
+        "Easy to overlook, but the index is never dropped."
+      ],
+      "forms": [
+        "overlooked",
+        "overlooking",
+        "overlooks"
+      ],
+      "collocations": [
+        "easy to overlook",
+        "overlooked the case",
+        "must not overlook"
+      ],
+      "mission": "Say 'I overlooked …' instead of 'I didn't see' once today."
+    },
+    {
+      "word": "typo",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈtaɪ.pəʊ/",
+      "theme": "Code review and giving feedback",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "partial",
+      "trap": "Not 'typo' as in typography: in English it only means a typing mistake.",
+      "definition": "a small mistake in typing, such as a wrong or missing letter.",
+      "examples": [
+        "Just a typo in the config key — fixed.",
+        "The outage came from a typo in the hostname."
+      ],
+      "forms": [
+        "typos"
+      ],
+      "collocations": [
+        "just a typo",
+        "a typo in",
+        "fix the typo"
+      ],
+      "mission": "Point out one typo kindly: 'just a typo, line 12'."
+    },
+    {
+      "word": "go over",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌɡəʊ ˈəʊ.və/",
+      "theme": "Code review and giving feedback",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to check something carefully, part by part, before you accept it.",
+      "examples": [
+        "Can you go over my PR before lunch?",
+        "We went over the diff line by line."
+      ],
+      "forms": [
+        "went over",
+        "going over",
+        "goes over"
+      ],
+      "collocations": [
+        "go over the PR",
+        "go over it again",
+        "went over the diff"
+      ],
+      "mission": "Ask someone to go over one piece of your work."
+    },
+    {
+      "word": "sloppy",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˈslɒp.i/",
+      "theme": "Code review and giving feedback",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "done carelessly, without enough attention to detail.",
+      "examples": [
+        "The error handling is a bit sloppy here.",
+        "Sloppy naming makes the whole module hard to read."
+      ],
+      "collocations": [
+        "a bit sloppy",
+        "sloppy code",
+        "sloppy work"
+      ],
+      "mission": "Describe one thing as 'a bit sloppy' — the work, never the person."
+    },
+    {
+      "word": "tidy up",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌtaɪ.di ˈʌp/",
+      "theme": "Code review and giving feedback",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to make something neater by removing what is unnecessary or messy.",
+      "examples": [
+        "I'll tidy up the imports before merging.",
+        "She tidied up the tests so they read top to bottom."
+      ],
+      "forms": [
+        "tidied up",
+        "tidying up",
+        "tidies up",
+        "tidy-up"
+      ],
+      "collocations": [
+        "tidy up the code",
+        "tidy it up",
+        "a quick tidy-up"
+      ],
+      "mission": "Tidy up one small thing in a file you touch today."
+    },
+    {
+      "word": "leftover",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˈleft.əʊ.və/",
+      "theme": "Code review and giving feedback",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "remaining after the rest has been used, removed or finished.",
+      "examples": [
+        "There's some leftover code from the old flow.",
+        "Delete the leftover feature flags."
+      ],
+      "collocations": [
+        "leftover code",
+        "leftover from",
+        "a few leftover"
+      ],
+      "mission": "Find one leftover thing in the codebase and name it."
+    },
+    {
+      "word": "comprehensive",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˌkɒm.prɪˈhen.sɪv/",
+      "theme": "Code review and giving feedback",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "false-friend",
+      "trap": "Not 'compréhensif' (understanding, kind) — for that say understanding. Comprehensive means complete.",
+      "definition": "including everything that is needed; complete.",
+      "examples": [
+        "The tests aren't comprehensive — no negative cases.",
+        "She wrote a comprehensive guide to the release process."
+      ],
+      "collocations": [
+        "comprehensive tests",
+        "a comprehensive guide",
+        "not comprehensive"
+      ],
+      "mission": "Say whether one test suite is comprehensive, and what is missing."
+    },
+    {
+      "word": "nitpick",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/ˈnɪt.pɪk/",
+      "theme": "Code review and giving feedback",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to criticise very small details that do not really matter.",
+      "examples": [
+        "Not to nitpick, but the log level should be debug.",
+        "He nitpicks every variable name."
+      ],
+      "forms": [
+        "nitpicks",
+        "nitpicking",
+        "nitpicked"
+      ],
+      "collocations": [
+        "not to nitpick, but",
+        "nitpick every",
+        "a nitpick"
+      ],
+      "mission": "Label one small comment 'nitpick:' so nobody treats it as a blocker."
+    },
+    {
+      "word": "good catch",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌɡʊd ˈkætʃ/",
+      "theme": "Code review and giving feedback",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "said to thank someone who noticed a mistake or a risk before it caused harm.",
+      "examples": [
+        "Good catch — that would have deleted the table.",
+        "Good catch on the timezone bug."
+      ],
+      "collocations": [
+        "good catch",
+        "nice catch",
+        "good catch on"
+      ],
+      "mission": "Say 'good catch' to the next person who finds your mistake."
+    },
+    {
+      "word": "polish",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/ˈpɒl.ɪʃ/",
+      "theme": "Code review and giving feedback",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "partial",
+      "trap": "Say /ˈpɒl.ɪʃ/ with a short o — not like the country, Polish /ˈpəʊ.lɪʃ/.",
+      "definition": "to improve something that already works by fixing the small details.",
+      "examples": [
+        "Let's polish the error messages before the demo.",
+        "The feature works; it just needs polishing."
+      ],
+      "forms": [
+        "polished",
+        "polishing",
+        "polishes"
+      ],
+      "collocations": [
+        "polish the messages",
+        "needs polishing",
+        "a bit of polish"
+      ],
+      "mission": "Say what you would polish if you had one more hour."
+    },
+    {
+      "word": "on the fence",
+      "type": "chunk",
+      "pos": "adjective",
+      "ipa": "/ˌɒn ðə ˈfens/",
+      "theme": "Code review and giving feedback",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "not able to decide between two options.",
+      "examples": [
+        "I'm on the fence about the new library.",
+        "The team is still on the fence about monorepos."
+      ],
+      "collocations": [
+        "on the fence about",
+        "still on the fence"
+      ],
+      "mission": "Say what you are on the fence about, and what would decide it."
+    },
+    {
+      "word": "mess",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/mes/",
+      "theme": "Code review and giving feedback",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "a situation or thing that is untidy, confused or badly organised.",
+      "examples": [
+        "The branch history is a mess after the rebase.",
+        "Sorry about the mess in the test folder."
+      ],
+      "collocations": [
+        "a mess",
+        "a bit of a mess",
+        "clean up the mess"
+      ],
+      "mission": "Call one thing a mess and offer to clean it up."
+    },
+    {
+      "word": "nudge",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/nʌdʒ/",
+      "theme": "Code review and giving feedback",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to gently remind or push someone to do something.",
+      "examples": [
+        "Can you nudge Sam about the review?",
+        "A friendly nudge: the PR has been open for a week."
+      ],
+      "forms": [
+        "nudged",
+        "nudging",
+        "nudges"
+      ],
+      "collocations": [
+        "nudge someone about",
+        "a gentle nudge",
+        "a friendly nudge"
+      ],
+      "mission": "Nudge one person about one thing, politely."
+    },
+    {
+      "word": "at first glance",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/ət ˌfɜːst ˈɡlɑːns/",
+      "theme": "Code review and giving feedback",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "when you look at something quickly for the first time, before checking properly.",
+      "examples": [
+        "At first glance the PR looks fine.",
+        "It seemed simple at first glance."
+      ],
+      "collocations": [
+        "at first glance",
+        "at first glance it looks"
+      ],
+      "mission": "Start one review comment with 'at first glance …'."
+    },
+    {
+      "word": "reach out",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌriːtʃ ˈaʊt/",
+      "theme": "Writing to a client",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to contact someone, especially to offer or ask for help.",
+      "examples": [
+        "I'll reach out to the client about the new date.",
+        "Feel free to reach out if anything is unclear."
+      ],
+      "forms": [
+        "reached out",
+        "reaching out",
+        "reaches out"
+      ],
+      "collocations": [
+        "reach out to",
+        "feel free to reach out",
+        "reached out"
+      ],
+      "mission": "Reach out to one person you have been meaning to contact."
+    },
+    {
+      "word": "attachment",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/əˈtætʃ.mənt/",
+      "theme": "Writing to a client",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "partial",
+      "trap": "'Pièce jointe' is attachment, not 'joined piece'; and the verb is attach: 'I've attached the file'.",
+      "definition": "a file sent together with an email.",
+      "examples": [
+        "Please find the invoice in the attachment.",
+        "The attachment was too big for their mail server."
+      ],
+      "forms": [
+        "attachments"
+      ],
+      "collocations": [
+        "in the attachment",
+        "see attachment",
+        "as an attachment"
+      ],
+      "mission": "Write 'please find the report attached' in one email today."
+    },
+    {
+      "word": "as discussed",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/əz dɪˈskʌst/",
+      "theme": "Writing to a client",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "used at the start of a message to refer to what was agreed in a conversation.",
+      "examples": [
+        "As discussed, we'll deliver phase one on the 20th.",
+        "As discussed on the call, here are the options."
+      ],
+      "collocations": [
+        "as discussed",
+        "as discussed on the call",
+        "as discussed yesterday"
+      ],
+      "mission": "Start one email with 'as discussed, …'."
+    },
+    {
+      "word": "chase",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/tʃeɪs/",
+      "theme": "Writing to a client",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to contact someone again because you are still waiting for their answer or action.",
+      "examples": [
+        "I'll chase the client for the signed contract.",
+        "Sorry to chase, but do you have the access details?"
+      ],
+      "forms": [
+        "chased",
+        "chasing",
+        "chases"
+      ],
+      "collocations": [
+        "chase someone for",
+        "sorry to chase",
+        "chase it up"
+      ],
+      "mission": "Chase one open request with 'sorry to chase, but …'."
+    },
+    {
+      "word": "no rush",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌnəʊ ˈrʌʃ/",
+      "theme": "Writing to a client",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "said to tell someone they do not need to do something quickly.",
+      "examples": [
+        "No rush — any time this week is fine.",
+        "There's no rush on the feedback."
+      ],
+      "collocations": [
+        "no rush",
+        "no rush at all",
+        "there's no rush"
+      ],
+      "mission": "Add 'no rush' to one request that is not urgent."
+    },
+    {
+      "word": "deliverable",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/dɪˈlɪv.ər.ə.bəl/",
+      "theme": "Writing to a client",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "partial",
+      "trap": "Stress the second syllable: de-LIV-erable.",
+      "definition": "a specific piece of work that a project must produce and hand over.",
+      "examples": [
+        "The first deliverable is the data model.",
+        "Each deliverable has a date and an owner."
+      ],
+      "forms": [
+        "deliverables"
+      ],
+      "collocations": [
+        "the first deliverable",
+        "a key deliverable",
+        "deliverables and dates"
+      ],
+      "mission": "Name the next deliverable and its date in one sentence."
+    },
+    {
+      "word": "demand",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/dɪˈmɑːnd/",
+      "theme": "Writing to a client",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "false-friend",
+      "trap": "Not 'demander' (to ask) — for that say ask or request. Demand is forceful, almost rude.",
+      "definition": "to ask for something very firmly, as if you have the right to it.",
+      "examples": [
+        "The client is demanding a refund for the downtime.",
+        "Never write 'I demand' in an email — it sounds like a threat."
+      ],
+      "forms": [
+        "demanded",
+        "demanding",
+        "demands"
+      ],
+      "collocations": [
+        "demand a refund",
+        "demand an answer",
+        "demanding that"
+      ],
+      "mission": "Check one email: did you mean 'ask' where you wrote 'demand'?"
+    },
+    {
+      "word": "follow-up",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈfɒl.əʊ.ʌp/",
+      "theme": "Writing to a client",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a message or action that continues something started earlier.",
+      "examples": [
+        "Quick follow-up on yesterday's call: any news?",
+        "I'll send a follow-up with the numbers."
+      ],
+      "forms": [
+        "follow-ups"
+      ],
+      "collocations": [
+        "a quick follow-up",
+        "follow-up on",
+        "a follow-up email"
+      ],
+      "mission": "Send one follow-up on something that went quiet."
+    },
+    {
+      "word": "by end of day",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/baɪ ˌend əv ˈdeɪ/",
+      "theme": "Writing to a client",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "before the end of today's working hours; often written EOD.",
+      "examples": [
+        "I'll send the draft by end of day.",
+        "Can we have your feedback by end of day Thursday?"
+      ],
+      "collocations": [
+        "by end of day",
+        "by end of day Thursday",
+        "EOD"
+      ],
+      "mission": "Promise one thing by end of day — then deliver it."
+    },
+    {
+      "word": "ping",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/pɪŋ/",
+      "theme": "Writing to a client",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Informal: fine in chat; in a client email say 'let me know'.",
+      "definition": "to send someone a short message to get their attention.",
+      "examples": [
+        "Ping me when the build is green.",
+        "I pinged her twice, no answer yet."
+      ],
+      "forms": [
+        "pinged",
+        "pinging",
+        "pings"
+      ],
+      "collocations": [
+        "ping me when",
+        "pinged him",
+        "just pinging you"
+      ],
+      "mission": "Say 'ping me when …' instead of 'tell me when'."
+    },
+    {
+      "word": "kind regards",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌkaɪnd rɪˈɡɑːdz/",
+      "theme": "Writing to a client",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Not 'cordialement' translated as 'cordially' — that sounds odd in English. Use kind regards or best regards.",
+      "definition": "a polite, neutral way to end a professional email.",
+      "examples": [
+        "Kind regards, Nour.",
+        "'Kind regards' is safe for any client email."
+      ],
+      "collocations": [
+        "kind regards",
+        "best regards",
+        "regards"
+      ],
+      "mission": "End one email with 'kind regards' instead of 'cordially'."
+    },
+    {
+      "word": "in the meantime",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/ɪn ðə ˈmiːn.taɪm/",
+      "theme": "Writing to a client",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "during the time before something else happens.",
+      "examples": [
+        "In the meantime, please use the old login page.",
+        "The fix ships Monday; in the meantime here's a workaround."
+      ],
+      "collocations": [
+        "in the meantime",
+        "in the meantime, please"
+      ],
+      "mission": "Use 'in the meantime' to say what happens while people wait."
+    },
+    {
+      "word": "loop in",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌluːp ˈɪn/",
+      "theme": "Writing to a client",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to include someone in a conversation or email so they know what is happening.",
+      "examples": [
+        "Let me loop in our security lead.",
+        "Looping in Sara, who owns the billing side."
+      ],
+      "forms": [
+        "looped in",
+        "looping in",
+        "loops in"
+      ],
+      "collocations": [
+        "loop in",
+        "looping in",
+        "loop her in"
+      ],
+      "mission": "Loop one person in with a one-line reason why."
+    },
+    {
+      "word": "gentle reminder",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˌdʒen.tl̩ rɪˈmaɪn.də/",
+      "theme": "Writing to a client",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a polite message reminding someone of something they may have forgotten.",
+      "examples": [
+        "Gentle reminder: the survey closes on Friday.",
+        "Just a gentle reminder about the invoice."
+      ],
+      "collocations": [
+        "gentle reminder",
+        "just a gentle reminder",
+        "a friendly reminder"
+      ],
+      "mission": "Send one gentle reminder instead of waiting in silence."
+    },
+    {
+      "word": "go ahead",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌɡəʊ əˈhed/",
+      "theme": "Running a meeting",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to start or continue doing something; also said to give someone permission to speak.",
+      "examples": [
+        "Go ahead, Karim — you had your hand up.",
+        "We went ahead with the rename after the vote."
+      ],
+      "forms": [
+        "went ahead",
+        "going ahead",
+        "goes ahead"
+      ],
+      "collocations": [
+        "go ahead with",
+        "go ahead, …",
+        "went ahead"
+      ],
+      "mission": "Say 'go ahead' to hand someone the floor."
+    },
+    {
+      "word": "takeaway",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈteɪk.ə.weɪ/",
+      "theme": "Running a meeting",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "the main point or lesson you should remember from a meeting or a document.",
+      "examples": [
+        "The key takeaway: we ship weekly from now on.",
+        "Three takeaways from the retro, in the notes."
+      ],
+      "forms": [
+        "takeaways"
+      ],
+      "collocations": [
+        "the key takeaway",
+        "three takeaways",
+        "main takeaway"
+      ],
+      "mission": "End one meeting by naming the key takeaway."
+    },
+    {
+      "word": "move on",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌmuːv ˈɒn/",
+      "theme": "Running a meeting",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to stop discussing one thing and start the next.",
+      "examples": [
+        "Let's move on — we can park the naming debate.",
+        "We moved on to the budget after twenty minutes."
+      ],
+      "forms": [
+        "moved on",
+        "moving on",
+        "moves on"
+      ],
+      "collocations": [
+        "let's move on",
+        "move on to",
+        "moved on"
+      ],
+      "mission": "Say 'let's move on' once when a discussion goes in circles."
+    },
+    {
+      "word": "off-topic",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˌɒf ˈtɒp.ɪk/",
+      "theme": "Running a meeting",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "not related to the subject being discussed.",
+      "examples": [
+        "Slightly off-topic, but who owns the DNS?",
+        "That's off-topic for today — let's take it to Slack."
+      ],
+      "collocations": [
+        "slightly off-topic",
+        "off-topic for today",
+        "go off-topic"
+      ],
+      "mission": "Flag one of your own remarks as 'slightly off-topic' before making it."
+    },
+    {
+      "word": "take it offline",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˌteɪk ɪt ˈɒf.laɪn/",
+      "theme": "Running a meeting",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to continue a discussion later, in a smaller group, instead of in the current meeting.",
+      "examples": [
+        "Let's take it offline and decide by tomorrow.",
+        "They took it offline and came back with a plan."
+      ],
+      "forms": [
+        "took it offline",
+        "taking it offline"
+      ],
+      "collocations": [
+        "take it offline",
+        "let's take it offline",
+        "took it offline"
+      ],
+      "mission": "Suggest taking one long side-discussion offline."
+    },
+    {
+      "word": "action item",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˈæk.ʃən ˌaɪ.təm/",
+      "theme": "Running a meeting",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a specific task agreed in a meeting, with a person responsible for it.",
+      "examples": [
+        "Action item for me: send the access list by Friday.",
+        "Every action item needs an owner and a date."
+      ],
+      "forms": [
+        "action items"
+      ],
+      "collocations": [
+        "action item for",
+        "an action item",
+        "action items and owners"
+      ],
+      "mission": "Leave one meeting with an action item that has your name on it."
+    },
+    {
+      "word": "agenda",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/əˈdʒen.də/",
+      "theme": "Running a meeting",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "false-friend",
+      "trap": "Not 'agenda' in French (your diary or calendar) — for that say diary or calendar. An agenda is the list of topics.",
+      "definition": "the list of things to discuss in a meeting.",
+      "examples": [
+        "Can you add the on-call topic to the agenda?",
+        "The agenda has three items; we have thirty minutes."
+      ],
+      "forms": [
+        "agendas"
+      ],
+      "collocations": [
+        "on the agenda",
+        "add to the agenda",
+        "the agenda for"
+      ],
+      "mission": "Send an agenda before your next meeting, even a three-line one."
+    },
+    {
+      "word": "wrap up",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌræp ˈʌp/",
+      "theme": "Running a meeting",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to finish a meeting or a piece of work, usually with a short summary.",
+      "examples": [
+        "Let's wrap up — three minutes left.",
+        "We wrapped up early because two people had to leave."
+      ],
+      "forms": [
+        "wrapped up",
+        "wrapping up",
+        "wraps up"
+      ],
+      "collocations": [
+        "let's wrap up",
+        "wrap up the meeting",
+        "wrapped up early"
+      ],
+      "mission": "Wrap up one meeting yourself with a two-line summary."
+    },
+    {
+      "word": "run over",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌrʌn ˈəʊ.və/",
+      "theme": "Running a meeting",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to continue past the planned end time.",
+      "examples": [
+        "We're running over — can we finish in Slack?",
+        "The demo ran over by fifteen minutes."
+      ],
+      "forms": [
+        "ran over",
+        "running over",
+        "runs over"
+      ],
+      "collocations": [
+        "running over",
+        "ran over by",
+        "run over time"
+      ],
+      "mission": "Warn a meeting that it is running over, and propose what to cut."
+    },
+    {
+      "word": "quick one",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˌkwɪk ˈwʌn/",
+      "theme": "Running a meeting",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a short question or point that will not take long.",
+      "examples": [
+        "Just a quick one: is the staging URL still the same?",
+        "Two quick ones before we finish."
+      ],
+      "collocations": [
+        "just a quick one",
+        "a quick one before",
+        "two quick ones"
+      ],
+      "mission": "Ask 'just a quick one' before a short question, once."
+    },
+    {
+      "word": "you're on mute",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/jɔːr ɒn ˈmjuːt/",
+      "theme": "Running a meeting",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "said on a video call to tell someone their microphone is off.",
+      "examples": [
+        "Sam, you're on mute.",
+        "Sorry — I was on mute the whole time."
+      ],
+      "collocations": [
+        "you're on mute",
+        "I was on mute",
+        "still on mute"
+      ],
+      "mission": "Say it kindly, early, to whoever needs it this week."
+    },
+    {
+      "word": "sharp",
+      "type": "word",
+      "pos": "adverb",
+      "ipa": "/ʃɑːp/",
+      "theme": "Running a meeting",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Only after a time: 'ten sharp'. Elsewhere sharp is an adjective (a sharp knife).",
+      "definition": "exactly at the time stated; not a minute later.",
+      "examples": [
+        "We start at ten sharp.",
+        "The demo is at 2 p.m. sharp, so join early."
+      ],
+      "collocations": [
+        "at ten sharp",
+        "2 p.m. sharp",
+        "start sharp"
+      ],
+      "mission": "Set one meeting time with 'sharp' and start on time."
+    },
+    {
+      "word": "drop off",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌdrɒp ˈɒf/",
+      "theme": "Running a meeting",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to leave a call or meeting before it ends.",
+      "examples": [
+        "I'll drop off at half past — another call.",
+        "Two people dropped off before the decision."
+      ],
+      "forms": [
+        "dropped off",
+        "dropping off",
+        "drops off"
+      ],
+      "collocations": [
+        "drop off at",
+        "I'll drop off",
+        "dropped off early"
+      ],
+      "mission": "Say when you will drop off, before the meeting starts."
+    },
+    {
+      "word": "back-to-back",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˌbæk.təˈbæk/",
+      "theme": "Running a meeting",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "happening one straight after another, with no break between.",
+      "examples": [
+        "I have back-to-back meetings until three.",
+        "Two back-to-back demos, then lunch."
+      ],
+      "collocations": [
+        "back-to-back meetings",
+        "back-to-back calls",
+        "in back-to-back"
+      ],
+      "mission": "Tell someone you are back-to-back until a time, and offer another slot."
+    },
+    {
+      "word": "postpone",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/pəʊstˈpəʊn/",
+      "theme": "Deadlines and priorities",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "partial",
+      "trap": "Not 'reporter' translated as 'report' — say postpone, or put off.",
+      "definition": "to move something to a later time or date.",
+      "examples": [
+        "Can we postpone the demo until the data is ready?",
+        "The launch was postponed twice this year."
+      ],
+      "forms": [
+        "postponed",
+        "postponing",
+        "postpones"
+      ],
+      "collocations": [
+        "postpone the demo",
+        "postpone until",
+        "was postponed"
+      ],
+      "mission": "Postpone one thing openly, with a new date, instead of letting it slide."
+    },
+    {
+      "word": "crunch",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/krʌntʃ/",
+      "theme": "Deadlines and priorities",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a short period of very intense work just before a deadline.",
+      "examples": [
+        "We're in crunch until the release on Friday.",
+        "Crunch every quarter means the estimates are wrong."
+      ],
+      "collocations": [
+        "in crunch",
+        "crunch time",
+        "crunch before"
+      ],
+      "mission": "Say whether your team is in crunch, and why it happened."
+    },
+    {
+      "word": "push back",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌpʊʃ ˈbæk/",
+      "theme": "Deadlines and priorities",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Two senses: to delay a date (here), and to disagree politely ('push back on an idea').",
+      "definition": "to move a date or deadline to a later time.",
+      "examples": [
+        "We pushed the deadline back a week.",
+        "Can we push the review back to Thursday?"
+      ],
+      "forms": [
+        "pushed back",
+        "pushing back",
+        "pushes back",
+        "pushed the deadline back",
+        "push the review back"
+      ],
+      "collocations": [
+        "push the deadline back",
+        "push back a week",
+        "pushed back to"
+      ],
+      "mission": "Ask to push one date back, with the reason in the same sentence."
+    },
+    {
+      "word": "overdue",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˌəʊ.vəˈdjuː/",
+      "theme": "Deadlines and priorities",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "not done or paid by the time it should have been.",
+      "examples": [
+        "The invoice is two weeks overdue.",
+        "A cleanup of that module is long overdue."
+      ],
+      "collocations": [
+        "two weeks overdue",
+        "long overdue",
+        "overdue invoice"
+      ],
+      "mission": "Name one thing that is overdue and give it a date."
+    },
+    {
+      "word": "bump",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/bʌmp/",
+      "theme": "Deadlines and priorities",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to move something up or down in priority, or to a later date.",
+      "examples": [
+        "Let's bump the logging ticket up to this sprint.",
+        "They bumped our request down again."
+      ],
+      "forms": [
+        "bumped",
+        "bumping",
+        "bumps"
+      ],
+      "collocations": [
+        "bump up",
+        "bump down",
+        "bump the ticket"
+      ],
+      "mission": "Bump one ticket up or down and say why in the comment."
+    },
+    {
+      "word": "must-have",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˈmʌst.hæv/",
+      "theme": "Deadlines and priorities",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "something that is essential, not optional.",
+      "examples": [
+        "Login is a must-have; dark mode is a nice-to-have.",
+        "List the must-haves before we talk about dates."
+      ],
+      "forms": [
+        "must-haves"
+      ],
+      "collocations": [
+        "a must-have",
+        "must-have vs nice-to-have",
+        "the must-haves"
+      ],
+      "mission": "Split one feature list into must-haves and nice-to-haves."
+    },
+    {
+      "word": "actual",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˈæk.tʃu.əl/",
+      "theme": "Deadlines and priorities",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "false-friend",
+      "trap": "Not 'actuel' (current) — for that say current. Actual means real.",
+      "definition": "real and exact, as opposed to estimated or expected.",
+      "examples": [
+        "The actual cost was twice the estimate.",
+        "We need actual numbers, not projections."
+      ],
+      "collocations": [
+        "the actual cost",
+        "actual numbers",
+        "in actual fact"
+      ],
+      "mission": "Compare one estimate with the actual figure, in one sentence."
+    },
+    {
+      "word": "juggle",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/ˈdʒʌɡ.əl/",
+      "theme": "Deadlines and priorities",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to try to deal with several tasks or responsibilities at the same time.",
+      "examples": [
+        "I'm juggling three projects this month.",
+        "She juggles support and development every week."
+      ],
+      "forms": [
+        "juggling",
+        "juggled",
+        "juggles"
+      ],
+      "collocations": [
+        "juggle three projects",
+        "juggling",
+        "juggle priorities"
+      ],
+      "mission": "Say what you are juggling, and which one should drop."
+    },
+    {
+      "word": "ASAP",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/ˌeɪ.es.eɪˈpiː/",
+      "theme": "Deadlines and priorities",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "as soon as possible.",
+      "examples": [
+        "Please send the logs ASAP.",
+        "Fix it ASAP, but not at the cost of a proper test."
+      ],
+      "collocations": [
+        "ASAP",
+        "send it ASAP",
+        "needed ASAP"
+      ],
+      "mission": "Use ASAP once — and only if it is true."
+    },
+    {
+      "word": "slip",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/slɪp/",
+      "theme": "Deadlines and priorities",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to move later than planned, usually without a clear decision.",
+      "examples": [
+        "The date has slipped twice already.",
+        "If the migration slips, the demo slips."
+      ],
+      "forms": [
+        "slipped",
+        "slipping",
+        "slips"
+      ],
+      "collocations": [
+        "the date slipped",
+        "slip by a week",
+        "let it slip"
+      ],
+      "mission": "Say which date is at risk of slipping, before it does."
+    },
+    {
+      "word": "last-minute",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˌlɑːst ˈmɪn.ɪt/",
+      "theme": "Deadlines and priorities",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "done or happening at the latest possible time, just before a deadline.",
+      "examples": [
+        "A last-minute change broke the build.",
+        "No last-minute requests on release day, please."
+      ],
+      "collocations": [
+        "a last-minute change",
+        "last-minute requests",
+        "at the last minute"
+      ],
+      "mission": "Name one last-minute change and what it cost."
+    },
+    {
+      "word": "cut it fine",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˌkʌt ɪt ˈfaɪn/",
+      "theme": "Deadlines and priorities",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to leave yourself only just enough time to do something.",
+      "examples": [
+        "Deploying at five on a Friday is cutting it fine.",
+        "We cut it fine, but the demo worked."
+      ],
+      "forms": [
+        "cutting it fine",
+        "cuts it fine"
+      ],
+      "collocations": [
+        "cutting it fine",
+        "cut it a bit fine",
+        "cut it fine"
+      ],
+      "mission": "Say where the plan is cutting it fine."
+    },
+    {
+      "word": "on hold",
+      "type": "chunk",
+      "pos": "adjective",
+      "ipa": "/ɒn ˈhəʊld/",
+      "theme": "Deadlines and priorities",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "stopped for now, to be continued later.",
+      "examples": [
+        "The redesign is on hold until Q1.",
+        "Put the migration on hold — the vendor is changing the API."
+      ],
+      "collocations": [
+        "on hold until",
+        "put it on hold",
+        "still on hold"
+      ],
+      "mission": "Say what is on hold, and what would restart it."
+    },
+    {
+      "word": "the sooner the better",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ðə ˌsuː.nə ðə ˈbet.ə/",
+      "theme": "Deadlines and priorities",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "said to mean that doing something early is best.",
+      "examples": [
+        "Tell the client now — the sooner the better.",
+        "The sooner the better for the security patch."
+      ],
+      "collocations": [
+        "the sooner the better",
+        "the sooner the better for"
+      ],
+      "mission": "Answer one 'when?' with 'the sooner the better'."
     }
   ]
 }
