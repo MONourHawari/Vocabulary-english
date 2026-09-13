@@ -2960,6 +2960,1662 @@
         "the sooner the better for"
       ],
       "mission": "Answer one 'when?' with 'the sooner the better'."
+    },
+    {
+      "word": "add up",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌæd ˈʌp/",
+      "theme": "Numbers and data",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to make sense as a total, or as a story; often used in the negative when numbers seem wrong.",
+      "examples": [
+        "The numbers don't add up — we're missing a day.",
+        "Small delays add up over a quarter."
+      ],
+      "forms": [
+        "adds up",
+        "added up",
+        "adding up"
+      ],
+      "collocations": [
+        "the numbers don't add up",
+        "it doesn't add up",
+        "add up over time"
+      ],
+      "mission": "Say 'it doesn't add up' once when a total looks wrong, then show why."
+    },
+    {
+      "word": "spike",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/spaɪk/",
+      "theme": "Numbers and data",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a sudden, sharp increase that does not last long.",
+      "examples": [
+        "There's a spike in errors every day at nine.",
+        "The traffic spike matched the newsletter send."
+      ],
+      "forms": [
+        "spikes"
+      ],
+      "collocations": [
+        "a spike in errors",
+        "a traffic spike",
+        "a sudden spike"
+      ],
+      "mission": "Point at one spike in a graph and say what caused it."
+    },
+    {
+      "word": "downturn",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈdaʊn.tɜːn/",
+      "theme": "Numbers and data",
+      "level": "C1",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "a period when numbers such as sales or usage go down.",
+      "examples": [
+        "We saw a downturn in sign-ups after the price change.",
+        "The downturn lasted two quarters."
+      ],
+      "forms": [
+        "downturns"
+      ],
+      "collocations": [
+        "a downturn in",
+        "the downturn lasted",
+        "a sharp downturn"
+      ],
+      "mission": "Name one downturn in your metrics and its likely cause."
+    },
+    {
+      "word": "steady",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˈsted.i/",
+      "theme": "Numbers and data",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "growing, moving or happening at a regular rate, without sudden changes.",
+      "examples": [
+        "Usage is steady at about two thousand a day.",
+        "We want steady growth, not one big spike."
+      ],
+      "collocations": [
+        "steady growth",
+        "steady at",
+        "a steady rate"
+      ],
+      "mission": "Describe one number as steady, and say over what period."
+    },
+    {
+      "word": "break even",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˌbreɪk ˈiː.vən/",
+      "theme": "Numbers and data",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to earn exactly as much as you spend, with no profit and no loss.",
+      "examples": [
+        "The project should break even in month eight.",
+        "We broke even last year, just about."
+      ],
+      "forms": [
+        "broke even",
+        "breaking even",
+        "breaks even",
+        "break-even"
+      ],
+      "collocations": [
+        "break even in",
+        "broke even",
+        "the break-even point"
+      ],
+      "mission": "Say when one project is expected to break even."
+    },
+    {
+      "word": "outlier",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈaʊtˌlaɪ.ə/",
+      "theme": "Numbers and data",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a value that is very different from the others in a set of data.",
+      "examples": [
+        "One customer is an outlier — ignore them for the average.",
+        "Remove the outliers before you compute the median."
+      ],
+      "forms": [
+        "outliers"
+      ],
+      "collocations": [
+        "an outlier",
+        "remove the outliers",
+        "a clear outlier"
+      ],
+      "mission": "Find one outlier in your data and say whether it is real."
+    },
+    {
+      "word": "figure",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈfɪɡ.ə/",
+      "theme": "Numbers and data",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "false-friend",
+      "trap": "Not 'figure' in French (the face) — for that say face. A figure is a number; the verb 'figure out' is different again.",
+      "definition": "a number, especially one that is an official amount or total.",
+      "examples": [
+        "Do we have a figure for last month's churn?",
+        "The exact figures are in the spreadsheet."
+      ],
+      "forms": [
+        "figures"
+      ],
+      "collocations": [
+        "the exact figures",
+        "a figure for",
+        "sales figures"
+      ],
+      "mission": "Ask for a figure, not 'a number', once today."
+    },
+    {
+      "word": "skew",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/skjuː/",
+      "theme": "Numbers and data",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to change data so it gives a false or unbalanced picture.",
+      "examples": [
+        "The bot traffic skews the conversion rate.",
+        "One big client skews the average order value."
+      ],
+      "forms": [
+        "skews",
+        "skewed",
+        "skewing"
+      ],
+      "collocations": [
+        "skew the results",
+        "skew the average",
+        "skewed by"
+      ],
+      "mission": "Say what might be skewing one metric you report."
+    },
+    {
+      "word": "in the region of",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/ɪn ðə ˈriː.dʒən əv/",
+      "theme": "Numbers and data",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "approximately; used before an amount that is not exact.",
+      "examples": [
+        "We're looking at something in the region of five days.",
+        "Costs were in the region of ten thousand."
+      ],
+      "collocations": [
+        "in the region of",
+        "somewhere in the region of"
+      ],
+      "mission": "Give one estimate as 'in the region of …'."
+    },
+    {
+      "word": "gut feeling",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˌɡʌt ˈfiː.lɪŋ/",
+      "theme": "Numbers and data",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a feeling that something is true, without proof or data.",
+      "examples": [
+        "My gut feeling is that the cache is the problem.",
+        "It was only a gut feeling, but the data backed it up."
+      ],
+      "forms": [
+        "gut feelings"
+      ],
+      "collocations": [
+        "my gut feeling is",
+        "a gut feeling that",
+        "only a gut feeling"
+      ],
+      "mission": "Share one gut feeling, clearly labelled as one, then check it."
+    },
+    {
+      "word": "more or less",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/ˌmɔːr ɔː ˈles/",
+      "theme": "Numbers and data",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "approximately; not exactly, but close enough to be true.",
+      "examples": [
+        "The two reports say more or less the same thing.",
+        "It's done, more or less — just the docs left."
+      ],
+      "collocations": [
+        "more or less the same",
+        "more or less done",
+        "more or less"
+      ],
+      "mission": "Use 'more or less' once instead of 'approximately'."
+    },
+    {
+      "word": "cap",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/kæp/",
+      "theme": "Numbers and data",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to set an upper limit on an amount.",
+      "examples": [
+        "Let's cap the retries at three.",
+        "Spending is capped at the approved budget."
+      ],
+      "forms": [
+        "capped",
+        "capping",
+        "caps"
+      ],
+      "collocations": [
+        "cap at",
+        "capped at",
+        "cap the number of"
+      ],
+      "mission": "Say what you would cap, and at what number."
+    },
+    {
+      "word": "a fair amount",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ə ˌfeər əˈmaʊnt/",
+      "theme": "Numbers and data",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "quite a lot, without being precise.",
+      "examples": [
+        "There's a fair amount of duplicate data in there.",
+        "It took a fair amount of time to clean up."
+      ],
+      "collocations": [
+        "a fair amount of",
+        "a fair amount of time",
+        "a fair amount of work"
+      ],
+      "mission": "Say 'a fair amount' where you would have said 'a lot'."
+    },
+    {
+      "word": "way off",
+      "type": "chunk",
+      "pos": "adjective",
+      "ipa": "/ˌweɪ ˈɒf/",
+      "theme": "Numbers and data",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "very wrong; far from the correct value.",
+      "examples": [
+        "My estimate was way off — it took three weeks.",
+        "The forecast wasn't way off, just a bit optimistic."
+      ],
+      "collocations": [
+        "way off",
+        "way off the mark",
+        "not way off"
+      ],
+      "mission": "Admit one estimate that was way off, with the real number."
+    },
+    {
+      "word": "trade-off",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈtreɪd.ɒf/",
+      "theme": "Explaining a decision",
+      "level": "C1",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "a situation where you accept losing one good thing to gain another.",
+      "examples": [
+        "It's a trade-off: faster releases, fewer manual checks.",
+        "Every architecture is a trade-off; name yours."
+      ],
+      "forms": [
+        "trade-offs"
+      ],
+      "collocations": [
+        "a trade-off between",
+        "it's a trade-off",
+        "accept a trade-off"
+      ],
+      "mission": "Explain one decision as a trade-off, both sides in one sentence."
+    },
+    {
+      "word": "go with",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˈɡəʊ wɪð/",
+      "theme": "Explaining a decision",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to choose one option among several.",
+      "examples": [
+        "We went with Postgres because the team knows it.",
+        "Let's go with the simpler design for now."
+      ],
+      "forms": [
+        "went with",
+        "going with",
+        "goes with"
+      ],
+      "collocations": [
+        "go with the simpler",
+        "went with",
+        "go with option B"
+      ],
+      "mission": "Say which option you would go with, and the one reason."
+    },
+    {
+      "word": "in the long run",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/ɪn ðə ˌlɒŋ ˈrʌn/",
+      "theme": "Explaining a decision",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "over a long period of time, after the first effects have passed.",
+      "examples": [
+        "It costs more now but saves time in the long run.",
+        "In the long run, one codebase is easier to maintain."
+      ],
+      "collocations": [
+        "in the long run",
+        "cheaper in the long run",
+        "in the short run"
+      ],
+      "mission": "Contrast 'now' and 'in the long run' for one decision."
+    },
+    {
+      "word": "settle on",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˈset.l̩ ɒn/",
+      "theme": "Explaining a decision",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to finally choose something after discussing several options.",
+      "examples": [
+        "We settled on a two-week cadence.",
+        "After an hour we settled on the boring name."
+      ],
+      "forms": [
+        "settled on",
+        "settling on",
+        "settles on"
+      ],
+      "collocations": [
+        "settle on a date",
+        "settled on",
+        "settle on the name"
+      ],
+      "mission": "Say what your team finally settled on, and when."
+    },
+    {
+      "word": "the bottom line",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ðə ˌbɒt.əm ˈlaɪn/",
+      "theme": "Explaining a decision",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "the most important point, or the final result, after everything else is considered.",
+      "examples": [
+        "The bottom line: we can't ship without the audit.",
+        "The bottom line is cost, not taste."
+      ],
+      "collocations": [
+        "the bottom line is",
+        "the bottom line:",
+        "bottom line"
+      ],
+      "mission": "Finish one explanation with 'the bottom line is …'."
+    },
+    {
+      "word": "lean towards",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˌliːn təˈwɔːdz/",
+      "theme": "Explaining a decision",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to slightly prefer one option, without having decided yet.",
+      "examples": [
+        "I'm leaning towards the managed service.",
+        "The team leans towards keeping the monolith."
+      ],
+      "forms": [
+        "leaning towards",
+        "leans towards",
+        "leaned towards"
+      ],
+      "collocations": [
+        "lean towards",
+        "leaning towards",
+        "leans towards"
+      ],
+      "mission": "Say which way you are leaning before the decision is made."
+    },
+    {
+      "word": "consistent",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/kənˈsɪs.tənt/",
+      "theme": "Explaining a decision",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "false-friend",
+      "trap": "Not 'consistant' (substantial, filling) — for that say substantial. Consistent means the same every time.",
+      "definition": "always behaving or happening the same way; not contradicting itself.",
+      "examples": [
+        "The API isn't consistent — some errors are 400, some 500.",
+        "Be consistent: one date format everywhere."
+      ],
+      "collocations": [
+        "consistent with",
+        "be consistent",
+        "not consistent"
+      ],
+      "mission": "Point out one thing that is not consistent, and propose the rule."
+    },
+    {
+      "word": "back",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/bæk/",
+      "theme": "Explaining a decision",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "none",
+      "trap": "Second sense of a known word: here back is a verb meaning support, not the body part or 'go back'.",
+      "definition": "to support a decision or a person, especially publicly.",
+      "examples": [
+        "I'll back that decision in the review.",
+        "The data backs your point."
+      ],
+      "forms": [
+        "backed",
+        "backing",
+        "backs"
+      ],
+      "collocations": [
+        "back a decision",
+        "back you on",
+        "backed by data"
+      ],
+      "mission": "Back one colleague's decision out loud in a meeting."
+    },
+    {
+      "word": "no-brainer",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˌnəʊˈbreɪ.nə/",
+      "theme": "Explaining a decision",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a decision that is so obvious it needs no thought.",
+      "examples": [
+        "Adding the index is a no-brainer.",
+        "It sounded like a no-brainer until we saw the licence cost."
+      ],
+      "collocations": [
+        "a no-brainer",
+        "it's a no-brainer",
+        "seemed like a no-brainer"
+      ],
+      "mission": "Call one decision a no-brainer and say why."
+    },
+    {
+      "word": "your call",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/jɔː ˈkɔːl/",
+      "theme": "Explaining a decision",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "said to tell someone that the decision belongs to them.",
+      "examples": [
+        "Rename it or not — your call.",
+        "It's your call, but I'd wait a week."
+      ],
+      "collocations": [
+        "your call",
+        "it's your call",
+        "my call"
+      ],
+      "mission": "Hand one decision back with 'your call'."
+    },
+    {
+      "word": "for what it's worth",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/fə ˌwɒt ɪts ˈwɜːθ/",
+      "theme": "Explaining a decision",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "said before an opinion, to show you know it may not matter much.",
+      "examples": [
+        "For what it's worth, I'd keep the old logo.",
+        "For what it's worth, the client liked the first version."
+      ],
+      "collocations": [
+        "for what it's worth",
+        "FWIW"
+      ],
+      "mission": "Offer one opinion starting with 'for what it's worth'."
+    },
+    {
+      "word": "second-guess",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/ˌsek.ənd ˈɡes/",
+      "theme": "Explaining a decision",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to keep doubting a decision after it has been made.",
+      "examples": [
+        "Let's not second-guess the choice — we decided last week.",
+        "She second-guessed herself and reverted the change."
+      ],
+      "forms": [
+        "second-guessed",
+        "second-guessing",
+        "second-guesses"
+      ],
+      "collocations": [
+        "second-guess the decision",
+        "second-guess yourself",
+        "stop second-guessing"
+      ],
+      "mission": "Notice one decision you keep second-guessing, and let it go."
+    },
+    {
+      "word": "boil down to",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˌbɔɪl ˈdaʊn tuː/",
+      "theme": "Explaining a decision",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to have one main reason or point, when everything else is removed.",
+      "examples": [
+        "It boils down to cost versus speed.",
+        "The argument boiled down to who owns the data."
+      ],
+      "forms": [
+        "boils down to",
+        "boiled down to",
+        "boiling down to"
+      ],
+      "collocations": [
+        "it boils down to",
+        "boiled down to",
+        "what it boils down to"
+      ],
+      "mission": "Say what one long debate boils down to, in one line."
+    },
+    {
+      "word": "sound",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/saʊnd/",
+      "theme": "Explaining a decision",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "trap": "Second sense of a known word: sound as an adjective means solid and reasonable, not noise.",
+      "definition": "based on good judgement and reliable reasons.",
+      "examples": [
+        "That's a sound plan — let's go.",
+        "The reasoning is sound even if the numbers are rough."
+      ],
+      "collocations": [
+        "a sound plan",
+        "sound reasoning",
+        "a sound decision"
+      ],
+      "mission": "Call one plan 'sound' and give the reason it is."
+    },
+    {
+      "word": "walk through",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌwɔːk ˈθruː/",
+      "theme": "Onboarding a newcomer",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to explain something step by step, often while showing it.",
+      "examples": [
+        "I'll walk you through the deploy process this afternoon.",
+        "She walked the new hire through the codebase."
+      ],
+      "forms": [
+        "walk you through",
+        "walked the new hire through",
+        "walked through",
+        "walking through",
+        "walkthrough"
+      ],
+      "collocations": [
+        "walk you through",
+        "walk through the process",
+        "a walkthrough"
+      ],
+      "mission": "Walk one person through one process, step by step."
+    },
+    {
+      "word": "the ropes",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ðə ˈrəʊps/",
+      "theme": "Onboarding a newcomer",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "the basic things you need to know to do a job; used with learn or show.",
+      "examples": [
+        "Give her a week to learn the ropes.",
+        "Karim will show you the ropes on support."
+      ],
+      "collocations": [
+        "learn the ropes",
+        "show you the ropes",
+        "know the ropes"
+      ],
+      "mission": "Offer to show someone the ropes on one thing you know well."
+    },
+    {
+      "word": "shadow",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/ˈʃæd.əʊ/",
+      "theme": "Onboarding a newcomer",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to follow someone at work and watch what they do, in order to learn.",
+      "examples": [
+        "Shadow me on the on-call shift this week.",
+        "New hires shadow a senior for two days."
+      ],
+      "forms": [
+        "shadowed",
+        "shadowing",
+        "shadows"
+      ],
+      "collocations": [
+        "shadow someone",
+        "shadow me on",
+        "shadowing"
+      ],
+      "mission": "Invite the newcomer to shadow you on one task."
+    },
+    {
+      "word": "steep learning curve",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˌstiːp ˈlɜː.nɪŋ ˌkɜːv/",
+      "theme": "Onboarding a newcomer",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a situation where you have to learn a lot, quickly, at the beginning.",
+      "examples": [
+        "The build system has a steep learning curve.",
+        "Expect a steep learning curve in the first month."
+      ],
+      "collocations": [
+        "a steep learning curve",
+        "the learning curve",
+        "a gentle learning curve"
+      ],
+      "mission": "Warn a newcomer where the steep learning curve is."
+    },
+    {
+      "word": "pick up",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌpɪk ˈʌp/",
+      "theme": "Onboarding a newcomer",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to learn something new, usually quickly and without formal lessons.",
+      "examples": [
+        "You'll pick up the shortcuts in a few days.",
+        "He picked up the domain language fast."
+      ],
+      "forms": [
+        "picked up",
+        "picking up",
+        "picks up",
+        "pick it up"
+      ],
+      "collocations": [
+        "pick up quickly",
+        "pick it up",
+        "picked up the basics"
+      ],
+      "mission": "Tell someone what they will pick up naturally, and what they must be taught."
+    },
+    {
+      "word": "gotcha",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈɡɒtʃ.ə/",
+      "theme": "Onboarding a newcomer",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a hidden problem or trap that surprises people who do not know about it.",
+      "examples": [
+        "One gotcha: the config is case-sensitive.",
+        "The wiki has a list of gotchas for local setup."
+      ],
+      "forms": [
+        "gotchas"
+      ],
+      "collocations": [
+        "one gotcha",
+        "a list of gotchas",
+        "a common gotcha"
+      ],
+      "mission": "Write down one gotcha you wish someone had told you."
+    },
+    {
+      "word": "attend",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/əˈtend/",
+      "theme": "Onboarding a newcomer",
+      "level": "B1",
+      "source": "Oxford 3000",
+      "cognate": "false-friend",
+      "trap": "Not 'attendre' (to wait) — for that say wait. Attend means be present at.",
+      "definition": "to be present at a meeting, event or course.",
+      "examples": [
+        "Please attend the security training on Tuesday.",
+        "Only half the team attended the retro."
+      ],
+      "forms": [
+        "attended",
+        "attending",
+        "attends"
+      ],
+      "collocations": [
+        "attend the training",
+        "attend a meeting",
+        "attended"
+      ],
+      "mission": "Say which meeting a newcomer should attend this week."
+    },
+    {
+      "word": "buddy",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈbʌd.i/",
+      "theme": "Onboarding a newcomer",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a colleague assigned to help a new person settle in.",
+      "examples": [
+        "Sara is your buddy for the first month — ask her anything.",
+        "Every new hire gets a buddy on day one."
+      ],
+      "forms": [
+        "buddies"
+      ],
+      "collocations": [
+        "your buddy",
+        "an onboarding buddy",
+        "a buddy system"
+      ],
+      "mission": "Name the newcomer's buddy, and what they can ask them."
+    },
+    {
+      "word": "feel free to",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌfiːl ˈfriː tuː/",
+      "theme": "Onboarding a newcomer",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "'N'hésitez pas' translated as 'don't hesitate' sounds stiff — say feel free to.",
+      "definition": "used to tell someone politely that they are allowed to do something.",
+      "examples": [
+        "Feel free to ping me with any question, however small.",
+        "Feel free to push back on any of this."
+      ],
+      "collocations": [
+        "feel free to ask",
+        "feel free to",
+        "please feel free"
+      ],
+      "mission": "Write 'feel free to …' instead of 'don't hesitate to …' once."
+    },
+    {
+      "word": "hands-on",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˌhændz ˈɒn/",
+      "theme": "Onboarding a newcomer",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "learning or working by doing things yourself, rather than by reading or listening.",
+      "examples": [
+        "The best way to learn the stack is hands-on.",
+        "Day two is hands-on: you deploy something small."
+      ],
+      "collocations": [
+        "hands-on experience",
+        "learn hands-on",
+        "a hands-on session"
+      ],
+      "mission": "Plan one hands-on task for the newcomer's first week."
+    },
+    {
+      "word": "rule of thumb",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˌruːl əv ˈθʌm/",
+      "theme": "Onboarding a newcomer",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a simple, practical rule that works most of the time.",
+      "examples": [
+        "Rule of thumb: if a function needs a comment, split it.",
+        "A good rule of thumb is one PR per ticket."
+      ],
+      "collocations": [
+        "a rule of thumb",
+        "as a rule of thumb",
+        "a good rule of thumb"
+      ],
+      "mission": "Share one rule of thumb from your job."
+    },
+    {
+      "word": "settle in",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌset.l̩ ˈɪn/",
+      "theme": "Onboarding a newcomer",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to become comfortable in a new job or place.",
+      "examples": [
+        "Take the first week to settle in — no tickets yet.",
+        "She settled in quickly and shipped in week two."
+      ],
+      "forms": [
+        "settled in",
+        "settling in",
+        "settles in"
+      ],
+      "collocations": [
+        "settle in",
+        "settling in",
+        "settled in quickly"
+      ],
+      "mission": "Ask a newcomer how they are settling in."
+    },
+    {
+      "word": "get the hang of",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˌɡet ðə ˈhæŋ əv/",
+      "theme": "Onboarding a newcomer",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to learn how to do something after some practice.",
+      "examples": [
+        "You'll get the hang of the review tool in a day.",
+        "It took me a month to get the hang of the deploy flow."
+      ],
+      "forms": [
+        "got the hang of",
+        "getting the hang of",
+        "gets the hang of"
+      ],
+      "collocations": [
+        "get the hang of it",
+        "get the hang of",
+        "got the hang of"
+      ],
+      "mission": "Tell a newcomer what took you longest to get the hang of."
+    },
+    {
+      "word": "silly question",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˌsɪl.i ˈkwes.tʃən/",
+      "theme": "Onboarding a newcomer",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a question you are slightly embarrassed to ask; used to make asking easier.",
+      "examples": [
+        "Silly question: where do the logs go?",
+        "There are no silly questions in the first month."
+      ],
+      "collocations": [
+        "silly question, but",
+        "no silly questions",
+        "a silly question"
+      ],
+      "mission": "Ask one 'silly question' out loud — it never is."
+    },
+    {
+      "word": "How was your weekend",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌhaʊ wəz jɔː ˈwiːk.end/",
+      "theme": "Remote-work small talk",
+      "level": "A2",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Answer with one detail ('quiet, we hiked'), not just 'good' — the question is an invitation to chat.",
+      "definition": "the usual Monday-morning question to start a friendly conversation.",
+      "examples": [
+        "Morning! How was your weekend?",
+        "How was your weekend? — Quiet, mostly gardening."
+      ],
+      "collocations": [
+        "how was your weekend",
+        "how was your weekend?"
+      ],
+      "mission": "Ask it on Monday, and give a two-line answer when asked."
+    },
+    {
+      "word": "laid-back",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˌleɪd ˈbæk/",
+      "theme": "Remote-work small talk",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "relaxed and calm; not worried about time or rules.",
+      "examples": [
+        "The Friday call is pretty laid-back.",
+        "He's laid-back until a deploy goes wrong."
+      ],
+      "collocations": [
+        "pretty laid-back",
+        "a laid-back team",
+        "laid-back about"
+      ],
+      "mission": "Describe one meeting or colleague as laid-back."
+    },
+    {
+      "word": "grab",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/ɡræb/",
+      "theme": "Remote-work small talk",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to get something quickly, such as a coffee or a bite to eat.",
+      "examples": [
+        "Let's grab a coffee after stand-up.",
+        "I'll grab lunch and be back at one."
+      ],
+      "forms": [
+        "grabbed",
+        "grabbing",
+        "grabs"
+      ],
+      "collocations": [
+        "grab a coffee",
+        "grab lunch",
+        "grab a quick"
+      ],
+      "mission": "Suggest grabbing a coffee — online or in person — with someone."
+    },
+    {
+      "word": "commute",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/kəˈmjuːt/",
+      "theme": "Remote-work small talk",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "partial",
+      "trap": "Not the French verb 'commuter' (to switch) — in English it is the journey to work.",
+      "definition": "the journey between home and work.",
+      "examples": [
+        "My commute is forty minutes by train.",
+        "No commute on remote days — that's an extra hour."
+      ],
+      "forms": [
+        "commutes"
+      ],
+      "collocations": [
+        "my commute",
+        "a long commute",
+        "the commute to"
+      ],
+      "mission": "Compare commutes with a colleague in two sentences."
+    },
+    {
+      "word": "log off",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌlɒɡ ˈɒf/",
+      "theme": "Remote-work small talk",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to stop working on your computer at the end of the day.",
+      "examples": [
+        "I'm logging off at five today — school run.",
+        "She logged off early on Friday."
+      ],
+      "forms": [
+        "logged off",
+        "logging off",
+        "logs off"
+      ],
+      "collocations": [
+        "log off at",
+        "logging off",
+        "logged off early"
+      ],
+      "mission": "Say when you are logging off, in the chat, before you go."
+    },
+    {
+      "word": "long weekend",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˌlɒŋ ˈwiːk.end/",
+      "theme": "Remote-work small talk",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a weekend made longer by a public holiday or a day off.",
+      "examples": [
+        "It's a long weekend here — Monday is a holiday.",
+        "Any plans for the long weekend?"
+      ],
+      "forms": [
+        "long weekends"
+      ],
+      "collocations": [
+        "a long weekend",
+        "the long weekend",
+        "plans for the long weekend"
+      ],
+      "mission": "Ask someone about their plans for the next long weekend."
+    },
+    {
+      "word": "sympathetic",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˌsɪm.pəˈθet.ɪk/",
+      "theme": "Remote-work small talk",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "false-friend",
+      "trap": "Not 'sympathique' (nice, friendly) — for that say nice or friendly. Sympathetic means understanding someone's difficulty.",
+      "definition": "showing that you understand and care about someone's problem.",
+      "examples": [
+        "The client was sympathetic about the outage.",
+        "She was sympathetic when I said I was swamped."
+      ],
+      "collocations": [
+        "sympathetic about",
+        "sympathetic to",
+        "a sympathetic ear"
+      ],
+      "mission": "Be sympathetic once today in words: 'that sounds hard'."
+    },
+    {
+      "word": "banter",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈbæn.tə/",
+      "theme": "Remote-work small talk",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "friendly, playful conversation and jokes between people who know each other.",
+      "examples": [
+        "There's a lot of banter in the team channel.",
+        "A bit of banter before the call helps."
+      ],
+      "collocations": [
+        "a bit of banter",
+        "office banter",
+        "friendly banter"
+      ],
+      "mission": "Join in the banter once — a light comment, not a joke at someone's expense."
+    },
+    {
+      "word": "have a good one",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌhæv ə ˈɡʊd wʌn/",
+      "theme": "Remote-work small talk",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a friendly, informal way to say goodbye and wish someone a good day or evening.",
+      "examples": [
+        "That's me done — have a good one!",
+        "Have a good one, see you Monday."
+      ],
+      "collocations": [
+        "have a good one",
+        "have a good one, everyone"
+      ],
+      "mission": "Sign off one day with 'have a good one'."
+    },
+    {
+      "word": "knackered",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˈnæk.əd/",
+      "theme": "Remote-work small talk",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Very informal and British; in a meeting say exhausted.",
+      "definition": "extremely tired (informal, British).",
+      "examples": [
+        "I'm knackered — two releases in one day.",
+        "Everyone was knackered after the hackathon."
+      ],
+      "collocations": [
+        "I'm knackered",
+        "absolutely knackered",
+        "knackered after"
+      ],
+      "mission": "Use it once with a colleague, never in an email to a client."
+    },
+    {
+      "word": "lie-in",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈlaɪ.ɪn/",
+      "theme": "Remote-work small talk",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "staying in bed later than usual in the morning (British).",
+      "examples": [
+        "I had a lie-in on Saturday — first in weeks.",
+        "No lie-in tomorrow, early call."
+      ],
+      "forms": [
+        "lie-ins"
+      ],
+      "collocations": [
+        "have a lie-in",
+        "a lie-in on Saturday",
+        "no lie-in"
+      ],
+      "mission": "Mention a lie-in when you talk about your weekend."
+    },
+    {
+      "word": "fancy",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/ˈfæn.si/",
+      "theme": "Remote-work small talk",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Here fancy is a verb meaning want — not the adjective (fancy restaurant).",
+      "definition": "to want or feel like having something (British, informal).",
+      "examples": [
+        "Fancy a coffee before the call?",
+        "I don't fancy another late deploy this week."
+      ],
+      "forms": [
+        "fancied",
+        "fancies",
+        "fancying"
+      ],
+      "collocations": [
+        "fancy a coffee",
+        "fancy a break",
+        "don't fancy"
+      ],
+      "mission": "Ask 'fancy a coffee?' to one colleague."
+    },
+    {
+      "word": "long time no see",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌlɒŋ taɪm nəʊ ˈsiː/",
+      "theme": "Remote-work small talk",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a friendly greeting for someone you have not seen for a while.",
+      "examples": [
+        "Long time no see! How's the new team?",
+        "Long time no see — you've been on the mobile project, right?"
+      ],
+      "collocations": [
+        "long time no see",
+        "long time no see!"
+      ],
+      "mission": "Greet someone you have not spoken to in weeks with it."
+    },
+    {
+      "word": "swing by",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌswɪŋ ˈbaɪ/",
+      "theme": "Remote-work small talk",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to visit a place or person briefly, often on the way somewhere else.",
+      "examples": [
+        "Swing by my desk if you're in the office.",
+        "I'll swing by the client's office after lunch."
+      ],
+      "forms": [
+        "swung by",
+        "swinging by",
+        "swings by"
+      ],
+      "collocations": [
+        "swing by my desk",
+        "swing by later",
+        "swung by"
+      ],
+      "mission": "Invite someone to swing by, or say where you will swing by."
+    },
+    {
+      "word": "overhead",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈəʊ.və.hed/",
+      "theme": "Cost, effort and budget",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "extra cost or effort that does not directly produce the result you want.",
+      "examples": [
+        "Meetings are overhead — necessary, but keep them short.",
+        "The new process adds overhead to every release."
+      ],
+      "collocations": [
+        "add overhead",
+        "the overhead of",
+        "too much overhead"
+      ],
+      "mission": "Name one overhead in your week that could shrink."
+    },
+    {
+      "word": "trim",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/trɪm/",
+      "theme": "Cost, effort and budget",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to reduce something a little, by cutting the parts you do not need.",
+      "examples": [
+        "Let's trim the scope to fit the budget.",
+        "We trimmed the meeting to twenty minutes."
+      ],
+      "forms": [
+        "trimmed",
+        "trimming",
+        "trims"
+      ],
+      "collocations": [
+        "trim the scope",
+        "trim the budget",
+        "trimmed"
+      ],
+      "mission": "Suggest trimming one thing by a small amount."
+    },
+    {
+      "word": "scale back",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌskeɪl ˈbæk/",
+      "theme": "Cost, effort and budget",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to make something smaller or less ambitious than planned.",
+      "examples": [
+        "We're scaling back the launch to two markets.",
+        "The client scaled back after seeing the quote."
+      ],
+      "forms": [
+        "scaled back",
+        "scaling back",
+        "scales back"
+      ],
+      "collocations": [
+        "scale back the launch",
+        "scaled back",
+        "scale it back"
+      ],
+      "mission": "Propose scaling one plan back, and say what you keep."
+    },
+    {
+      "word": "pricey",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˈpraɪ.si/",
+      "theme": "Cost, effort and budget",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "costing more than you would like to pay; an informal word.",
+      "examples": [
+        "The managed database is a bit pricey.",
+        "Pricey, but it saves us a week of setup."
+      ],
+      "collocations": [
+        "a bit pricey",
+        "pricey, but",
+        "too pricey"
+      ],
+      "mission": "Call one tool pricey and say what it saves."
+    },
+    {
+      "word": "worth it",
+      "type": "chunk",
+      "pos": "adjective",
+      "ipa": "/ˈwɜːθ ɪt/",
+      "theme": "Cost, effort and budget",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "good enough to be worth the cost or the effort.",
+      "examples": [
+        "The refactor took a week, but it was worth it.",
+        "Is the extra licence worth it for two users?"
+      ],
+      "collocations": [
+        "worth it",
+        "not worth it",
+        "well worth it"
+      ],
+      "mission": "Judge one cost with 'worth it' or 'not worth it', and why."
+    },
+    {
+      "word": "quote",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/kwəʊt/",
+      "theme": "Cost, effort and budget",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "partial",
+      "trap": "'Devis' is quote (or quotation) — not 'estimate', which is rougher, and not 'invoice', which comes after.",
+      "definition": "a written statement of how much a piece of work will cost.",
+      "examples": [
+        "The vendor sent a quote for the migration.",
+        "Get two quotes before we decide."
+      ],
+      "forms": [
+        "quotes"
+      ],
+      "collocations": [
+        "a quote for",
+        "get a quote",
+        "send a quote"
+      ],
+      "mission": "Ask for a quote, not 'a devis', in one message."
+    },
+    {
+      "word": "billion",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈbɪl.jən/",
+      "theme": "Cost, effort and budget",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "false-friend",
+      "trap": "Not the French 'billion' (a million million). English billion = milliard. English trillion = French billion.",
+      "definition": "one thousand million: 1,000,000,000.",
+      "examples": [
+        "They handle two billion requests a month.",
+        "A billion rows is fine for Postgres with the right index."
+      ],
+      "forms": [
+        "billions"
+      ],
+      "collocations": [
+        "two billion",
+        "a billion rows",
+        "billions of"
+      ],
+      "mission": "Say one big number in English — check it is a thousand million."
+    },
+    {
+      "word": "afford",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/əˈfɔːd/",
+      "theme": "Cost, effort and budget",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "none",
+      "definition": "to have enough money or time for something; often used in the negative.",
+      "examples": [
+        "We can't afford another week of delay.",
+        "Can we afford to run two environments?"
+      ],
+      "forms": [
+        "afforded",
+        "affording",
+        "affords"
+      ],
+      "collocations": [
+        "can't afford",
+        "afford to",
+        "can we afford"
+      ],
+      "mission": "Say what the project can't afford, in time or money."
+    },
+    {
+      "word": "pay off",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌpeɪ ˈɒf/",
+      "theme": "Cost, effort and budget",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to bring a good result after time and effort have been spent.",
+      "examples": [
+        "The test suite paid off during the migration.",
+        "Automating the release will pay off within a quarter."
+      ],
+      "forms": [
+        "paid off",
+        "paying off",
+        "pays off"
+      ],
+      "collocations": [
+        "pay off in the long run",
+        "paid off",
+        "will pay off"
+      ],
+      "mission": "Name one investment of time that has already paid off."
+    },
+    {
+      "word": "bargain",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈbɑː.ɡɪn/",
+      "theme": "Cost, effort and budget",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "something that costs much less than it is worth.",
+      "examples": [
+        "At that price the support plan is a bargain.",
+        "The old servers were a bargain, until they died."
+      ],
+      "forms": [
+        "bargains"
+      ],
+      "collocations": [
+        "a bargain",
+        "a real bargain",
+        "bargain price"
+      ],
+      "mission": "Call one purchase a bargain and say why."
+    },
+    {
+      "word": "on a shoestring",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/ɒn ə ˈʃuː.strɪŋ/",
+      "theme": "Cost, effort and budget",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "with very little money.",
+      "examples": [
+        "We built the first version on a shoestring.",
+        "Marketing ran on a shoestring for a year."
+      ],
+      "collocations": [
+        "on a shoestring",
+        "on a shoestring budget",
+        "run on a shoestring"
+      ],
+      "mission": "Describe one thing you did on a shoestring."
+    },
+    {
+      "word": "chip in",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌtʃɪp ˈɪn/",
+      "theme": "Cost, effort and budget",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to give some money or help, together with others.",
+      "examples": [
+        "Everyone chipped in for the leaving present.",
+        "Can the other team chip in on the testing?"
+      ],
+      "forms": [
+        "chipped in",
+        "chipping in",
+        "chips in"
+      ],
+      "collocations": [
+        "chip in for",
+        "chipped in",
+        "chip in on"
+      ],
+      "mission": "Ask people to chip in for one thing, or offer to."
+    },
+    {
+      "word": "invoice",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈɪn.vɔɪs/",
+      "theme": "Cost, effort and budget",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "trap": "Say /ˈɪn.vɔɪs/ — the stress is on the first syllable.",
+      "definition": "a document that lists what was sold or done and asks for payment.",
+      "examples": [
+        "The invoice for March is still unpaid.",
+        "Send the invoice to accounts, not to me."
+      ],
+      "forms": [
+        "invoices"
+      ],
+      "collocations": [
+        "send the invoice",
+        "an unpaid invoice",
+        "invoice for"
+      ],
+      "mission": "Say 'invoice' where you would have said 'facture'."
+    },
+    {
+      "word": "cost an arm and a leg",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˌkɒst ən ˌɑːm ənd ə ˈleɡ/",
+      "theme": "Cost, effort and budget",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to be extremely expensive.",
+      "examples": [
+        "Enterprise support costs an arm and a leg.",
+        "That conference cost an arm and a leg — and a week."
+      ],
+      "forms": [
+        "costs an arm and a leg",
+        "costing an arm and a leg"
+      ],
+      "collocations": [
+        "cost an arm and a leg",
+        "costs an arm and a leg"
+      ],
+      "mission": "Say what costs an arm and a leg in your stack."
     }
   ]
 }
