@@ -4616,6 +4616,1685 @@
         "costs an arm and a leg"
       ],
       "mission": "Say what costs an arm and a leg in your stack."
+    },
+    {
+      "word": "blameless",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˈbleɪm.ləs/",
+      "theme": "Post-mortem and lessons learned",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "done without trying to find a person to blame; focused on what went wrong, not who.",
+      "examples": [
+        "The post-mortem is blameless — we look at the system, not people.",
+        "A blameless culture means people report mistakes early."
+      ],
+      "collocations": [
+        "a blameless post-mortem",
+        "blameless culture",
+        "keep it blameless"
+      ],
+      "mission": "Open one incident review by saying it is blameless, and mean it."
+    },
+    {
+      "word": "go wrong",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˌɡəʊ ˈrɒŋ/",
+      "theme": "Post-mortem and lessons learned",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to fail or develop a problem, especially when things were expected to work.",
+      "examples": [
+        "What went wrong between the deploy and the first alert?",
+        "Things go wrong; what matters is how fast we notice."
+      ],
+      "forms": [
+        "went wrong",
+        "goes wrong",
+        "going wrong",
+        "gone wrong"
+      ],
+      "collocations": [
+        "what went wrong",
+        "things go wrong",
+        "could go wrong"
+      ],
+      "mission": "Ask 'what went wrong?' about one thing this week, without 'who'."
+    },
+    {
+      "word": "slip through the cracks",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˌslɪp θruː ðə ˈkræks/",
+      "theme": "Post-mortem and lessons learned",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to be missed or forgotten because nobody was clearly responsible for it.",
+      "examples": [
+        "The renewal slipped through the cracks — no owner.",
+        "Small tickets slip through the cracks when the board is full."
+      ],
+      "forms": [
+        "slipped through the cracks",
+        "slips through the cracks"
+      ],
+      "collocations": [
+        "slip through the cracks",
+        "slipped through the cracks",
+        "fall through the cracks"
+      ],
+      "mission": "Name one thing that slipped through the cracks, and who owns it now."
+    },
+    {
+      "word": "near miss",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˌnɪə ˈmɪs/",
+      "theme": "Post-mortem and lessons learned",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a situation where something bad almost happened but did not.",
+      "examples": [
+        "That was a near miss — the backup was two hours old.",
+        "We log near misses, not just incidents."
+      ],
+      "forms": [
+        "near misses"
+      ],
+      "collocations": [
+        "a near miss",
+        "log near misses",
+        "a near miss with"
+      ],
+      "mission": "Report one near miss as if it had happened."
+    },
+    {
+      "word": "own up",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌəʊn ˈʌp/",
+      "theme": "Post-mortem and lessons learned",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to admit that you did something wrong.",
+      "examples": [
+        "I'll own up: I skipped the checklist.",
+        "He owned up to the bad merge before anyone asked."
+      ],
+      "forms": [
+        "owned up",
+        "owning up",
+        "owns up"
+      ],
+      "collocations": [
+        "own up to",
+        "owned up",
+        "own up straight away"
+      ],
+      "mission": "Own up to one small mistake before someone finds it."
+    },
+    {
+      "word": "shortcut",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈʃɔːt.kʌt/",
+      "theme": "Post-mortem and lessons learned",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "a quicker way of doing something, which often skips a safe or careful step.",
+      "examples": [
+        "The shortcut in the release script caused the outage.",
+        "No shortcuts on the migration — full backup first."
+      ],
+      "forms": [
+        "shortcuts"
+      ],
+      "collocations": [
+        "take a shortcut",
+        "no shortcuts",
+        "a shortcut in"
+      ],
+      "mission": "Name one shortcut in your process and what it risks."
+    },
+    {
+      "word": "resume",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/rɪˈzjuːm/",
+      "theme": "Post-mortem and lessons learned",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "false-friend",
+      "trap": "Not 'résumer' (to summarise) — for that say summarise or sum up. Resume means start again.",
+      "definition": "to start again after a pause.",
+      "examples": [
+        "Service resumed at 10:15 after the rollback.",
+        "We'll resume the migration once the vendor confirms."
+      ],
+      "forms": [
+        "resumed",
+        "resuming",
+        "resumes"
+      ],
+      "collocations": [
+        "service resumed",
+        "resume the migration",
+        "resume at"
+      ],
+      "mission": "Write the time service resumed in one incident update."
+    },
+    {
+      "word": "lessons learned",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˌles.ənz ˈlɜːnd/",
+      "theme": "Post-mortem and lessons learned",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "the useful things a team understands after something went wrong, written down so it does not happen again.",
+      "examples": [
+        "Add 'lessons learned' at the end of the incident doc.",
+        "Two lessons learned: alert earlier, and test the rollback."
+      ],
+      "collocations": [
+        "lessons learned",
+        "a lessons-learned section",
+        "the main lesson learned"
+      ],
+      "mission": "Write two lessons learned from the last incident, one line each."
+    },
+    {
+      "word": "silver lining",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˌsɪl.və ˈlaɪ.nɪŋ/",
+      "theme": "Post-mortem and lessons learned",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a good side of a bad situation.",
+      "examples": [
+        "The silver lining: we finally fixed the alerts.",
+        "Every outage has a silver lining if you write it down."
+      ],
+      "collocations": [
+        "the silver lining",
+        "a silver lining",
+        "every cloud has a silver lining"
+      ],
+      "mission": "Find the silver lining in one recent failure, and say it."
+    },
+    {
+      "word": "dodge",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/dɒdʒ/",
+      "theme": "Post-mortem and lessons learned",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to avoid something bad by moving or acting quickly.",
+      "examples": [
+        "We dodged a bullet — the bad build never reached prod.",
+        "Don't dodge the question: was the test skipped?"
+      ],
+      "forms": [
+        "dodged",
+        "dodging",
+        "dodges"
+      ],
+      "collocations": [
+        "dodge a bullet",
+        "dodge the question",
+        "dodged"
+      ],
+      "mission": "Say 'we dodged a bullet' about one close escape."
+    },
+    {
+      "word": "close call",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˌkləʊs ˈkɔːl/",
+      "theme": "Post-mortem and lessons learned",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a situation in which something bad very nearly happened.",
+      "examples": [
+        "That deploy was a close call.",
+        "Too many close calls this month — let's slow down."
+      ],
+      "forms": [
+        "close calls"
+      ],
+      "collocations": [
+        "a close call",
+        "too many close calls",
+        "that was a close call"
+      ],
+      "mission": "Describe one close call from the last month."
+    },
+    {
+      "word": "learn the hard way",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˌlɜːn ðə ˌhɑːd ˈweɪ/",
+      "theme": "Post-mortem and lessons learned",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to understand something only after a painful mistake.",
+      "examples": [
+        "We learned the hard way that backups need testing.",
+        "Don't learn it the hard way — read the runbook."
+      ],
+      "forms": [
+        "learned the hard way",
+        "learnt the hard way",
+        "learning the hard way"
+      ],
+      "collocations": [
+        "learn the hard way",
+        "learned the hard way",
+        "learn it the hard way"
+      ],
+      "mission": "Share one thing you learned the hard way."
+    },
+    {
+      "word": "it is what it is",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ɪt ˌɪz wɒt ɪt ˈɪz/",
+      "theme": "Post-mortem and lessons learned",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "said to accept a bad situation that cannot be changed now.",
+      "examples": [
+        "We lost a day. It is what it is — let's move forward.",
+        "It is what it is; the fix is in review."
+      ],
+      "collocations": [
+        "it is what it is",
+        "well, it is what it is"
+      ],
+      "mission": "Use it once to close a discussion that cannot change anything."
+    },
+    {
+      "word": "spot",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/spɒt/",
+      "theme": "Post-mortem and lessons learned",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "to notice something, especially something that is hard to see.",
+      "examples": [
+        "Nice — you spotted the typo before the release.",
+        "Monitoring spotted the leak within minutes."
+      ],
+      "forms": [
+        "spotted",
+        "spotting",
+        "spots"
+      ],
+      "collocations": [
+        "spot a mistake",
+        "spotted the bug",
+        "easy to spot"
+      ],
+      "mission": "Say 'good spot' or 'well spotted' to someone today."
+    },
+    {
+      "word": "bail out",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌbeɪl ˈaʊt/",
+      "theme": "Asking for and giving help",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to help someone out of a difficult situation, often at the last minute.",
+      "examples": [
+        "Thanks for bailing me out on the deploy last night.",
+        "The DBA bailed us out when the migration hung."
+      ],
+      "forms": [
+        "bailed out",
+        "bailing out",
+        "bails out",
+        "bailing me out",
+        "bailed us out"
+      ],
+      "collocations": [
+        "bail me out",
+        "bailed us out",
+        "bail out"
+      ],
+      "mission": "Thank the person who last bailed you out, by name."
+    },
+    {
+      "word": "favour",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈfeɪ.və/",
+      "theme": "Asking for and giving help",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "partial",
+      "trap": "'Faveur' exists, but the everyday phrases are 'do me a favour' and 'ask a favour' — not 'make me a favour'.",
+      "definition": "something you do for someone to help them, without being paid.",
+      "examples": [
+        "Can I ask you a favour? Review this before lunch.",
+        "Do me a favour and check the staging logs."
+      ],
+      "forms": [
+        "favours"
+      ],
+      "collocations": [
+        "ask a favour",
+        "do me a favour",
+        "a small favour"
+      ],
+      "mission": "Ask for one favour with 'can I ask you a favour?'."
+    },
+    {
+      "word": "jump in",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌdʒʌmp ˈɪn/",
+      "theme": "Asking for and giving help",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to start helping or join a discussion quickly, without being asked.",
+      "examples": [
+        "Feel free to jump in if I get anything wrong.",
+        "Two people jumped in to help with the backlog."
+      ],
+      "forms": [
+        "jumped in",
+        "jumping in",
+        "jumps in"
+      ],
+      "collocations": [
+        "jump in and help",
+        "feel free to jump in",
+        "jumped in"
+      ],
+      "mission": "Jump in on one problem that is not yours."
+    },
+    {
+      "word": "bandwidth",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈbænd.wɪdθ/",
+      "theme": "Asking for and giving help",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Here it is about people, not networks: 'no bandwidth' means no spare time or energy.",
+      "definition": "the time and energy someone has available for more work.",
+      "examples": [
+        "I don't have the bandwidth for another project this month.",
+        "Does anyone have bandwidth to help support this week?"
+      ],
+      "collocations": [
+        "have the bandwidth",
+        "no bandwidth for",
+        "bandwidth to help"
+      ],
+      "mission": "Say honestly whether you have bandwidth for one request."
+    },
+    {
+      "word": "cover for",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˈkʌv.ə fɔː/",
+      "theme": "Asking for and giving help",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to do someone's work while they are away.",
+      "examples": [
+        "Can you cover for me on support on Thursday?",
+        "Sara covered for Karim during his leave."
+      ],
+      "forms": [
+        "covered for",
+        "covering for",
+        "covers for"
+      ],
+      "collocations": [
+        "cover for me",
+        "cover for someone",
+        "covered for"
+      ],
+      "mission": "Ask someone to cover for you, and offer the same back."
+    },
+    {
+      "word": "lifesaver",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈlaɪfˌseɪ.və/",
+      "theme": "Asking for and giving help",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a person or thing that helps you a lot in a difficult moment.",
+      "examples": [
+        "You're a lifesaver — I'd never have found that flag.",
+        "That script is a lifesaver on release day."
+      ],
+      "forms": [
+        "lifesavers"
+      ],
+      "collocations": [
+        "you're a lifesaver",
+        "a lifesaver",
+        "an absolute lifesaver"
+      ],
+      "mission": "Call someone a lifesaver when they are."
+    },
+    {
+      "word": "assist",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/əˈsɪst/",
+      "theme": "Asking for and giving help",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "false-friend",
+      "trap": "Not 'assister à' (to attend) — for that say attend. Assist means help.",
+      "definition": "to help someone do something.",
+      "examples": [
+        "Happy to assist with the migration if you need hands.",
+        "The vendor assisted us with the setup."
+      ],
+      "forms": [
+        "assisted",
+        "assisting",
+        "assists"
+      ],
+      "collocations": [
+        "assist with",
+        "happy to assist",
+        "assisted"
+      ],
+      "mission": "Offer to assist with one task, in those words."
+    },
+    {
+      "word": "much appreciated",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌmʌtʃ əˈpriː.ʃi.eɪ.tɪd/",
+      "theme": "Asking for and giving help",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a short, warm way to say thank you for help.",
+      "examples": [
+        "Much appreciated — that saved me an hour.",
+        "Any pointers on the config would be much appreciated."
+      ],
+      "collocations": [
+        "much appreciated",
+        "would be much appreciated",
+        "greatly appreciated"
+      ],
+      "mission": "End one request or thank-you with 'much appreciated'."
+    },
+    {
+      "word": "I owe you one",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/aɪ ˌəʊ juː ˈwʌn/",
+      "theme": "Asking for and giving help",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "said to thank someone and promise to help them in return one day.",
+      "examples": [
+        "Thanks for covering — I owe you one.",
+        "You fixed my mess; I owe you one."
+      ],
+      "collocations": [
+        "I owe you one",
+        "you owe me one"
+      ],
+      "mission": "Say it to the next person who helps you out."
+    },
+    {
+      "word": "tip",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/tɪp/",
+      "theme": "Asking for and giving help",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "none",
+      "trap": "Second sense of a known word: a tip here is advice, not money for a waiter.",
+      "definition": "a small piece of useful, practical advice.",
+      "examples": [
+        "Quick tip: alias the long command.",
+        "Any tips for the on-call week?"
+      ],
+      "forms": [
+        "tips"
+      ],
+      "collocations": [
+        "quick tip",
+        "a tip for",
+        "any tips"
+      ],
+      "mission": "Give one quick tip to a colleague today."
+    },
+    {
+      "word": "give me a shout",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌɡɪv miː ə ˈʃaʊt/",
+      "theme": "Asking for and giving help",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "tell me or contact me when you need something (informal, British).",
+      "examples": [
+        "Give me a shout when you're ready to test.",
+        "If you get stuck, give me a shout."
+      ],
+      "collocations": [
+        "give me a shout",
+        "give us a shout",
+        "give me a shout when"
+      ],
+      "mission": "Offer help with 'give me a shout if …'."
+    },
+    {
+      "word": "hop on a call",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˌhɒp ɒn ə ˈkɔːl/",
+      "theme": "Asking for and giving help",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to start a quick voice or video call, usually to solve something faster than in chat.",
+      "examples": [
+        "Want to hop on a call? Quicker than typing.",
+        "We hopped on a call and fixed it in ten minutes."
+      ],
+      "forms": [
+        "hopped on a call",
+        "hopping on a call"
+      ],
+      "collocations": [
+        "hop on a call",
+        "hop on a quick call",
+        "hopped on a call"
+      ],
+      "mission": "Suggest hopping on a call when chat goes round in circles."
+    },
+    {
+      "word": "not a big deal",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌnɒt ə ˈbɪɡ ˌdiːl/",
+      "theme": "Asking for and giving help",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "said to tell someone that a problem or a request is not serious.",
+      "examples": [
+        "Not a big deal — I'll rerun the job.",
+        "It's not a big deal, but the link is broken."
+      ],
+      "collocations": [
+        "not a big deal",
+        "it's not a big deal",
+        "no big deal"
+      ],
+      "mission": "Reassure someone once with 'not a big deal'."
+    },
+    {
+      "word": "sorted",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˈsɔː.tɪd/",
+      "theme": "Asking for and giving help",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "dealt with and no longer a problem (informal, British).",
+      "examples": [
+        "The access issue is sorted — try again.",
+        "Sorted. Thanks for the quick help."
+      ],
+      "collocations": [
+        "it's sorted",
+        "sorted!",
+        "get it sorted"
+      ],
+      "mission": "Reply 'sorted' when you have fixed something small."
+    },
+    {
+      "word": "scope creep",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˈskəʊp ˌkriːp/",
+      "theme": "Negotiating scope with a client",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "the slow growth of a project's requirements after the plan was agreed.",
+      "examples": [
+        "Three new pages this week — that's scope creep.",
+        "Scope creep ate the whole buffer."
+      ],
+      "collocations": [
+        "scope creep",
+        "avoid scope creep",
+        "that's scope creep"
+      ],
+      "mission": "Name one request as scope creep — politely, with the original scope."
+    },
+    {
+      "word": "nail down",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌneɪl ˈdaʊn/",
+      "theme": "Negotiating scope with a client",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to fix the details of something so that they cannot change.",
+      "examples": [
+        "Let's nail down the requirements before we quote.",
+        "We nailed down the dates on Friday."
+      ],
+      "forms": [
+        "nailed down",
+        "nailing down",
+        "nails down"
+      ],
+      "collocations": [
+        "nail down the requirements",
+        "nail down the dates",
+        "nailed down"
+      ],
+      "mission": "Nail down one vague requirement in writing today."
+    },
+    {
+      "word": "haggle",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/ˈhæɡ.əl/",
+      "theme": "Negotiating scope with a client",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to argue about the price or the terms until both sides agree.",
+      "examples": [
+        "They haggled over the day rate for a week.",
+        "I'd rather not haggle — here is our best price."
+      ],
+      "forms": [
+        "haggled",
+        "haggling",
+        "haggles"
+      ],
+      "collocations": [
+        "haggle over",
+        "haggled",
+        "haggle about the price"
+      ],
+      "mission": "Say what you would and would not haggle over."
+    },
+    {
+      "word": "give and take",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˌɡɪv ənd ˈteɪk/",
+      "theme": "Negotiating scope with a client",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a situation where both sides accept some things they do not want, so they can agree.",
+      "examples": [
+        "There has to be some give and take on the timeline.",
+        "Good negotiations are give and take."
+      ],
+      "collocations": [
+        "give and take",
+        "some give and take",
+        "a bit of give and take"
+      ],
+      "mission": "Point out where there could be give and take in one deal."
+    },
+    {
+      "word": "meet halfway",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˌmiːt ˌhɑːfˈweɪ/",
+      "theme": "Negotiating scope with a client",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to agree to a compromise, with both sides giving up part of what they wanted.",
+      "examples": [
+        "Can we meet halfway: two of the four reports by June?",
+        "They met us halfway on the licence fee."
+      ],
+      "forms": [
+        "met halfway",
+        "meets halfway",
+        "met us halfway",
+        "meet you halfway"
+      ],
+      "collocations": [
+        "meet halfway",
+        "meet you halfway",
+        "met us halfway"
+      ],
+      "mission": "Offer to meet someone halfway on one point."
+    },
+    {
+      "word": "deal-breaker",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈdiːlˌbreɪ.kə/",
+      "theme": "Negotiating scope with a client",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "something so important that, if it is missing or wrong, the whole agreement fails.",
+      "examples": [
+        "No SSO is a deal-breaker for their security team.",
+        "The price isn't a deal-breaker; the deadline is."
+      ],
+      "forms": [
+        "deal-breakers"
+      ],
+      "collocations": [
+        "a deal-breaker",
+        "a deal-breaker for",
+        "not a deal-breaker"
+      ],
+      "mission": "Name the one deal-breaker in your current negotiation."
+    },
+    {
+      "word": "pretend",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/prɪˈtend/",
+      "theme": "Negotiating scope with a client",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "false-friend",
+      "trap": "Not 'prétendre' (to claim) — for that say claim. Pretend means to fake.",
+      "definition": "to behave as if something is true when it is not.",
+      "examples": [
+        "Let's not pretend the deadline is realistic.",
+        "He pretended not to see the extra cost."
+      ],
+      "forms": [
+        "pretended",
+        "pretending",
+        "pretends"
+      ],
+      "collocations": [
+        "let's not pretend",
+        "pretend to",
+        "pretended"
+      ],
+      "mission": "Check one sentence: did you mean 'claim' where you wrote 'pretend'?"
+    },
+    {
+      "word": "wiggle room",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˈwɪɡ.əl ˌruːm/",
+      "theme": "Negotiating scope with a client",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a small amount of freedom to change a plan or a price.",
+      "examples": [
+        "Is there any wiggle room on the go-live date?",
+        "We have some wiggle room on price, none on scope."
+      ],
+      "collocations": [
+        "wiggle room on",
+        "any wiggle room",
+        "some wiggle room"
+      ],
+      "mission": "Ask where the wiggle room is in one negotiation."
+    },
+    {
+      "word": "walk away",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌwɔːk əˈweɪ/",
+      "theme": "Negotiating scope with a client",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to end a negotiation or a deal because the terms are not good enough.",
+      "examples": [
+        "If they won't budge on payment terms, we walk away.",
+        "The client walked away from the second phase."
+      ],
+      "forms": [
+        "walked away",
+        "walking away",
+        "walks away"
+      ],
+      "collocations": [
+        "walk away from",
+        "walk away",
+        "walked away"
+      ],
+      "mission": "Say at what point you would walk away from one deal."
+    },
+    {
+      "word": "catch",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/kætʃ/",
+      "theme": "Negotiating scope with a client",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Second sense of a known word: a catch here is a hidden condition, not the verb.",
+      "definition": "a hidden problem or condition in something that looks good.",
+      "examples": [
+        "Free hosting? What's the catch?",
+        "The catch is a three-year contract."
+      ],
+      "collocations": [
+        "what's the catch",
+        "the catch is",
+        "there's a catch"
+      ],
+      "mission": "Ask 'what's the catch?' about one offer that looks too good."
+    },
+    {
+      "word": "no strings attached",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/ˌnəʊ ˌstrɪŋz əˈtætʃt/",
+      "theme": "Negotiating scope with a client",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "without hidden conditions or obligations.",
+      "examples": [
+        "The trial is free, no strings attached.",
+        "They offered the extension with no strings attached."
+      ],
+      "collocations": [
+        "no strings attached",
+        "with no strings attached"
+      ],
+      "mission": "Describe one offer as 'no strings attached' — only if it is."
+    },
+    {
+      "word": "throw in",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌθrəʊ ˈɪn/",
+      "theme": "Negotiating scope with a client",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to add something extra to a deal without charging for it.",
+      "examples": [
+        "We'll throw in the training day for free.",
+        "They threw in a month of support."
+      ],
+      "forms": [
+        "threw in",
+        "throwing in",
+        "throws in",
+        "thrown in"
+      ],
+      "collocations": [
+        "throw in for free",
+        "threw in",
+        "throw in the training"
+      ],
+      "mission": "Offer to throw one small thing in to close a deal."
+    },
+    {
+      "word": "take it or leave it",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌteɪk ɪt ɔː ˈliːv ɪt/",
+      "theme": "Negotiating scope with a client",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Sounds hard; between colleagues say 'that's the best we can do'.",
+      "definition": "said when an offer is final and will not be changed.",
+      "examples": [
+        "That's our final quote — take it or leave it.",
+        "It was a take-it-or-leave-it offer."
+      ],
+      "collocations": [
+        "take it or leave it",
+        "a take-it-or-leave-it offer"
+      ],
+      "mission": "Recognise a take-it-or-leave-it offer, and say whether you would."
+    },
+    {
+      "word": "budge",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/bʌdʒ/",
+      "theme": "Negotiating scope with a client",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to change your position or opinion slightly; usually in the negative.",
+      "examples": [
+        "Legal won't budge on the data-residency clause.",
+        "We budged on the date, not on the price."
+      ],
+      "forms": [
+        "budged",
+        "budging",
+        "budges"
+      ],
+      "collocations": [
+        "won't budge",
+        "refuse to budge",
+        "budge on"
+      ],
+      "mission": "Say what one side will not budge on."
+    },
+    {
+      "word": "shortlist",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/ˈʃɔːt.lɪst/",
+      "theme": "Hiring and interviews",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to choose a small number of candidates from a larger group for the next step.",
+      "examples": [
+        "We shortlisted four people for the interview.",
+        "She was shortlisted but not hired."
+      ],
+      "forms": [
+        "shortlisted",
+        "shortlisting",
+        "shortlists"
+      ],
+      "collocations": [
+        "shortlist candidates",
+        "shortlisted for",
+        "a shortlist of"
+      ],
+      "mission": "Say how many you would shortlist, and on what basis."
+    },
+    {
+      "word": "track record",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˌtræk ˈrek.ɔːd/",
+      "theme": "Hiring and interviews",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "the past results of a person or company, used to judge how they will do in future.",
+      "examples": [
+        "She has a strong track record on migrations.",
+        "The agency's track record with startups is thin."
+      ],
+      "collocations": [
+        "a strong track record",
+        "track record on",
+        "a proven track record"
+      ],
+      "mission": "Describe one person's track record in one line."
+    },
+    {
+      "word": "turn down",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌtɜːn ˈdaʊn/",
+      "theme": "Hiring and interviews",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to refuse an offer, a request or a candidate.",
+      "examples": [
+        "He turned down the offer for a remote role.",
+        "We had to turn down two good candidates."
+      ],
+      "forms": [
+        "turned down",
+        "turning down",
+        "turns down"
+      ],
+      "collocations": [
+        "turn down the offer",
+        "turned down",
+        "turn down a candidate"
+      ],
+      "mission": "Turn one request down politely, with a reason."
+    },
+    {
+      "word": "well-rounded",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˌwel ˈraʊn.dɪd/",
+      "theme": "Hiring and interviews",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "having a good balance of different skills and experience.",
+      "examples": [
+        "We want someone well-rounded, not a specialist.",
+        "A well-rounded team ships faster."
+      ],
+      "collocations": [
+        "a well-rounded candidate",
+        "well-rounded skills",
+        "well-rounded"
+      ],
+      "mission": "Say whether a role needs someone well-rounded or a specialist."
+    },
+    {
+      "word": "screen",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/skriːn/",
+      "theme": "Hiring and interviews",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "trap": "Second sense of a known word: to screen is to filter, not the display.",
+      "definition": "to check candidates or requests quickly to decide which ones go further.",
+      "examples": [
+        "HR screens the CVs before we see them.",
+        "A thirty-minute call to screen for basics."
+      ],
+      "forms": [
+        "screened",
+        "screening",
+        "screens"
+      ],
+      "collocations": [
+        "screen candidates",
+        "screening call",
+        "screened"
+      ],
+      "mission": "Say what you screen for first in a CV."
+    },
+    {
+      "word": "gap",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ɡæp/",
+      "theme": "Hiring and interviews",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "none",
+      "definition": "something missing between what you have and what you need, such as a skill or a period of time.",
+      "examples": [
+        "There's a gap in the team: nobody knows the billing system.",
+        "A gap in the CV is fine — just ask about it."
+      ],
+      "forms": [
+        "gaps"
+      ],
+      "collocations": [
+        "a skills gap",
+        "a gap in",
+        "fill the gap"
+      ],
+      "mission": "Name one gap in your team and what would fill it."
+    },
+    {
+      "word": "resign",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/rɪˈzaɪn/",
+      "theme": "Hiring and interviews",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "false-friend",
+      "trap": "Not 'se résigner' (to accept unhappily) — for that say accept or put up with. Resign means quit your job.",
+      "definition": "to tell your employer that you are leaving your job.",
+      "examples": [
+        "Two engineers resigned last quarter.",
+        "She resigned to join a startup."
+      ],
+      "forms": [
+        "resigned",
+        "resigning",
+        "resigns"
+      ],
+      "collocations": [
+        "resign from",
+        "resigned last",
+        "decided to resign"
+      ],
+      "mission": "Use resign, not 'give his demission', in one sentence."
+    },
+    {
+      "word": "notice",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈnəʊ.tɪs/",
+      "theme": "Hiring and interviews",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "none",
+      "trap": "Second sense of a known word: notice here is the leaving period, not a sign on a wall.",
+      "definition": "the period of time between saying you will leave a job and actually leaving.",
+      "examples": [
+        "He handed in his notice on Monday.",
+        "Her notice period is three months."
+      ],
+      "collocations": [
+        "hand in your notice",
+        "notice period",
+        "a month's notice"
+      ],
+      "mission": "Say what the notice period is for one role."
+    },
+    {
+      "word": "a good fit",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ə ˌɡʊd ˈfɪt/",
+      "theme": "Hiring and interviews",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a person who suits the job and the team well.",
+      "examples": [
+        "She's a good fit for the platform team.",
+        "Skills were fine, but he wasn't a good fit for how we work."
+      ],
+      "collocations": [
+        "a good fit for",
+        "not a good fit",
+        "the right fit"
+      ],
+      "mission": "Say what would make someone a good fit for your team."
+    },
+    {
+      "word": "on board",
+      "type": "chunk",
+      "pos": "adjective",
+      "ipa": "/ˌɒn ˈbɔːd/",
+      "theme": "Hiring and interviews",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "having joined a team or agreed to a plan.",
+      "examples": [
+        "Welcome on board! Your buddy is Sara.",
+        "Is the client on board with the new date?"
+      ],
+      "collocations": [
+        "welcome on board",
+        "on board with",
+        "get everyone on board"
+      ],
+      "mission": "Welcome one new person on board, in those words."
+    },
+    {
+      "word": "headhunt",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/ˈhed.hʌnt/",
+      "theme": "Hiring and interviews",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to find and contact someone who already has a job, to offer them a better one.",
+      "examples": [
+        "She was headhunted by a bank.",
+        "Recruiters headhunt our seniors every month."
+      ],
+      "forms": [
+        "headhunted",
+        "headhunting",
+        "headhunts",
+        "headhunter"
+      ],
+      "collocations": [
+        "was headhunted",
+        "headhunt",
+        "a headhunter"
+      ],
+      "mission": "Say who is most likely to be headhunted, and why."
+    },
+    {
+      "word": "perk",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/pɜːk/",
+      "theme": "Hiring and interviews",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "an extra benefit you get from a job, apart from salary.",
+      "examples": [
+        "Remote work is the main perk here.",
+        "The perks are nice; the salary is average."
+      ],
+      "forms": [
+        "perks"
+      ],
+      "collocations": [
+        "the main perk",
+        "perks",
+        "a perk of the job"
+      ],
+      "mission": "Name the best perk of your job."
+    },
+    {
+      "word": "land",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/lænd/",
+      "theme": "Hiring and interviews",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Second sense of a known word: to land a job is to get it, not to arrive by plane.",
+      "definition": "to get something you wanted, such as a job or a client, after effort.",
+      "examples": [
+        "She landed the job after two rounds.",
+        "We landed a big client in March."
+      ],
+      "forms": [
+        "landed",
+        "landing",
+        "lands"
+      ],
+      "collocations": [
+        "land a job",
+        "landed the client",
+        "land the role"
+      ],
+      "mission": "Say what you would like to land this year."
+    },
+    {
+      "word": "in the pipeline",
+      "type": "chunk",
+      "pos": "adjective",
+      "ipa": "/ɪn ðə ˈpaɪp.laɪn/",
+      "theme": "Hiring and interviews",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "planned or being prepared, but not ready yet.",
+      "examples": [
+        "Two more hires are in the pipeline.",
+        "A mobile version is in the pipeline for next year."
+      ],
+      "collocations": [
+        "in the pipeline",
+        "in the pipeline for",
+        "the hiring pipeline"
+      ],
+      "mission": "Say what is in the pipeline for your team."
+    },
+    {
+      "word": "one-to-one",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˌwʌn.təˈwʌn/",
+      "theme": "One-to-ones and feedback on people",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Say one-to-one in British English; Americans say one-on-one.",
+      "definition": "a regular private meeting between a manager and one team member.",
+      "examples": [
+        "Let's discuss it in our one-to-one on Thursday.",
+        "Skipping one-to-ones is how problems hide."
+      ],
+      "forms": [
+        "one-to-ones"
+      ],
+      "collocations": [
+        "in our one-to-one",
+        "a weekly one-to-one",
+        "one-to-ones"
+      ],
+      "mission": "Bring one real topic to your next one-to-one."
+    },
+    {
+      "word": "check in",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌtʃek ˈɪn/",
+      "theme": "One-to-ones and feedback on people",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to talk briefly with someone to see how they are or how the work is going.",
+      "examples": [
+        "Just checking in — how's the first week going?",
+        "I check in with the team every Wednesday."
+      ],
+      "forms": [
+        "checked in",
+        "checking in",
+        "checks in"
+      ],
+      "collocations": [
+        "check in with",
+        "just checking in",
+        "checked in"
+      ],
+      "mission": "Check in with one person you have not spoken to this week."
+    },
+    {
+      "word": "step up",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌstep ˈʌp/",
+      "theme": "One-to-ones and feedback on people",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to take more responsibility when it is needed.",
+      "examples": [
+        "Karim stepped up when the lead was on leave.",
+        "We need someone to step up and own the on-call rota."
+      ],
+      "forms": [
+        "stepped up",
+        "stepping up",
+        "steps up"
+      ],
+      "collocations": [
+        "step up and",
+        "stepped up",
+        "step up to"
+      ],
+      "mission": "Name one moment someone stepped up, and tell them."
+    },
+    {
+      "word": "blind spot",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˈblaɪnd ˌspɒt/",
+      "theme": "One-to-ones and feedback on people",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "something about yourself or your work that you cannot see but others can.",
+      "examples": [
+        "Testing is my blind spot — I skip it when I'm rushed.",
+        "Feedback shows you your blind spots."
+      ],
+      "forms": [
+        "blind spots"
+      ],
+      "collocations": [
+        "a blind spot",
+        "my blind spot",
+        "blind spots"
+      ],
+      "mission": "Ask one colleague what your blind spot is."
+    },
+    {
+      "word": "room for improvement",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˌruːm fər ɪmˈpruːv.mənt/",
+      "theme": "One-to-ones and feedback on people",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "the possibility of doing something better; a polite way to say it is not good enough yet.",
+      "examples": [
+        "The docs are OK, but there's room for improvement.",
+        "Plenty of room for improvement in our alerts."
+      ],
+      "collocations": [
+        "room for improvement",
+        "there's room for improvement",
+        "plenty of room for improvement"
+      ],
+      "mission": "Say 'room for improvement' instead of 'bad' once."
+    },
+    {
+      "word": "praise",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/preɪz/",
+      "theme": "One-to-ones and feedback on people",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "to say that someone did something well.",
+      "examples": [
+        "Praise in public, correct in private.",
+        "The client praised the team for the quick turnaround."
+      ],
+      "forms": [
+        "praised",
+        "praising",
+        "praises"
+      ],
+      "collocations": [
+        "praise in public",
+        "praised the team",
+        "praise for"
+      ],
+      "mission": "Praise one specific thing someone did, today."
+    },
+    {
+      "word": "confidence",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈkɒn.fɪ.dəns/",
+      "theme": "One-to-ones and feedback on people",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "false-friend",
+      "trap": "Not 'confidence' in French (a secret) — for that say a secret or in confidence. Confidence is self-belief or trust.",
+      "definition": "the feeling that you can do something well, or that something will work.",
+      "examples": [
+        "Her confidence grew after the first demo.",
+        "I have full confidence in the plan."
+      ],
+      "collocations": [
+        "confidence in",
+        "gain confidence",
+        "full confidence"
+      ],
+      "mission": "Tell someone you have confidence in them — and why."
+    },
+    {
+      "word": "come across",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌkʌm əˈkrɒs/",
+      "theme": "One-to-ones and feedback on people",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to give a particular impression of yourself to other people.",
+      "examples": [
+        "You come across as very sure — sometimes too sure.",
+        "In emails he comes across as blunt."
+      ],
+      "forms": [
+        "comes across",
+        "came across",
+        "coming across"
+      ],
+      "collocations": [
+        "come across as",
+        "comes across as",
+        "came across"
+      ],
+      "mission": "Ask how you come across in meetings, and listen."
+    },
+    {
+      "word": "pat on the back",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˌpæt ɒn ðə ˈbæk/",
+      "theme": "One-to-ones and feedback on people",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "praise for something done well.",
+      "examples": [
+        "The whole team deserves a pat on the back for the launch.",
+        "A pat on the back costs nothing."
+      ],
+      "collocations": [
+        "a pat on the back",
+        "deserve a pat on the back",
+        "give someone a pat on the back"
+      ],
+      "mission": "Give one pat on the back in the team channel."
+    },
+    {
+      "word": "burn out",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌbɜːn ˈaʊt/",
+      "theme": "One-to-ones and feedback on people",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to become exhausted and unable to work well because of too much stress for too long.",
+      "examples": [
+        "People burn out when on-call never ends.",
+        "She burned out after a year of crunch."
+      ],
+      "forms": [
+        "burned out",
+        "burnt out",
+        "burning out",
+        "burns out",
+        "burnout"
+      ],
+      "collocations": [
+        "burn out",
+        "burned out",
+        "burnout"
+      ],
+      "mission": "Say what would make you burn out, before it does."
+    },
+    {
+      "word": "off the record",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/ˌɒf ðə ˈrek.ɔːd/",
+      "theme": "One-to-ones and feedback on people",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "said privately, not to be repeated or written down.",
+      "examples": [
+        "Off the record, I don't think the deadline will hold.",
+        "Can I say something off the record?"
+      ],
+      "collocations": [
+        "off the record",
+        "strictly off the record",
+        "on the record"
+      ],
+      "mission": "Use 'off the record' once, and keep it that way."
+    },
+    {
+      "word": "thrive",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/θraɪv/",
+      "theme": "One-to-ones and feedback on people",
+      "level": "C1",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "to do very well and grow, especially in a place that suits you.",
+      "examples": [
+        "She thrives when she owns a whole feature.",
+        "Some people thrive on deadlines; others freeze."
+      ],
+      "forms": [
+        "thrives",
+        "thrived",
+        "thriving"
+      ],
+      "collocations": [
+        "thrive on",
+        "thrive in",
+        "thriving"
+      ],
+      "mission": "Say what conditions make you thrive at work."
+    },
+    {
+      "word": "keep it up",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌkiːp ɪt ˈʌp/",
+      "theme": "One-to-ones and feedback on people",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "said to encourage someone to continue doing something well.",
+      "examples": [
+        "Great sprint — keep it up.",
+        "Your reviews have been really clear lately; keep it up."
+      ],
+      "collocations": [
+        "keep it up",
+        "keep up the good work"
+      ],
+      "mission": "Say 'keep it up' to someone, with the specific thing they should keep doing."
+    },
+    {
+      "word": "grow into",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˌɡrəʊ ˈɪn.tuː/",
+      "theme": "One-to-ones and feedback on people",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to become able to do a job well over time, after starting with less experience.",
+      "examples": [
+        "He'll grow into the lead role by spring.",
+        "She grew into the job faster than we expected."
+      ],
+      "forms": [
+        "grew into",
+        "growing into",
+        "grows into",
+        "grown into"
+      ],
+      "collocations": [
+        "grow into the role",
+        "grew into",
+        "grow into the job"
+      ],
+      "mission": "Name one role you or a colleague could grow into."
     }
   ]
 }
