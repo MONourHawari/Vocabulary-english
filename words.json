@@ -3,485 +3,1315 @@
   "wordsPerDay": 2,
   "words": [
     {
-      "word": "leverage",
-      "pos": "verb",
-      "ipa": "/ˈlev.ər.ɪdʒ/",
-      "definition": "to use something you already have in order to get a better result.",
-      "examples": [
-        "Let's leverage the existing cache instead of querying the database again.",
-        "The team leveraged their experience with the old system to move faster."
-      ],
-      "synonyms": [
-        "exploit",
-        "capitalise on",
-        "make use of"
-      ],
-      "collocations": [
-        "leverage existing tools",
-        "leverage our experience"
-      ],
-      "type": "word",
-      "theme": "Seed words",
-      "level": "B2",
-      "source": "Oxford 5000",
-      "cognate": "none"
-    },
-    {
-      "word": "feasible",
+      "word": "on track",
+      "type": "chunk",
       "pos": "adjective",
-      "ipa": "/ˈfiː.zə.bəl/",
-      "definition": "possible to do, with the time and resources you actually have.",
+      "ipa": "/ˌɒn ˈtræk/",
+      "theme": "Stand-up and status updates",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "going as planned, so that you will finish on time.",
       "examples": [
-        "Shipping by Friday is feasible if we drop the export feature.",
-        "It sounds nice, but it is not technically feasible this quarter."
-      ],
-      "synonyms": [
-        "viable",
-        "workable",
-        "realistic"
+        "The migration is on track for Friday.",
+        "We were behind last week, but we're back on track now."
       ],
       "collocations": [
-        "technically feasible",
-        "a feasible approach",
-        "not feasible"
+        "on track for Friday",
+        "back on track",
+        "still on track"
       ],
-      "type": "word",
-      "theme": "Seed words",
-      "level": "B2",
-      "source": "Oxford 5000",
-      "cognate": "transparent"
+      "synonyms": [],
+      "mission": "Say which of your tasks is on track today."
     },
     {
-      "word": "thorough",
+      "word": "a hand",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ə ˈhænd/",
+      "theme": "Stand-up and status updates",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "help with a task, usually for a short time; used with give or need.",
+      "examples": [
+        "Could someone give me a hand with the test data?",
+        "If you need a hand with the release, I'm free after lunch."
+      ],
+      "collocations": [
+        "give me a hand",
+        "need a hand",
+        "a hand with"
+      ],
+      "synonyms": [],
+      "mission": "Ask a colleague for a hand with one small task."
+    },
+    {
+      "word": "figure out",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌfɪɡ.ər ˈaʊt/",
+      "theme": "Stand-up and status updates",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to find the answer to a problem, or the reason for it, by thinking about it.",
+      "examples": [
+        "I'm still trying to figure out why the import is slow.",
+        "We finally figured out how to reproduce it."
+      ],
+      "forms": [
+        "figuring out",
+        "figured out",
+        "figures out"
+      ],
+      "collocations": [
+        "figure out why",
+        "figure out how to",
+        "figure it out"
+      ],
+      "synonyms": [
+        "understand"
+      ],
+      "mission": "Name one thing you are still figuring out, in today's stand-up."
+    },
+    {
+      "word": "pace",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/peɪs/",
+      "theme": "Stand-up and status updates",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "how fast something moves forward, compared with how fast it needs to go.",
+      "examples": [
+        "We'll finish the migration on Thursday at this pace.",
+        "We need to pick up the pace if we want Friday."
+      ],
+      "collocations": [
+        "at this pace",
+        "pick up the pace",
+        "a slow pace"
+      ],
+      "synonyms": [
+        "speed"
+      ],
+      "mission": "Say at what pace your main task is moving, and why."
+    },
+    {
+      "word": "heads-up",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˌhedz ˈʌp/",
+      "theme": "Stand-up and status updates",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a short early warning that something is coming, so people are not surprised.",
+      "examples": [
+        "Just a quick heads-up: the demo moves to Thursday.",
+        "Thanks for the heads-up, I'll plan the deploy around it."
+      ],
+      "collocations": [
+        "quick heads-up",
+        "give you a heads-up",
+        "thanks for the heads-up"
+      ],
+      "synonyms": [
+        "warning"
+      ],
+      "mission": "Give the team a heads-up about one change coming this week."
+    },
+    {
+      "word": "spare",
+      "type": "word",
       "pos": "adjective",
-      "ipa": "/ˈθʌr.ə/",
-      "definition": "done carefully and completely, with attention to every detail.",
-      "examples": [
-        "She did a thorough review of the migration plan before approving it.",
-        "We need a more thorough explanation — this one skips the hard parts."
-      ],
-      "synonyms": [
-        "detailed",
-        "meticulous",
-        "exhaustive"
-      ],
-      "collocations": [
-        "a thorough review",
-        "a thorough understanding",
-        "thorough testing"
-      ],
-      "type": "word",
-      "theme": "Seed words",
+      "ipa": "/speə/",
+      "theme": "Stand-up and status updates",
       "level": "B2",
       "source": "Oxford 5000",
-      "cognate": "none"
+      "cognate": "none",
+      "definition": "not needed or used right now, so it is free for something else.",
+      "examples": [
+        "Have you got a spare ten minutes this afternoon?",
+        "I'll use any spare time on Friday to tidy the tests."
+      ],
+      "collocations": [
+        "a spare ten minutes",
+        "spare time",
+        "a spare minute"
+      ],
+      "synonyms": [
+        "free"
+      ],
+      "mission": "Say when you have a spare half hour this week."
     },
     {
-      "word": "discrepancy",
+      "word": "delay",
+      "type": "word",
       "pos": "noun",
-      "ipa": "/dɪˈskrep.ən.si/",
-      "definition": "a difference between two things that should be the same.",
+      "ipa": "/dɪˈleɪ/",
+      "theme": "Stand-up and status updates",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "false-friend",
+      "trap": "Not 'délai' (the time allowed, a deadline) — for that say deadline or lead time. A delay means something happens later than planned.",
+      "definition": "the extra time you have to wait because something happens later than planned.",
       "examples": [
-        "There is a discrepancy between the invoice total and our records.",
-        "Can you explain the discrepancy in the two reports?"
-      ],
-      "synonyms": [
-        "mismatch",
-        "inconsistency"
+        "There's a two-day delay on the export feature.",
+        "Sorry for the delay — the review took longer than expected."
       ],
       "collocations": [
-        "a discrepancy between X and Y",
-        "explain the discrepancy"
+        "a two-day delay",
+        "sorry for the delay",
+        "cause a delay"
       ],
-      "type": "word",
-      "theme": "Seed words",
-      "level": "B2",
-      "source": "Oxford 5000",
-      "cognate": "transparent"
+      "synonyms": [],
+      "mission": "Announce a delay in one calm sentence: what, how long, why."
     },
     {
-      "word": "bottleneck",
+      "word": "from scratch",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/frəm ˈskrætʃ/",
+      "theme": "Stand-up and status updates",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "from the very beginning, without using anything that was done before.",
+      "examples": [
+        "I'm rewriting the import script from scratch.",
+        "It was faster to start from scratch than to fix the old one."
+      ],
+      "collocations": [
+        "start from scratch",
+        "rewrite it from scratch",
+        "build from scratch"
+      ],
+      "synonyms": [],
+      "mission": "Say what you would rather rebuild from scratch, and why."
+    },
+    {
+      "word": "catch up",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌkætʃ ˈʌp/",
+      "theme": "Stand-up and status updates",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to do the work you are behind on, until you reach the point where you should be.",
+      "examples": [
+        "I'll catch up on reviews this afternoon.",
+        "We lost a day on Monday but caught up by Thursday."
+      ],
+      "forms": [
+        "caught up",
+        "catching up",
+        "catches up"
+      ],
+      "collocations": [
+        "catch up on reviews",
+        "catch up on emails",
+        "time to catch up"
+      ],
+      "synonyms": [],
+      "mission": "Say what you will catch up on before Monday."
+    },
+    {
+      "word": "nightmare",
+      "type": "word",
       "pos": "noun",
-      "ipa": "/ˈbɒt.l̩.nek/",
-      "definition": "the one slow part of a process that limits how fast the whole thing can go.",
-      "examples": [
-        "Code review has become the bottleneck in our release process.",
-        "Profiling showed the bottleneck was disk access, not the network."
-      ],
-      "synonyms": [
-        "choke point",
-        "constraint"
-      ],
-      "collocations": [
-        "identify the bottleneck",
-        "a major bottleneck",
-        "remove a bottleneck"
-      ],
-      "type": "word",
-      "theme": "Seed words",
+      "ipa": "/ˈnaɪt.meə/",
+      "theme": "Stand-up and status updates",
       "level": "B2",
       "source": "Oxford 5000",
-      "cognate": "none"
-    },
-    {
-      "word": "mitigate",
-      "pos": "verb",
-      "ipa": "/ˈmɪt.ɪ.ɡeɪt/",
-      "definition": "to make something bad less severe, without removing it completely.",
+      "cognate": "none",
+      "definition": "an experience that is very difficult or unpleasant; used informally about work that went badly.",
       "examples": [
-        "We added a retry to mitigate the impact of network failures.",
-        "Nothing removes the risk entirely, but we can mitigate it."
-      ],
-      "synonyms": [
-        "reduce",
-        "alleviate",
-        "lessen"
+        "The release was a nightmare, glad it's Friday.",
+        "Parking near the office is a nightmare on Mondays."
       ],
       "collocations": [
-        "mitigate a risk",
-        "mitigate the impact"
+        "was a nightmare",
+        "a nightmare week",
+        "an absolute nightmare"
       ],
-      "type": "word",
-      "theme": "Seed words",
-      "level": "B2",
-      "source": "Oxford 5000",
-      "cognate": "transparent"
+      "synonyms": [],
+      "mission": "Tell a colleague which part of your week was a nightmare."
     },
     {
-      "word": "streamline",
-      "pos": "verb",
-      "ipa": "/ˈstriːm.laɪn/",
-      "definition": "to make a process simpler and more efficient by removing unnecessary steps.",
+      "word": "so far",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/ˌsəʊ ˈfɑː/",
+      "theme": "Stand-up and status updates",
+      "level": "B1",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Do not translate 'jusqu’à présent' as until now: that suggests things have just changed. So far is neutral: 'So far, so good.'",
+      "definition": "from the start until now, when you describe what has happened up to this point.",
       "examples": [
-        "We streamlined onboarding from five forms down to one.",
-        "The goal is to streamline the workflow, not to add more tools."
-      ],
-      "synonyms": [
-        "simplify",
-        "optimise"
+        "So far I've migrated three of the five tables.",
+        "So far, so good — no errors since the fix went out."
       ],
       "collocations": [
-        "streamline a process",
-        "streamline operations"
+        "so far, so good",
+        "so far this week",
+        "so far I've"
       ],
-      "type": "word",
-      "theme": "Seed words",
-      "level": "B2",
-      "source": "Oxford 5000",
-      "cognate": "none"
+      "synonyms": [],
+      "mission": "Start your update with 'so far' and what is done."
     },
     {
-      "word": "redundant",
+      "word": "stuck on",
+      "type": "chunk",
       "pos": "adjective",
-      "ipa": "/rɪˈdʌn.dənt/",
-      "definition": "not needed, because the same thing already exists somewhere else.",
+      "ipa": "/ˌstʌk ˈɒn/",
+      "theme": "Stand-up and status updates",
+      "level": "B1",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Not 'bloqué' (blocked) for everything: say stuck on when the problem is the work itself; blocked when you are waiting for someone.",
+      "definition": "not able to make progress with a problem, because you cannot find a way forward.",
       "examples": [
-        "This check is redundant — the database already enforces it.",
-        "Two teams were doing redundant work for months."
-      ],
-      "synonyms": [
-        "unnecessary",
-        "duplicated",
-        "superfluous"
+        "I'm still stuck on the login redirect, any ideas?",
+        "She was stuck on the same error for most of yesterday."
       ],
       "collocations": [
-        "redundant code",
-        "become redundant",
-        "a redundant step"
+        "still stuck on",
+        "stuck on a bug",
+        "get stuck on"
       ],
-      "type": "word",
-      "theme": "Seed words",
-      "level": "B2",
-      "source": "Oxford 5000",
-      "cognate": "transparent"
+      "synonyms": [],
+      "mission": "Say what you are stuck on, then ask for ideas."
     },
     {
-      "word": "scope",
-      "pos": "noun",
-      "ipa": "/skəʊp/",
-      "definition": "the limits of what a piece of work includes — and what it leaves out.",
+      "word": "any luck",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌen.i ˈlʌk/",
+      "theme": "Stand-up and status updates",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a friendly, quick way to ask whether something you tried has worked yet.",
       "examples": [
-        "Authentication is out of scope for this release.",
-        "The scope keeps growing, so the deadline keeps moving."
-      ],
-      "synonyms": [
-        "extent",
-        "boundaries",
-        "remit"
+        "Any luck with the slow query?",
+        "Any luck finding the cause, or should I join you?"
       ],
       "collocations": [
-        "in scope",
-        "out of scope",
-        "scope creep",
-        "narrow the scope"
+        "any luck with",
+        "any luck finding",
+        "no luck yet"
       ],
-      "type": "word",
-      "theme": "Seed words",
-      "level": "B2",
-      "source": "Oxford 5000",
-      "cognate": "none"
+      "synonyms": [],
+      "mission": "Open Monday with 'any luck?' to someone who was stuck."
     },
     {
-      "word": "deprecate",
+      "word": "off",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ɒf/",
+      "theme": "Stand-up and status updates",
+      "level": "B1",
+      "source": "Oxford 3000",
+      "cognate": "none",
+      "trap": "Not 'je suis absent' → 'I'm absent' (that sounds like a school register): say I'm off tomorrow. Here off means not at work, not switched off.",
+      "definition": "not at work for a day or more, for example on holiday or sick.",
+      "examples": [
+        "I'm off tomorrow, so this is my last stand-up this week.",
+        "Sam's off sick today, so I'll cover her ticket."
+      ],
+      "collocations": [
+        "off tomorrow",
+        "off sick",
+        "a day off"
+      ],
+      "synonyms": [
+        "away"
+      ],
+      "mission": "Tell the team when you are next off, and who covers."
+    },
+    {
+      "word": "go through",
+      "type": "phrasal-verb",
       "pos": "verb",
-      "ipa": "/ˈdep.rə.keɪt/",
-      "definition": "to mark something as old and discouraged, before removing it later.",
+      "ipa": "/ˌɡəʊ ˈθruː/",
+      "theme": "Asking for clarification",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to look at or explain something carefully from beginning to end.",
       "examples": [
-        "We will deprecate the v1 endpoint in June and delete it in December.",
-        "That option is deprecated — use the config file instead."
+        "Can we go through the plan once more before I start?",
+        "She went through the checklist with the new hire."
       ],
-      "synonyms": [
-        "phase out",
-        "retire"
+      "forms": [
+        "went through",
+        "going through",
+        "goes through"
       ],
       "collocations": [
-        "deprecate an API",
-        "a deprecated method",
-        "deprecation warning"
+        "go through the plan",
+        "go through it again",
+        "go through the details"
       ],
+      "mission": "Ask to go through one plan with someone today."
+    },
+    {
+      "word": "assumption",
       "type": "word",
-      "theme": "Seed words",
+      "pos": "noun",
+      "ipa": "/əˈsʌmp.ʃən/",
+      "theme": "Asking for clarification",
       "level": "B2",
       "source": "Oxford 5000",
-      "cognate": "transparent"
+      "cognate": "partial",
+      "trap": "Not the religious 'Assomption': in English it is any belief you have not checked.",
+      "definition": "something you believe is true without checking, and then build your plan on.",
+      "examples": [
+        "My assumption is that the API returns dates in UTC — correct?",
+        "We lost a day because of a wrong assumption about the data."
+      ],
+      "forms": [
+        "assumptions"
+      ],
+      "collocations": [
+        "my assumption is",
+        "a wrong assumption",
+        "make an assumption"
+      ],
+      "mission": "State one assumption out loud before you act on it."
+    },
+    {
+      "word": "double-check",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/ˌdʌb.əl ˈtʃek/",
+      "theme": "Asking for clarification",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to check something a second time to be sure it is right.",
+      "examples": [
+        "Let me double-check the numbers before I reply.",
+        "I double-checked the branch name and it was wrong."
+      ],
+      "forms": [
+        "double-checked",
+        "double-checking",
+        "double-checks"
+      ],
+      "collocations": [
+        "double-check the numbers",
+        "double-check before",
+        "just double-checking"
+      ],
+      "mission": "Double-check one thing before you send it, and say you did."
+    },
+    {
+      "word": "make sense",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌmeɪk ˈsens/",
+      "theme": "Asking for clarification",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to be clear and easy to understand; also used to check that someone has understood you.",
+      "examples": [
+        "Does that make sense, or should I draw it?",
+        "The error made sense once we saw the logs."
+      ],
+      "forms": [
+        "makes sense",
+        "made sense",
+        "making sense"
+      ],
+      "collocations": [
+        "does that make sense",
+        "it makes sense",
+        "make sense of"
+      ],
+      "mission": "End one explanation today with 'does that make sense?'"
+    },
+    {
+      "word": "narrow down",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌnær.əʊ ˈdaʊn/",
+      "theme": "Asking for clarification",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to reduce a large number of possibilities to a few, so a choice becomes easier.",
+      "examples": [
+        "Can we narrow down what 'soon' means — this week or this month?",
+        "We narrowed the causes down to two."
+      ],
+      "forms": [
+        "narrowed down",
+        "narrowing down",
+        "narrows down",
+        "narrowed the causes down"
+      ],
+      "collocations": [
+        "narrow down the options",
+        "narrow it down",
+        "narrow down to"
+      ],
+      "mission": "Narrow one vague request down to two concrete options."
+    },
+    {
+      "word": "rough",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/rʌf/",
+      "theme": "Asking for clarification",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "trap": "Say /rʌf/, rhyming with 'stuff' — not like 'rouge'.",
+      "definition": "not exact or detailed; good enough to give a general idea.",
+      "examples": [
+        "Just give me a rough idea of the timeline.",
+        "It's a rough estimate — plus or minus a week."
+      ],
+      "collocations": [
+        "a rough idea",
+        "a rough estimate",
+        "a rough draft"
+      ],
+      "mission": "Ask for a rough idea instead of an exact figure today."
+    },
+    {
+      "word": "eventually",
+      "type": "word",
+      "pos": "adverb",
+      "ipa": "/ɪˈven.tʃu.ə.li/",
+      "theme": "Asking for clarification",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "false-friend",
+      "trap": "Not 'éventuellement' (maybe, possibly) — for that say possibly or if needed. Eventually means in the end.",
+      "definition": "in the end, after a long time or a lot of effort.",
+      "examples": [
+        "We'll eventually move everything to the new cluster.",
+        "The bug was eventually traced to a cache setting."
+      ],
+      "collocations": [
+        "will eventually",
+        "eventually became",
+        "eventually found"
+      ],
+      "mission": "Say what your team will eventually do — meaning in the end."
+    },
+    {
+      "word": "off the top of my head",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌɒf ðə ˌtɒp əv maɪ ˈhed/",
+      "theme": "Asking for clarification",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "said before an answer you give from memory, without checking, so it may not be exact.",
+      "examples": [
+        "Off the top of my head, it's about forty endpoints.",
+        "I can't tell you the exact date off the top of my head."
+      ],
+      "collocations": [
+        "off the top of my head",
+        "not off the top of my head"
+      ],
+      "mission": "Answer one question with 'off the top of my head, …' then check."
+    },
+    {
+      "word": "get back to",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌɡet ˈbæk tuː/",
+      "theme": "Asking for clarification",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to contact someone again later with an answer or information.",
+      "examples": [
+        "I don't know yet — I'll get back to you after lunch.",
+        "She got back to the client within the hour."
+      ],
+      "forms": [
+        "got back to",
+        "getting back to",
+        "gets back to"
+      ],
+      "collocations": [
+        "get back to you",
+        "get back to them",
+        "I'll get back to"
+      ],
+      "mission": "Say 'I'll get back to you' once today, then actually do it."
+    },
+    {
+      "word": "handy",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˈhæn.di/",
+      "theme": "Asking for clarification",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "useful and easy to use, especially in a practical way.",
+      "examples": [
+        "A diagram would be handy here.",
+        "This script comes in handy every release."
+      ],
+      "collocations": [
+        "would be handy",
+        "come in handy",
+        "a handy tool"
+      ],
+      "synonyms": [
+        "useful"
+      ],
+      "mission": "Say which document would be handy for your current task."
+    },
+    {
+      "word": "bear with me",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌbeə wɪð ˈmiː/",
+      "theme": "Asking for clarification",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "please wait and be patient while I finish or find something.",
+      "examples": [
+        "Bear with me, the page is loading.",
+        "Bear with me a second — I'm looking for the link."
+      ],
+      "collocations": [
+        "bear with me",
+        "bear with me a second",
+        "bear with us"
+      ],
+      "mission": "Say 'bear with me' instead of 'wait' the next time you share your screen."
+    },
+    {
+      "word": "in plain English",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/ɪn ˌpleɪn ˈɪŋ.ɡlɪʃ/",
+      "theme": "Asking for clarification",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "in simple, clear words that anyone can understand, without technical language.",
+      "examples": [
+        "In plain English: the server ran out of memory.",
+        "Can you explain the error in plain English for the client?"
+      ],
+      "collocations": [
+        "in plain English",
+        "put it in plain English",
+        "say it in plain English"
+      ],
+      "mission": "Explain one technical thing in plain English to someone."
+    },
+    {
+      "word": "hang on",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌhæŋ ˈɒn/",
+      "theme": "Asking for clarification",
+      "level": "B1",
+      "source": "PHaVE",
+      "cognate": "none",
+      "trap": "Not 'attends' translated as 'wait me': say hang on, or hold on.",
+      "definition": "wait a short moment; also said when you suddenly notice something.",
+      "examples": [
+        "Hang on, which branch are you on?",
+        "Hang on a second, I'll find the ticket."
+      ],
+      "forms": [
+        "hanging on",
+        "hung on"
+      ],
+      "collocations": [
+        "hang on a second",
+        "hang on a minute",
+        "hang on, …"
+      ],
+      "mission": "Use 'hang on' instead of 'wait' once today."
+    },
+    {
+      "word": "How's it going",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌhaʊz ɪt ˈɡəʊ.ɪŋ/",
+      "theme": "Asking for clarification",
+      "level": "A2",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Answer 'not bad' or 'good, thanks' — it is a greeting, not a real question about your health.",
+      "definition": "a friendly greeting that asks how someone is, or how their work is going.",
+      "examples": [
+        "Morning! How's it going with the migration?",
+        "How's it going? — Not bad, nearly done."
+      ],
+      "collocations": [
+        "how's it going",
+        "how's it going with"
+      ],
+      "mission": "Open Monday with 'how's it going?' and wait for the answer."
+    },
+    {
+      "word": "hold off",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌhəʊld ˈɒf/",
+      "theme": "Pushing back politely",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to wait and not do something yet, until you have more information.",
+      "examples": [
+        "Let's hold off on the release until QA is done.",
+        "We held off deploying because of the outage."
+      ],
+      "forms": [
+        "held off",
+        "holding off",
+        "holds off"
+      ],
+      "collocations": [
+        "hold off on",
+        "hold off until",
+        "hold off for now"
+      ],
+      "mission": "Suggest holding off on one thing, and say until when."
+    },
+    {
+      "word": "drawback",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈdrɔː.bæk/",
+      "theme": "Pushing back politely",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "a disadvantage or problem that makes something less good.",
+      "examples": [
+        "The main drawback is the extra cost.",
+        "Every option has drawbacks; this one has the fewest."
+      ],
+      "forms": [
+        "drawbacks"
+      ],
+      "collocations": [
+        "the main drawback",
+        "a major drawback",
+        "the drawback of"
+      ],
+      "mission": "Name one drawback of a plan before agreeing to it."
+    },
+    {
+      "word": "reluctant",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/rɪˈlʌk.tənt/",
+      "theme": "Pushing back politely",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "trap": "Stress the middle: re-LUC-tant, /rɪˈlʌk.tənt/.",
+      "definition": "not wanting to do something, and slow or unwilling to do it.",
+      "examples": [
+        "I'm reluctant to change the schema this late.",
+        "The client was reluctant to pay for tests."
+      ],
+      "collocations": [
+        "reluctant to",
+        "a bit reluctant",
+        "understandably reluctant"
+      ],
+      "mission": "Say what you are reluctant to do, and why, in one line."
+    },
+    {
+      "word": "point out",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌpɔɪnt ˈaʊt/",
+      "theme": "Pushing back politely",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to tell someone a fact they may not have noticed, without blaming them.",
+      "examples": [
+        "Can I point out that the deadline is a public holiday?",
+        "She pointed out a race condition in the review."
+      ],
+      "forms": [
+        "pointed out",
+        "pointing out",
+        "points out"
+      ],
+      "collocations": [
+        "point out that",
+        "point out a problem",
+        "worth pointing out"
+      ],
+      "mission": "Point out one fact in a meeting with 'can I point out that…'."
+    },
+    {
+      "word": "I'd rather",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/aɪd ˈrɑː.ðə/",
+      "theme": "Pushing back politely",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a polite way to say what you prefer to do instead.",
+      "examples": [
+        "I'd rather fix the root cause than patch it again.",
+        "I'd rather not promise a date yet."
+      ],
+      "collocations": [
+        "I'd rather",
+        "I'd rather not",
+        "I'd rather we"
+      ],
+      "mission": "Use 'I'd rather' once instead of 'I prefer'."
+    },
+    {
+      "word": "outweigh",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/ˌaʊtˈweɪ/",
+      "theme": "Pushing back politely",
+      "level": "C1",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "to be more important or bigger than something else, so it wins the decision.",
+      "examples": [
+        "The benefits outweigh the risk, in my view.",
+        "For now, speed outweighs polish."
+      ],
+      "forms": [
+        "outweighs",
+        "outweighed",
+        "outweighing"
+      ],
+      "collocations": [
+        "the benefits outweigh",
+        "far outweigh",
+        "outweigh the cost"
+      ],
+      "mission": "Say which side outweighs the other in one decision this week."
+    },
+    {
+      "word": "actually",
+      "type": "word",
+      "pos": "adverb",
+      "ipa": "/ˈæk.tʃu.ə.li/",
+      "theme": "Pushing back politely",
+      "level": "B1",
+      "source": "Oxford 3000",
+      "cognate": "false-friend",
+      "trap": "Not 'actuellement' (at the moment) — for that say currently or right now. Actually means in fact.",
+      "definition": "in fact; used to correct something politely or to say what is really true.",
+      "examples": [
+        "Actually, the test was already failing on main.",
+        "It's actually faster than the old version."
+      ],
+      "collocations": [
+        "actually, …",
+        "it's actually",
+        "actually happened"
+      ],
+      "mission": "Correct one small thing today starting with 'actually, …'."
+    },
+    {
+      "word": "awkward",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˈɔː.kwəd/",
+      "theme": "Pushing back politely",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "trap": "Say /ˈɔː.kwəd/ — the 'w' is silent.",
+      "definition": "making you feel uncomfortable or embarrassed; also difficult to deal with.",
+      "examples": [
+        "This is a bit awkward, but the estimate was wrong.",
+        "There was an awkward silence after the demo crashed."
+      ],
+      "collocations": [
+        "a bit awkward",
+        "an awkward silence",
+        "awkward to"
+      ],
+      "mission": "Open one difficult message with 'this is a bit awkward, but…'."
+    },
+    {
+      "word": "fair enough",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌfeər ɪˈnʌf/",
+      "theme": "Pushing back politely",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "said to accept what someone says as reasonable, even if you had a different view.",
+      "examples": [
+        "Fair enough, let's ship it without the export.",
+        "Fair enough — I hadn't seen the client's email."
+      ],
+      "collocations": [
+        "fair enough",
+        "fair enough, but"
+      ],
+      "mission": "Accept one point with 'fair enough' instead of arguing."
+    },
+    {
+      "word": "bring up",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌbrɪŋ ˈʌp/",
+      "theme": "Pushing back politely",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to start talking about a subject, especially one that is not easy.",
+      "examples": [
+        "I want to bring up the on-call rota before we finish.",
+        "Thanks for bringing it up — nobody else would."
+      ],
+      "forms": [
+        "brought up",
+        "bringing up",
+        "brings up"
+      ],
+      "collocations": [
+        "bring up a subject",
+        "bring it up",
+        "bring up the question of"
+      ],
+      "mission": "Bring up one thing you have been avoiding in a meeting."
+    },
+    {
+      "word": "no offence",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌnəʊ əˈfens/",
+      "theme": "Pushing back politely",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "said before or after a remark that might upset someone, to show you do not mean to be rude.",
+      "examples": [
+        "No offence, but that script is unreadable.",
+        "No offence taken — you're right."
+      ],
+      "collocations": [
+        "no offence, but",
+        "no offence taken",
+        "no offence meant"
+      ],
+      "mission": "Soften one honest remark with 'no offence, but…'."
+    },
+    {
+      "word": "on second thought",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/ˌɒn ˌsek.ənd ˈθɔːt/",
+      "theme": "Pushing back politely",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "used when you change your mind after thinking again.",
+      "examples": [
+        "On second thought, let's keep the old name.",
+        "On second thought, I'll ask before I refactor it."
+      ],
+      "collocations": [
+        "on second thought",
+        "on second thoughts"
+      ],
+      "mission": "Change your mind out loud once with 'on second thought…'."
+    },
+    {
+      "word": "have a point",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˌhæv ə ˈpɔɪnt/",
+      "theme": "Pushing back politely",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to say something that is reasonable and worth listening to.",
+      "examples": [
+        "You have a point — the tests do take too long.",
+        "He had a point about the naming."
+      ],
+      "forms": [
+        "has a point",
+        "had a point"
+      ],
+      "collocations": [
+        "you have a point",
+        "she has a point",
+        "had a point about"
+      ],
+      "mission": "Tell someone 'you have a point' when they do."
+    },
+    {
+      "word": "no worries",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌnəʊ ˈwʌr.iz/",
+      "theme": "Pushing back politely",
+      "level": "B1",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Not 'pas de souci' translated as 'no problem' every time: no worries is the friendlier, everyday one.",
+      "definition": "a friendly way to say that something is not a problem, or to accept an apology.",
+      "examples": [
+        "No worries, I'll pick it up on Monday.",
+        "Sorry for the late reply! — No worries."
+      ],
+      "collocations": [
+        "no worries",
+        "no worries at all"
+      ],
+      "mission": "Answer one apology with 'no worries' instead of 'it's nothing'."
     },
     {
       "word": "workaround",
+      "type": "word",
       "pos": "noun",
       "ipa": "/ˈwɜːk.ə.raʊnd/",
+      "theme": "Something broke",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
       "definition": "a temporary way to avoid a problem instead of fixing its cause.",
       "examples": [
-        "Clearing the cache is a workaround, not a real fix.",
-        "We shipped a workaround so users are not blocked until Monday."
+        "Clearing the cache is a workaround, not a fix.",
+        "We shipped a workaround so users aren't blocked until Monday."
       ],
-      "synonyms": [
-        "stopgap",
-        "quick fix"
+      "forms": [
+        "workarounds"
       ],
       "collocations": [
+        "a workaround, not a fix",
         "a temporary workaround",
         "find a workaround"
       ],
-      "type": "word",
-      "theme": "Seed words",
-      "level": "B2",
-      "source": "Oxford 5000",
-      "cognate": "none"
+      "mission": "Name one workaround in your code that should become a fix."
     },
     {
-      "word": "robust",
-      "pos": "adjective",
-      "ipa": "/rəʊˈbʌst/",
-      "definition": "strong enough to keep working correctly when conditions get bad.",
-      "examples": [
-        "The parser is robust: it survives malformed input without crashing.",
-        "We need a robust process that works even when people are on holiday."
-      ],
-      "synonyms": [
-        "resilient",
-        "sturdy",
-        "reliable"
-      ],
-      "collocations": [
-        "a robust solution",
-        "robust error handling"
-      ],
-      "type": "word",
-      "theme": "Seed words",
-      "level": "B2",
-      "source": "Oxford 5000",
-      "cognate": "transparent"
-    },
-    {
-      "word": "trade-off",
-      "pos": "noun",
-      "ipa": "/ˈtreɪd.ɒf/",
-      "definition": "a situation where you accept losing one good thing to gain another.",
-      "examples": [
-        "There is a trade-off between speed and memory usage here.",
-        "Every architecture is a trade-off; pick the one that fits your needs."
-      ],
-      "synonyms": [
-        "compromise",
-        "balance"
-      ],
-      "collocations": [
-        "a trade-off between X and Y",
-        "accept a trade-off"
-      ],
-      "type": "word",
-      "theme": "Seed words",
-      "level": "B2",
-      "source": "Oxford 5000",
-      "cognate": "none"
-    },
-    {
-      "word": "clarify",
+      "word": "track down",
+      "type": "phrasal-verb",
       "pos": "verb",
-      "ipa": "/ˈklær.ɪ.faɪ/",
-      "definition": "to make something easier to understand by explaining it more clearly.",
+      "ipa": "/ˌtræk ˈdaʊn/",
+      "theme": "Something broke",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to find something or someone after searching in many places.",
       "examples": [
-        "Could you clarify what you mean by \"soon\"?",
-        "Let me clarify one point before we vote on it."
+        "I'm trying to track down where the null comes from.",
+        "It took an hour to track down the config that changed."
       ],
-      "synonyms": [
-        "explain",
-        "spell out"
+      "forms": [
+        "tracked down",
+        "tracking down",
+        "tracks down"
       ],
       "collocations": [
-        "clarify a point",
-        "just to clarify",
-        "clarify expectations"
+        "track down the cause",
+        "track down where",
+        "track it down"
       ],
-      "type": "word",
-      "theme": "Seed words",
-      "level": "B2",
-      "source": "Oxford 5000",
-      "cognate": "transparent"
+      "mission": "Say what you are still trying to track down."
     },
     {
-      "word": "backlog",
+      "word": "root cause",
+      "type": "chunk",
       "pos": "noun",
-      "ipa": "/ˈbæk.lɒɡ/",
-      "definition": "work that has piled up and is still waiting to be done.",
+      "ipa": "/ˌruːt ˈkɔːz/",
+      "theme": "Something broke",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "the real, first reason a problem happens — not just what you can see.",
       "examples": [
-        "That idea is in the backlog, but nobody is working on it yet.",
-        "We spent a week clearing the backlog of support tickets."
+        "The root cause was a full disk, not the app.",
+        "We fixed the symptom; the root cause is still open."
       ],
-      "synonyms": [
-        "queue",
-        "pile-up"
+      "forms": [
+        "root causes"
       ],
       "collocations": [
-        "clear the backlog",
-        "a growing backlog",
-        "in the backlog"
+        "the root cause of",
+        "find the root cause",
+        "root cause analysis"
       ],
-      "type": "word",
-      "theme": "Seed words",
-      "level": "B2",
-      "source": "Oxford 5000",
-      "cognate": "none"
+      "mission": "Ask 'what's the root cause?' once about a bug today."
     },
     {
-      "word": "escalate",
+      "word": "flaky",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˈfleɪ.ki/",
+      "theme": "Something broke",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "not reliable; working sometimes and failing other times for no clear reason.",
+      "examples": [
+        "That test is flaky — it fails one run in five.",
+        "The Wi-Fi in the meeting room is flaky."
+      ],
+      "collocations": [
+        "a flaky test",
+        "flaky Wi-Fi",
+        "gets flaky"
+      ],
+      "mission": "Call one unreliable thing 'flaky' and say how often it fails."
+    },
+    {
+      "word": "roll back",
+      "type": "phrasal-verb",
       "pos": "verb",
-      "ipa": "/ˈes.kə.leɪt/",
-      "definition": "to pass a problem to someone more senior, or to make it grow worse.",
+      "ipa": "/ˌrəʊl ˈbæk/",
+      "theme": "Something broke",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to return a system to an earlier version because the new one causes problems.",
       "examples": [
-        "If the client does not reply by Thursday, escalate it to the manager.",
-        "A small disagreement escalated into a two-week argument."
+        "If errors spike, we roll back within five minutes.",
+        "They rolled back the release after the first complaint."
       ],
-      "synonyms": [
-        "raise",
-        "intensify"
+      "forms": [
+        "rolled back",
+        "rolling back",
+        "rolls back"
       ],
       "collocations": [
-        "escalate an issue",
-        "escalate to management",
-        "escalate quickly"
+        "roll back the release",
+        "roll back to",
+        "rolled back"
       ],
-      "type": "word",
-      "theme": "Seed words",
-      "level": "B2",
-      "source": "Oxford 5000",
-      "cognate": "transparent"
+      "mission": "Say what you would roll back to if today's change fails."
     },
     {
-      "word": "blocker",
+      "word": "outage",
+      "type": "word",
       "pos": "noun",
-      "ipa": "/ˈblɒk.ər/",
-      "definition": "something that stops you from making any progress until it is solved.",
+      "ipa": "/ˈaʊ.tɪdʒ/",
+      "theme": "Something broke",
+      "level": "C1",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "trap": "Not 'panne' translated as 'breakdown': for a service, say outage.",
+      "definition": "a period when a service or system is not working at all.",
       "examples": [
-        "The missing API key is a blocker for the whole team.",
-        "Any blockers before we start the sprint?"
+        "We had a twenty-minute outage this morning.",
+        "The outage was caused by an expired certificate."
       ],
-      "synonyms": [
-        "obstacle",
-        "showstopper"
+      "forms": [
+        "outages"
       ],
       "collocations": [
-        "a blocker for",
-        "remove a blocker",
-        "raise a blocker"
+        "a twenty-minute outage",
+        "during the outage",
+        "cause an outage"
       ],
-      "type": "word",
-      "theme": "Seed words",
-      "level": "B2",
-      "source": "Oxford 5000",
-      "cognate": "none"
+      "mission": "Describe the last outage you saw in one sentence."
     },
     {
-      "word": "granular",
+      "word": "sensible",
+      "type": "word",
       "pos": "adjective",
-      "ipa": "/ˈɡræn.jə.lər/",
-      "definition": "made of small, separate details rather than one big block.",
+      "ipa": "/ˈsen.sə.bəl/",
+      "theme": "Something broke",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "false-friend",
+      "trap": "Not 'sensible' in French (sensitive, easily hurt) — for that say sensitive. Sensible means reasonable.",
+      "definition": "showing good judgement; practical and reasonable.",
       "examples": [
-        "We need more granular permissions — read-only is too broad.",
-        "The report is too granular; give me the summary first."
-      ],
-      "synonyms": [
-        "fine-grained",
-        "detailed"
+        "The sensible fix is to add a timeout.",
+        "It was sensible to roll back first and investigate later."
       ],
       "collocations": [
-        "granular control",
-        "granular permissions",
-        "a granular breakdown"
+        "the sensible thing",
+        "a sensible fix",
+        "sensible to"
       ],
-      "type": "word",
-      "theme": "Seed words",
-      "level": "B2",
-      "source": "Oxford 5000",
-      "cognate": "transparent"
+      "mission": "Call one option 'the sensible thing to do' and explain why."
     },
     {
-      "word": "cumbersome",
-      "pos": "adjective",
-      "ipa": "/ˈkʌm.bə.səm/",
-      "definition": "slow and awkward to use, because it is too heavy or complicated.",
+      "word": "rule out",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌruːl ˈaʊt/",
+      "theme": "Something broke",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to decide that something is not possible or not the cause, so you stop considering it.",
       "examples": [
-        "The approval process is cumbersome: four signatures for one invoice.",
-        "This library is powerful but cumbersome for small scripts."
+        "We can rule out the database — it was idle.",
+        "Don't rule out a DNS problem yet."
       ],
-      "synonyms": [
-        "unwieldy",
-        "clunky",
-        "awkward"
+      "forms": [
+        "ruled out",
+        "ruling out",
+        "rules out"
       ],
       "collocations": [
-        "a cumbersome process",
-        "cumbersome to maintain"
+        "rule out the database",
+        "rule out a cause",
+        "can't rule out"
       ],
-      "type": "word",
-      "theme": "Seed words",
-      "level": "B2",
-      "source": "Oxford 5000",
-      "cognate": "none"
+      "mission": "Rule out one possible cause out loud, with your evidence."
     },
     {
-      "word": "insight",
+      "word": "hassle",
+      "type": "word",
       "pos": "noun",
-      "ipa": "/ˈɪn.saɪt/",
-      "definition": "a clear, useful understanding of why something happens.",
-      "examples": [
-        "The logs gave us a real insight into how users actually navigate.",
-        "Thanks for that insight — it changes how I see the problem."
-      ],
-      "synonyms": [
-        "understanding",
-        "realisation"
-      ],
-      "collocations": [
-        "gain insight into",
-        "a valuable insight",
-        "share an insight"
-      ],
-      "type": "word",
-      "theme": "Seed words",
+      "ipa": "/ˈhæs.əl/",
+      "theme": "Something broke",
       "level": "B2",
       "source": "Oxford 5000",
-      "cognate": "transparent"
+      "cognate": "none",
+      "definition": "something annoying that takes time and effort, without being difficult.",
+      "examples": [
+        "Rotating the keys is a hassle, but it's ten minutes.",
+        "Sorry for the hassle — the link works now."
+      ],
+      "collocations": [
+        "a hassle",
+        "sorry for the hassle",
+        "too much hassle"
+      ],
+      "synonyms": [
+        "bother"
+      ],
+      "mission": "Apologise for one small hassle you caused, in one line."
+    },
+    {
+      "word": "for the time being",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/fə ðə ˌtaɪm ˈbiː.ɪŋ/",
+      "theme": "Something broke",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "for now, until something changes.",
+      "examples": [
+        "For the time being, use the old endpoint.",
+        "The workaround stays in place for the time being."
+      ],
+      "collocations": [
+        "for the time being",
+        "at least for the time being"
+      ],
+      "mission": "Say what stays as it is for the time being."
+    },
+    {
+      "word": "my bad",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/maɪ ˈbæd/",
+      "theme": "Something broke",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Informal: fine in chat and with colleagues, not in an email to a client.",
+      "definition": "an informal way to say that something was your mistake.",
+      "examples": [
+        "My bad — I pushed to the wrong branch.",
+        "That typo was my bad, fixed now."
+      ],
+      "collocations": [
+        "my bad",
+        "my bad, sorry"
+      ],
+      "mission": "Own one small mistake with 'my bad' instead of a long apology."
+    },
+    {
+      "word": "in hindsight",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/ɪn ˈhaɪnd.saɪt/",
+      "theme": "Something broke",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "when you look back at something after it has happened, and understand it better.",
+      "examples": [
+        "In hindsight, we should have tested the rollback.",
+        "In hindsight the warning in the logs was obvious."
+      ],
+      "collocations": [
+        "in hindsight",
+        "with hindsight"
+      ],
+      "mission": "Say one thing that is obvious in hindsight about a recent bug."
+    },
+    {
+      "word": "up and running",
+      "type": "chunk",
+      "pos": "adjective",
+      "ipa": "/ˌʌp ənd ˈrʌn.ɪŋ/",
+      "theme": "Something broke",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "working normally again after being stopped or set up.",
+      "examples": [
+        "Good news: the API is up and running again.",
+        "The new laptop was up and running in an hour."
+      ],
+      "collocations": [
+        "up and running",
+        "back up and running",
+        "get it up and running"
+      ],
+      "mission": "Announce one thing that is back up and running."
+    },
+    {
+      "word": "glitch",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ɡlɪtʃ/",
+      "theme": "Something broke",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a small, sudden problem that stops something working properly for a short time.",
+      "examples": [
+        "It was just a glitch — refresh and it's gone.",
+        "A rendering glitch hid the button on mobile."
+      ],
+      "forms": [
+        "glitches"
+      ],
+      "collocations": [
+        "just a glitch",
+        "a small glitch",
+        "a glitch in"
+      ],
+      "mission": "Call one small, short problem a glitch — not a bug."
     }
   ]
 }
