@@ -60,6 +60,47 @@ sienne, rien n'est envoyé nulle part. Changer de navigateur = repartir de zéro
 
 ---
 
+## Les 26 semaines
+
+Six mois de contenu sont en place (364 entrées). Chaque semaine = une
+situation ; le jeudi porte le faux ami de la semaine.
+
+| Semaine | Situation | Faux ami |
+| --- | --- | --- |
+| 1 | Stand-up and status updates | delay |
+| 2 | Asking for clarification | eventually |
+| 3 | Pushing back politely | actually |
+| 4 | Something broke | sensible |
+| 5 | Planning the sprint | tentative |
+| 6 | Code review and giving feedback | comprehensive |
+| 7 | Writing to a client | demand |
+| 8 | Running a meeting | agenda |
+| 9 | Deadlines and priorities | actual |
+| 10 | Numbers and data | figure |
+| 11 | Explaining a decision | consistent |
+| 12 | Onboarding a newcomer | attend |
+| 13 | Remote-work small talk | sympathetic |
+| 14 | Cost, effort and budget | billion |
+| 15 | Post-mortem and lessons learned | resume |
+| 16 | Asking for and giving help | assist |
+| 17 | Negotiating scope with a client | pretend |
+| 18 | Hiring and interviews | resign |
+| 19 | One-to-ones and feedback on people | confidence |
+| 20 | Presenting a demo | prevent |
+| 21 | Handling an unhappy client | deceive |
+| 22 | Documentation and handover | library |
+| 23 | Travel and office logistics | location |
+| 24 | Security and access | control |
+| 25 | Roadmap and strategy | achieve |
+| 26 | Closing a project | rest |
+
+Les niveaux CECR et les listes d'origine (`level`, `source`) ont été
+attribués de mémoire, pas vérifiés un par un sur l'Oxford Learner's
+Dictionary : si un mot te paraît mal classé, corrige-le dans une PR — c'est
+exactement le genre de relecture qu'un collègue peut faire en cinq minutes.
+
+---
+
 ## Ajouter des mots
 
 Voir [`CONTRIBUTING.md`](CONTRIBUTING.md) : une contribution = une semaine de

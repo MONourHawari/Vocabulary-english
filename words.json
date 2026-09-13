@@ -6295,6 +6295,2351 @@
         "grow into the job"
       ],
       "mission": "Name one role you or a colleague could grow into."
+    },
+    {
+      "word": "show off",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌʃəʊ ˈɒf/",
+      "theme": "Presenting a demo",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to show something you are proud of so that people admire it.",
+      "examples": [
+        "Let me show off the new search — it's fast now.",
+        "The demo showed off the mobile layout nicely."
+      ],
+      "forms": [
+        "showed off",
+        "showing off",
+        "shows off",
+        "show it off"
+      ],
+      "collocations": [
+        "show off the new",
+        "showed off",
+        "show it off"
+      ],
+      "mission": "Show off one thing you built this month, in two minutes."
+    },
+    {
+      "word": "pitch",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/pɪtʃ/",
+      "theme": "Presenting a demo",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a short talk that tries to persuade people to accept an idea or buy something.",
+      "examples": [
+        "Give me the two-minute pitch for the new dashboard.",
+        "Her pitch to the board got the budget approved."
+      ],
+      "forms": [
+        "pitches"
+      ],
+      "collocations": [
+        "a two-minute pitch",
+        "the pitch for",
+        "an elevator pitch"
+      ],
+      "mission": "Prepare a thirty-second pitch for one feature."
+    },
+    {
+      "word": "in a nutshell",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/ɪn ə ˈnʌt.ʃel/",
+      "theme": "Presenting a demo",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "said before a very short summary of something.",
+      "examples": [
+        "In a nutshell: same data, half the load time.",
+        "That, in a nutshell, is why we chose Postgres."
+      ],
+      "collocations": [
+        "in a nutshell",
+        "in a nutshell:",
+        "that's it in a nutshell"
+      ],
+      "mission": "Start one summary with 'in a nutshell'."
+    },
+    {
+      "word": "hiccup",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈhɪk.ʌp/",
+      "theme": "Presenting a demo",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a small problem or delay that does not last long.",
+      "examples": [
+        "Small hiccup with the projector, but we're on.",
+        "There were a few hiccups in the first release."
+      ],
+      "forms": [
+        "hiccups"
+      ],
+      "collocations": [
+        "a small hiccup",
+        "a few hiccups",
+        "a minor hiccup"
+      ],
+      "mission": "Call one small problem a hiccup instead of a disaster."
+    },
+    {
+      "word": "bear in mind",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˌbeər ɪn ˈmaɪnd/",
+      "theme": "Presenting a demo",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to remember and consider something while you judge or decide.",
+      "examples": [
+        "Bear in mind this is test data, not real customers.",
+        "Bear in mind that the demo runs on one small server."
+      ],
+      "forms": [
+        "bearing in mind",
+        "bore in mind",
+        "bear that in mind"
+      ],
+      "collocations": [
+        "bear in mind that",
+        "bearing in mind",
+        "bear that in mind"
+      ],
+      "mission": "Say 'bear in mind …' once before showing something unfinished."
+    },
+    {
+      "word": "under the hood",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/ˌʌn.də ðə ˈhʊd/",
+      "theme": "Presenting a demo",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "inside a system, where users cannot see how it works.",
+      "examples": [
+        "Under the hood, it's just one SQL query.",
+        "Nothing changed for users; under the hood we replaced the queue."
+      ],
+      "collocations": [
+        "under the hood",
+        "what happens under the hood"
+      ],
+      "mission": "Explain one feature 'under the hood' in one sentence."
+    },
+    {
+      "word": "prevent",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/prɪˈvent/",
+      "theme": "Presenting a demo",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "false-friend",
+      "trap": "Not 'prévenir' (to warn) — for that say warn or let someone know. Prevent means stop from happening.",
+      "definition": "to stop something from happening.",
+      "examples": [
+        "The lock prevents two people editing the same record.",
+        "We added a check to prevent duplicate orders."
+      ],
+      "forms": [
+        "prevents",
+        "prevented",
+        "preventing"
+      ],
+      "collocations": [
+        "prevent duplicates",
+        "prevent from",
+        "to prevent"
+      ],
+      "mission": "Say what one feature prevents, in those words."
+    },
+    {
+      "word": "smooth",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/smuːð/",
+      "theme": "Presenting a demo",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "happening without problems or interruptions.",
+      "examples": [
+        "The demo was smooth — not a single error.",
+        "We want a smooth migration, not a fast one."
+      ],
+      "forms": [
+        "smoothly"
+      ],
+      "collocations": [
+        "a smooth demo",
+        "a smooth migration",
+        "went smoothly"
+      ],
+      "mission": "Say what would make one process smooth."
+    },
+    {
+      "word": "fingers crossed",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌfɪŋ.ɡəz ˈkrɒst/",
+      "theme": "Presenting a demo",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "said when you hope something will go well.",
+      "examples": [
+        "Demo at three — fingers crossed the Wi-Fi holds.",
+        "Fingers crossed the client likes the new flow."
+      ],
+      "collocations": [
+        "fingers crossed",
+        "fingers crossed that",
+        "keep your fingers crossed"
+      ],
+      "mission": "Say 'fingers crossed' before one risky moment this week."
+    },
+    {
+      "word": "fallback",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈfɔːl.bæk/",
+      "theme": "Presenting a demo",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "something you can use if the first plan or system fails.",
+      "examples": [
+        "The fallback is a recorded video if the live demo dies.",
+        "Always have a fallback for a demo."
+      ],
+      "forms": [
+        "fallbacks"
+      ],
+      "collocations": [
+        "the fallback is",
+        "a fallback plan",
+        "fall back on"
+      ],
+      "mission": "Name your fallback for one demo or deploy."
+    },
+    {
+      "word": "nail it",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˈneɪl ɪt/",
+      "theme": "Presenting a demo",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to do something perfectly.",
+      "examples": [
+        "You nailed it — the client asked for a second demo.",
+        "We nailed the timing this time."
+      ],
+      "forms": [
+        "nailed it",
+        "nailed the timing",
+        "nailing it"
+      ],
+      "collocations": [
+        "nailed it",
+        "nail the demo",
+        "nail it"
+      ],
+      "mission": "Tell someone 'you nailed it' when they did."
+    },
+    {
+      "word": "stage fright",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˈsteɪdʒ ˌfraɪt/",
+      "theme": "Presenting a demo",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "the nervous feeling you get before speaking or performing in front of people.",
+      "examples": [
+        "I get stage fright before every client demo.",
+        "A rehearsal cures most stage fright."
+      ],
+      "collocations": [
+        "get stage fright",
+        "stage fright before",
+        "a bit of stage fright"
+      ],
+      "mission": "Admit stage fright once — it makes the audience kinder."
+    },
+    {
+      "word": "on the fly",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/ˌɒn ðə ˈflaɪ/",
+      "theme": "Presenting a demo",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "while something is running, without stopping to prepare.",
+      "examples": [
+        "I changed the filter on the fly during the demo.",
+        "Config can be updated on the fly, no restart."
+      ],
+      "collocations": [
+        "on the fly",
+        "changed on the fly",
+        "done on the fly"
+      ],
+      "mission": "Say what you can change on the fly, and what you cannot."
+    },
+    {
+      "word": "tweak",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/twiːk/",
+      "theme": "Presenting a demo",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to make a small change to improve something.",
+      "examples": [
+        "Let me tweak the colours before the demo.",
+        "We tweaked the wording after the feedback."
+      ],
+      "forms": [
+        "tweaked",
+        "tweaking",
+        "tweaks",
+        "tweak"
+      ],
+      "collocations": [
+        "tweak the settings",
+        "a small tweak",
+        "tweaked"
+      ],
+      "mission": "Tweak one small thing and say what you tweaked."
+    },
+    {
+      "word": "let down",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌlet ˈdaʊn/",
+      "theme": "Handling an unhappy client",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to disappoint someone by not doing what they expected.",
+      "examples": [
+        "We let the client down on the launch date.",
+        "I don't want to let the team down again."
+      ],
+      "forms": [
+        "let the client down",
+        "let the team down",
+        "letting down",
+        "lets down"
+      ],
+      "collocations": [
+        "let the client down",
+        "let down",
+        "feel let down"
+      ],
+      "mission": "Say 'we let you down on …' in one apology, then the fix."
+    },
+    {
+      "word": "sore point",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˌsɔː ˈpɔɪnt/",
+      "theme": "Handling an unhappy client",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a subject that makes someone upset or angry when it is mentioned.",
+      "examples": [
+        "The old outage is still a sore point with them.",
+        "Pricing is a sore point — avoid it on the call."
+      ],
+      "forms": [
+        "sore points"
+      ],
+      "collocations": [
+        "a sore point",
+        "still a sore point",
+        "a sore point with"
+      ],
+      "mission": "Name one sore point before the call, so nobody steps on it."
+    },
+    {
+      "word": "make it up to",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˌmeɪk ɪt ˈʌp tuː/",
+      "theme": "Handling an unhappy client",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to do something good for someone because you caused them a problem.",
+      "examples": [
+        "We'll make it up to you with a free month.",
+        "How can we make it up to the client?"
+      ],
+      "forms": [
+        "made it up to",
+        "making it up to"
+      ],
+      "collocations": [
+        "make it up to you",
+        "make it up to them",
+        "made it up to"
+      ],
+      "mission": "Say how you would make it up to one unhappy user."
+    },
+    {
+      "word": "fed up",
+      "type": "chunk",
+      "pos": "adjective",
+      "ipa": "/ˌfed ˈʌp/",
+      "theme": "Handling an unhappy client",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "annoyed and tired of something that has gone on too long.",
+      "examples": [
+        "They're fed up with the login problems.",
+        "I'm fed up of chasing the same invoice."
+      ],
+      "collocations": [
+        "fed up with",
+        "fed up of",
+        "getting fed up"
+      ],
+      "mission": "Recognise when a client is fed up, and say so first."
+    },
+    {
+      "word": "patch up",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌpætʃ ˈʌp/",
+      "theme": "Handling an unhappy client",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to repair a relationship after a disagreement.",
+      "examples": [
+        "A call did more to patch things up than ten emails.",
+        "We patched it up with the client over lunch."
+      ],
+      "forms": [
+        "patch things up",
+        "patched it up",
+        "patched up",
+        "patching up"
+      ],
+      "collocations": [
+        "patch things up",
+        "patched it up",
+        "patch up the relationship"
+      ],
+      "mission": "Suggest a way to patch things up with one unhappy person."
+    },
+    {
+      "word": "goodwill",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˌɡʊdˈwɪl/",
+      "theme": "Handling an unhappy client",
+      "level": "C1",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "friendly, trusting feelings that make people willing to help you.",
+      "examples": [
+        "One honest apology buys a lot of goodwill.",
+        "We've used up our goodwill with two missed dates."
+      ],
+      "collocations": [
+        "buy goodwill",
+        "use up goodwill",
+        "a gesture of goodwill"
+      ],
+      "mission": "Say what would rebuild goodwill with one client."
+    },
+    {
+      "word": "deceive",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/dɪˈsiːv/",
+      "theme": "Handling an unhappy client",
+      "level": "C1",
+      "source": "Oxford 5000",
+      "cognate": "false-friend",
+      "trap": "Not 'décevoir' (to disappoint) — for that say disappoint or let down. Deceive means to trick.",
+      "definition": "to make someone believe something that is not true.",
+      "examples": [
+        "We never deceived them — we told them the risk on day one.",
+        "The dashboard deceived us: it was showing cached data."
+      ],
+      "forms": [
+        "deceived",
+        "deceiving",
+        "deceives"
+      ],
+      "collocations": [
+        "deceive someone",
+        "deceived by",
+        "deceiving"
+      ],
+      "mission": "Check one apology: did you mean 'disappoint' where you wrote 'deceive'?"
+    },
+    {
+      "word": "heated",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˈhiː.tɪd/",
+      "theme": "Handling an unhappy client",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "full of anger and strong feelings.",
+      "examples": [
+        "The call got heated when we mentioned the extra cost.",
+        "A heated debate about who owns the bug."
+      ],
+      "collocations": [
+        "a heated call",
+        "get heated",
+        "a heated debate"
+      ],
+      "mission": "Describe one exchange as heated, and what cooled it down."
+    },
+    {
+      "word": "I hear you",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/aɪ ˈhɪə juː/",
+      "theme": "Handling an unhappy client",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "said to show you understand someone's complaint, before you answer it.",
+      "examples": [
+        "I hear you — two outages in a month is not acceptable.",
+        "I hear you. Here is what we're changing."
+      ],
+      "collocations": [
+        "I hear you",
+        "I hear you, and"
+      ],
+      "mission": "Start one reply to a complaint with 'I hear you'."
+    },
+    {
+      "word": "bend over backwards",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˌbend ˌəʊ.və ˈbæk.wədz/",
+      "theme": "Handling an unhappy client",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to try extremely hard to help or please someone.",
+      "examples": [
+        "Support bent over backwards to get them live by Monday.",
+        "We'll bend over backwards, but we won't skip the audit."
+      ],
+      "forms": [
+        "bent over backwards",
+        "bending over backwards",
+        "bends over backwards"
+      ],
+      "collocations": [
+        "bend over backwards to",
+        "bent over backwards",
+        "bend over backwards for"
+      ],
+      "mission": "Say where the team bent over backwards last month."
+    },
+    {
+      "word": "touchy",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˈtʌtʃ.i/",
+      "theme": "Handling an unhappy client",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "likely to upset people; needing care when you talk about it.",
+      "examples": [
+        "Pricing is touchy with this client — go gently.",
+        "He's touchy about the old codebase."
+      ],
+      "collocations": [
+        "a touchy subject",
+        "touchy about",
+        "a bit touchy"
+      ],
+      "mission": "Flag one touchy subject before a meeting."
+    },
+    {
+      "word": "win back",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌwɪn ˈbæk/",
+      "theme": "Handling an unhappy client",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to get back the trust or the business of someone you had lost.",
+      "examples": [
+        "It took a quarter to win the client back.",
+        "A fast, honest fix wins back more trust than a discount."
+      ],
+      "forms": [
+        "win the client back",
+        "won back",
+        "winning back",
+        "wins back"
+      ],
+      "collocations": [
+        "win the client back",
+        "win back trust",
+        "won back"
+      ],
+      "mission": "Say what would win one lost client back."
+    },
+    {
+      "word": "on the same page",
+      "type": "chunk",
+      "pos": "adjective",
+      "ipa": "/ˌɒn ðə ˌseɪm ˈpeɪdʒ/",
+      "theme": "Handling an unhappy client",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "agreeing about what is happening and what to do next.",
+      "examples": [
+        "Let's make sure we're on the same page before the call.",
+        "The client and the team were not on the same page about 'done'."
+      ],
+      "collocations": [
+        "on the same page",
+        "get on the same page",
+        "not on the same page"
+      ],
+      "mission": "Check that you and one client are on the same page, in one sentence."
+    },
+    {
+      "word": "vent",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/vent/",
+      "theme": "Handling an unhappy client",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to express strong feelings, especially anger, to release them.",
+      "examples": [
+        "Let the client vent for two minutes before you answer.",
+        "I needed to vent after that call."
+      ],
+      "forms": [
+        "vented",
+        "venting",
+        "vents"
+      ],
+      "collocations": [
+        "let someone vent",
+        "vent about",
+        "vent for a minute"
+      ],
+      "mission": "Let someone vent once without interrupting."
+    },
+    {
+      "word": "handover",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈhænd.əʊ.və/",
+      "theme": "Documentation and handover",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "the act of passing responsibility for work to another person, with the information they need.",
+      "examples": [
+        "We need a proper handover before Sara leaves.",
+        "The handover doc has the passwords' location, not the passwords."
+      ],
+      "forms": [
+        "handovers"
+      ],
+      "collocations": [
+        "a proper handover",
+        "handover doc",
+        "handover to"
+      ],
+      "mission": "Write the first three lines of a handover for your current task."
+    },
+    {
+      "word": "flesh out",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌfleʃ ˈaʊt/",
+      "theme": "Documentation and handover",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to add more detail to something that is only an outline.",
+      "examples": [
+        "Can you flesh out the deploy section of the runbook?",
+        "The plan is fleshed out enough to estimate."
+      ],
+      "forms": [
+        "fleshed out",
+        "fleshing out",
+        "fleshes out",
+        "flesh it out"
+      ],
+      "collocations": [
+        "flesh out the details",
+        "fleshed out",
+        "flesh it out"
+      ],
+      "mission": "Flesh out one thin paragraph in the docs."
+    },
+    {
+      "word": "stale",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/steɪl/",
+      "theme": "Documentation and handover",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "no longer accurate because it has not been updated.",
+      "examples": [
+        "Half the wiki is stale — the ports changed.",
+        "Delete stale docs; a wrong page is worse than no page."
+      ],
+      "collocations": [
+        "stale docs",
+        "go stale",
+        "a stale cache"
+      ],
+      "mission": "Find one stale page and fix or delete it."
+    },
+    {
+      "word": "single source of truth",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˌsɪŋ.ɡəl ˌsɔːs əv ˈtruːθ/",
+      "theme": "Documentation and handover",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "the one place where the correct version of information is kept.",
+      "examples": [
+        "The config repo is the single source of truth for ports.",
+        "Two spreadsheets means no single source of truth."
+      ],
+      "collocations": [
+        "the single source of truth",
+        "a single source of truth for"
+      ],
+      "mission": "Name the single source of truth for one piece of information."
+    },
+    {
+      "word": "jot down",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌdʒɒt ˈdaʊn/",
+      "theme": "Documentation and handover",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to write something quickly, in a few words, so you do not forget it.",
+      "examples": [
+        "Jot down the steps while you do them — that's the doc.",
+        "I jotted down the error before the screen cleared."
+      ],
+      "forms": [
+        "jotted down",
+        "jotting down",
+        "jots down",
+        "jot it down"
+      ],
+      "collocations": [
+        "jot down the steps",
+        "jotted down",
+        "jot it down"
+      ],
+      "mission": "Jot down one process as you do it today."
+    },
+    {
+      "word": "runbook",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈrʌn.bʊk/",
+      "theme": "Documentation and handover",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a document with step-by-step instructions for a routine or emergency task.",
+      "examples": [
+        "The runbook for a failed deploy is one page — keep it that way.",
+        "Every alert should link to a runbook."
+      ],
+      "forms": [
+        "runbooks"
+      ],
+      "collocations": [
+        "the runbook for",
+        "follow the runbook",
+        "a one-page runbook"
+      ],
+      "mission": "Link one alert to its runbook, or write the missing one."
+    },
+    {
+      "word": "library",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈlaɪ.brər.i/",
+      "theme": "Documentation and handover",
+      "level": "B1",
+      "source": "Oxford 3000",
+      "cognate": "false-friend",
+      "trap": "Not 'librairie' (a bookshop) — for that say bookshop. A library lends books, or is shared code.",
+      "definition": "a collection of code that other programs can use; also a place where books are kept.",
+      "examples": [
+        "The client library's docs are two versions behind.",
+        "We publish the library docs with every release."
+      ],
+      "forms": [
+        "libraries"
+      ],
+      "collocations": [
+        "client library",
+        "the library docs",
+        "a shared library"
+      ],
+      "mission": "Use library, not 'librairie', when you write about code."
+    },
+    {
+      "word": "self-explanatory",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˌself ɪkˈsplæn.ə.tər.i/",
+      "theme": "Documentation and handover",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "clear enough to be understood without any extra explanation.",
+      "examples": [
+        "The config keys are self-explanatory; the values aren't.",
+        "Good names make the code self-explanatory."
+      ],
+      "collocations": [
+        "self-explanatory",
+        "fairly self-explanatory",
+        "not self-explanatory"
+      ],
+      "mission": "Find one thing you called self-explanatory and test it on a newcomer."
+    },
+    {
+      "word": "brain dump",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˈbreɪn ˌdʌmp/",
+      "theme": "Documentation and handover",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a quick, unorganised record of everything someone knows about a subject.",
+      "examples": [
+        "Do a brain dump before your holiday — I'll tidy it.",
+        "The wiki page started as a brain dump."
+      ],
+      "forms": [
+        "brain dumps"
+      ],
+      "collocations": [
+        "a brain dump",
+        "do a brain dump",
+        "a quick brain dump"
+      ],
+      "mission": "Do a ten-minute brain dump on one thing only you know."
+    },
+    {
+      "word": "in one place",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/ɪn ˌwʌn ˈpleɪs/",
+      "theme": "Documentation and handover",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "kept together, so people do not have to search for it.",
+      "examples": [
+        "Let's keep all the credentials info in one place.",
+        "The onboarding steps are finally in one place."
+      ],
+      "collocations": [
+        "in one place",
+        "keep it in one place",
+        "all in one place"
+      ],
+      "mission": "Move one scattered thing so it is in one place."
+    },
+    {
+      "word": "bus factor",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˈbʌs ˌfæk.tə/",
+      "theme": "Documentation and handover",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "the number of people who would have to leave before a project could no longer continue.",
+      "examples": [
+        "The billing service has a bus factor of one.",
+        "Docs raise the bus factor cheaply."
+      ],
+      "collocations": [
+        "a bus factor of one",
+        "raise the bus factor",
+        "the bus factor"
+      ],
+      "mission": "Name one system with a bus factor of one."
+    },
+    {
+      "word": "for future reference",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/fə ˌfjuː.tʃə ˈref.ər.əns/",
+      "theme": "Documentation and handover",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "said when you give information that will be useful later, not now.",
+      "examples": [
+        "For future reference, the staging DB resets on Sundays.",
+        "For future reference: ask Ops before changing DNS."
+      ],
+      "collocations": [
+        "for future reference",
+        "just for future reference"
+      ],
+      "mission": "Share one fact 'for future reference' in the team channel."
+    },
+    {
+      "word": "pass on",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌpɑːs ˈɒn/",
+      "theme": "Documentation and handover",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to give information or something you received to another person.",
+      "examples": [
+        "Pass on the client's feedback to the design team.",
+        "She passed on everything she knew before leaving."
+      ],
+      "forms": [
+        "passed on",
+        "passing on",
+        "passes on",
+        "pass it on"
+      ],
+      "collocations": [
+        "pass on the feedback",
+        "passed on",
+        "pass it on"
+      ],
+      "mission": "Pass on one useful thing you learned this week."
+    },
+    {
+      "word": "cheat sheet",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˈtʃiːt ˌʃiːt/",
+      "theme": "Documentation and handover",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a short document with the most useful commands or facts for quick reference.",
+      "examples": [
+        "There's a cheat sheet for the CLI in the wiki.",
+        "Make a cheat sheet of the ten commands you use most."
+      ],
+      "forms": [
+        "cheat sheets"
+      ],
+      "collocations": [
+        "a cheat sheet for",
+        "the CLI cheat sheet",
+        "a one-page cheat sheet"
+      ],
+      "mission": "Write a five-line cheat sheet for one tool."
+    },
+    {
+      "word": "expenses",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ɪkˈspen.sɪz/",
+      "theme": "Travel and office logistics",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "partial",
+      "trap": "'Note de frais' is an expense claim or just 'expenses' — not 'expense note'.",
+      "definition": "money you spend for work, such as travel, that the company pays back.",
+      "examples": [
+        "Put the taxi on expenses.",
+        "Submit your expenses by the end of the month."
+      ],
+      "collocations": [
+        "put it on expenses",
+        "submit expenses",
+        "travel expenses"
+      ],
+      "mission": "Say 'on expenses', not 'note de frais', once."
+    },
+    {
+      "word": "head off",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌhed ˈɒf/",
+      "theme": "Travel and office logistics",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to leave and start a journey.",
+      "examples": [
+        "I'll head off at four to catch the train.",
+        "We headed off to the client site after lunch."
+      ],
+      "forms": [
+        "headed off",
+        "heading off",
+        "heads off"
+      ],
+      "collocations": [
+        "head off at",
+        "head off to",
+        "headed off"
+      ],
+      "mission": "Say when you are heading off, before you go."
+    },
+    {
+      "word": "claim back",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌkleɪm ˈbæk/",
+      "theme": "Travel and office logistics",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to ask for money you spent for work to be paid back to you.",
+      "examples": [
+        "You can claim back the hotel and the meals.",
+        "I claimed the flight back last week."
+      ],
+      "forms": [
+        "claimed back",
+        "claiming back",
+        "claims back",
+        "claimed the flight back",
+        "claim it back"
+      ],
+      "collocations": [
+        "claim back the cost",
+        "claim it back",
+        "claimed back"
+      ],
+      "mission": "Say what you can and cannot claim back on a trip."
+    },
+    {
+      "word": "receipt",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/rɪˈsiːt/",
+      "theme": "Travel and office logistics",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "none",
+      "trap": "Say /rɪˈsiːt/ — the 'p' is silent. And it is not 'reçu' as in 'received'.",
+      "definition": "a piece of paper or an email that proves you paid for something.",
+      "examples": [
+        "Keep the receipt or finance won't pay you back.",
+        "The receipt is attached to the claim."
+      ],
+      "forms": [
+        "receipts"
+      ],
+      "collocations": [
+        "keep the receipt",
+        "a receipt for",
+        "attach the receipt"
+      ],
+      "mission": "Say receipt out loud — the p is silent."
+    },
+    {
+      "word": "hot-desking",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈhɒtˌdes.kɪŋ/",
+      "theme": "Travel and office logistics",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a system where nobody has a fixed desk and you take whichever one is free.",
+      "examples": [
+        "The new floor is hot-desking — book a desk the day before.",
+        "Hot-desking works until the team all comes in on Tuesday."
+      ],
+      "forms": [
+        "hot-desk",
+        "hot-desks"
+      ],
+      "collocations": [
+        "hot-desking",
+        "a hot-desking floor",
+        "hot-desk"
+      ],
+      "mission": "Explain the hot-desking rule to a newcomer in two lines."
+    },
+    {
+      "word": "run late",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˌrʌn ˈleɪt/",
+      "theme": "Travel and office logistics",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to be later than planned.",
+      "examples": [
+        "I'm running late — start without me.",
+        "The train is running ten minutes late."
+      ],
+      "forms": [
+        "running late",
+        "ran late",
+        "runs late"
+      ],
+      "collocations": [
+        "running late",
+        "run late",
+        "running ten minutes late"
+      ],
+      "mission": "Send 'running late, start without me' the moment you know."
+    },
+    {
+      "word": "location",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ləʊˈkeɪ.ʃən/",
+      "theme": "Travel and office logistics",
+      "level": "B1",
+      "source": "Oxford 3000",
+      "cognate": "false-friend",
+      "trap": "Not 'location' in French (renting) — for that say rental or hire. A location is a place.",
+      "definition": "the place where something is.",
+      "examples": [
+        "Send me the location of the client's office.",
+        "The new location is two stops from the station."
+      ],
+      "forms": [
+        "locations"
+      ],
+      "collocations": [
+        "the location of",
+        "office location",
+        "a central location"
+      ],
+      "mission": "Use location, not 'rental', when you mean a place."
+    },
+    {
+      "word": "swipe",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/swaɪp/",
+      "theme": "Travel and office logistics",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to pass a card through or near a reader to open a door or pay.",
+      "examples": [
+        "Swipe your badge at the barrier, then again for the lift.",
+        "I swiped in at nine and out at six."
+      ],
+      "forms": [
+        "swiped",
+        "swiping",
+        "swipes"
+      ],
+      "collocations": [
+        "swipe your badge",
+        "swipe in",
+        "swiped"
+      ],
+      "mission": "Explain where to swipe in your building."
+    },
+    {
+      "word": "jet lag",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˈdʒet ˌlæɡ/",
+      "theme": "Travel and office logistics",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "the tired, confused feeling after flying across time zones.",
+      "examples": [
+        "Sorry, jet lag — I flew in from Boston last night.",
+        "Give her a day for the jet lag before the workshop."
+      ],
+      "forms": [
+        "jet-lagged"
+      ],
+      "collocations": [
+        "jet lag",
+        "have jet lag",
+        "jet-lagged"
+      ],
+      "mission": "Plan one meeting around someone's jet lag."
+    },
+    {
+      "word": "get around",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌɡet əˈraʊnd/",
+      "theme": "Travel and office logistics",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to travel from place to place in a city or area.",
+      "examples": [
+        "It's easy to get around Lisbon by metro.",
+        "We got around by taxi because of the strike."
+      ],
+      "forms": [
+        "got around",
+        "getting around",
+        "gets around"
+      ],
+      "collocations": [
+        "get around by",
+        "easy to get around",
+        "got around"
+      ],
+      "mission": "Tell a visitor the best way to get around your city."
+    },
+    {
+      "word": "a stone's throw",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ə ˈstəʊnz ˌθrəʊ/",
+      "theme": "Travel and office logistics",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a very short distance.",
+      "examples": [
+        "The hotel is a stone's throw from the office.",
+        "The station is a stone's throw away."
+      ],
+      "collocations": [
+        "a stone's throw from",
+        "a stone's throw away"
+      ],
+      "mission": "Describe one place as a stone's throw from another."
+    },
+    {
+      "word": "stuck in traffic",
+      "type": "chunk",
+      "pos": "adjective",
+      "ipa": "/ˌstʌk ɪn ˈtræf.ɪk/",
+      "theme": "Travel and office logistics",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "unable to move because the road is full of cars.",
+      "examples": [
+        "Karim is stuck in traffic; he'll join by phone.",
+        "I was stuck in traffic for an hour on the ring road."
+      ],
+      "collocations": [
+        "stuck in traffic",
+        "stuck in traffic for"
+      ],
+      "mission": "Warn the meeting the moment you are stuck in traffic."
+    },
+    {
+      "word": "pop out",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌpɒp ˈaʊt/",
+      "theme": "Travel and office logistics",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to leave a place for a short time.",
+      "examples": [
+        "I'm popping out for lunch — back in thirty.",
+        "She popped out to the pharmacy."
+      ],
+      "forms": [
+        "popped out",
+        "popping out",
+        "pops out"
+      ],
+      "collocations": [
+        "pop out for",
+        "popping out",
+        "popped out"
+      ],
+      "mission": "Say 'popping out, back at …' in the chat when you leave."
+    },
+    {
+      "word": "lift",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/lɪft/",
+      "theme": "Travel and office logistics",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "none",
+      "trap": "Say lift in the UK; an American says ride (car) and elevator (building).",
+      "definition": "a free ride in someone's car (British); also the machine that carries people between floors.",
+      "examples": [
+        "Need a lift to the station?",
+        "Take the lift to the fourth floor."
+      ],
+      "forms": [
+        "lifts"
+      ],
+      "collocations": [
+        "give someone a lift",
+        "need a lift",
+        "take the lift"
+      ],
+      "mission": "Offer someone a lift, or take the lift, and say so in English."
+    },
+    {
+      "word": "locked out",
+      "type": "chunk",
+      "pos": "adjective",
+      "ipa": "/ˌlɒkt ˈaʊt/",
+      "theme": "Security and access",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "unable to get into a system or a place because access was refused or lost.",
+      "examples": [
+        "I'm locked out of the admin console after three tries.",
+        "Two people got locked out when the SSO changed."
+      ],
+      "collocations": [
+        "locked out of",
+        "got locked out",
+        "lock yourself out"
+      ],
+      "mission": "Say who to contact when you are locked out — in one line, in the wiki."
+    },
+    {
+      "word": "credentials",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/krəˈden.ʃəlz/",
+      "theme": "Security and access",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "the username, password or keys that prove you are allowed to use a system.",
+      "examples": [
+        "Never paste credentials into the chat.",
+        "The credentials for staging are in the vault."
+      ],
+      "collocations": [
+        "paste credentials",
+        "the credentials for",
+        "rotate credentials"
+      ],
+      "mission": "Say where credentials live, without saying what they are."
+    },
+    {
+      "word": "breach",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/briːtʃ/",
+      "theme": "Security and access",
+      "level": "C1",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "an event where someone gets access to data or a system without permission.",
+      "examples": [
+        "There was a breach at the vendor; we rotated all keys.",
+        "One weak password was the whole breach."
+      ],
+      "forms": [
+        "breaches"
+      ],
+      "collocations": [
+        "a data breach",
+        "a security breach",
+        "the breach"
+      ],
+      "mission": "Describe one breach you read about, in two sentences."
+    },
+    {
+      "word": "tighten up",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌtaɪ.tən ˈʌp/",
+      "theme": "Security and access",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to make rules or controls stricter.",
+      "examples": [
+        "We need to tighten up access to production.",
+        "They tightened up the review process after the leak."
+      ],
+      "forms": [
+        "tightened up",
+        "tightening up",
+        "tightens up"
+      ],
+      "collocations": [
+        "tighten up access",
+        "tightened up",
+        "tighten up the rules"
+      ],
+      "mission": "Name one thing to tighten up this quarter."
+    },
+    {
+      "word": "leak",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/liːk/",
+      "theme": "Security and access",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "to let secret information become known by accident or on purpose.",
+      "examples": [
+        "The token leaked through a public log.",
+        "Don't leak customer names in error messages."
+      ],
+      "forms": [
+        "leaked",
+        "leaking",
+        "leaks"
+      ],
+      "collocations": [
+        "leak a token",
+        "leaked through",
+        "a leaked key"
+      ],
+      "mission": "Find one place where data could leak, and say where."
+    },
+    {
+      "word": "on a need-to-know basis",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/ˌɒn ə ˌniːd tə ˈnəʊ ˌbeɪ.sɪs/",
+      "theme": "Security and access",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "shared only with the people who must have the information to do their job.",
+      "examples": [
+        "Prod access is on a need-to-know basis.",
+        "Client data is on a need-to-know basis — ask, don't assume."
+      ],
+      "collocations": [
+        "on a need-to-know basis",
+        "strictly need-to-know"
+      ],
+      "mission": "Say what should be on a need-to-know basis in your team."
+    },
+    {
+      "word": "control",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/kənˈtrəʊl/",
+      "theme": "Security and access",
+      "level": "B1",
+      "source": "Oxford 3000",
+      "cognate": "false-friend",
+      "trap": "Not 'contrôler' (to check or inspect) — for that say check. Control means to have the power over.",
+      "definition": "to have the power to decide what a system or person does.",
+      "examples": [
+        "This role controls who can deploy.",
+        "One team controls the DNS for all products."
+      ],
+      "forms": [
+        "controls",
+        "controlled",
+        "controlling"
+      ],
+      "collocations": [
+        "control access",
+        "controls who",
+        "under control"
+      ],
+      "mission": "Check one sentence: did you mean 'check' where you wrote 'control'?"
+    },
+    {
+      "word": "shady",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/ˈʃeɪ.di/",
+      "theme": "Security and access",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "seeming dishonest or not to be trusted.",
+      "examples": [
+        "That email looks shady — don't click the link.",
+        "A shady domain, a wrong logo: classic phishing."
+      ],
+      "collocations": [
+        "a shady email",
+        "looks shady",
+        "a shady link"
+      ],
+      "mission": "Report one shady email instead of deleting it."
+    },
+    {
+      "word": "revoke",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/rɪˈvəʊk/",
+      "theme": "Security and access",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "partial",
+      "definition": "to officially cancel a permission or a key so it no longer works.",
+      "examples": [
+        "Revoke the old token before you rotate it.",
+        "Her access was revoked the day she left."
+      ],
+      "forms": [
+        "revoked",
+        "revoking",
+        "revokes"
+      ],
+      "collocations": [
+        "revoke access",
+        "revoke the token",
+        "revoked"
+      ],
+      "mission": "Say what you would revoke first after a suspected leak."
+    },
+    {
+      "word": "loophole",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈluːp.həʊl/",
+      "theme": "Security and access",
+      "level": "C1",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "a small mistake in a rule or a system that lets people avoid what it was meant to do.",
+      "examples": [
+        "The API had a loophole: expired keys still worked for an hour.",
+        "Close the loophole before someone finds it."
+      ],
+      "forms": [
+        "loopholes"
+      ],
+      "collocations": [
+        "a loophole in",
+        "close the loophole",
+        "find a loophole"
+      ],
+      "mission": "Name one loophole in a rule your team has."
+    },
+    {
+      "word": "on the safe side",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/ˌɒn ðə ˈseɪf ˌsaɪd/",
+      "theme": "Security and access",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "taking no risk, even if it is probably not necessary.",
+      "examples": [
+        "To be on the safe side, rotate the key anyway.",
+        "I took a backup first, to be on the safe side."
+      ],
+      "collocations": [
+        "to be on the safe side",
+        "on the safe side"
+      ],
+      "mission": "Do one thing 'to be on the safe side' and say so."
+    },
+    {
+      "word": "spot-check",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/ˈspɒt ˌtʃek/",
+      "theme": "Security and access",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to check a few examples at random instead of everything.",
+      "examples": [
+        "We spot-check the access logs every Friday.",
+        "Spot-check three accounts, not all three thousand."
+      ],
+      "forms": [
+        "spot-checked",
+        "spot-checking",
+        "spot-checks",
+        "spot check"
+      ],
+      "collocations": [
+        "spot-check the logs",
+        "spot-checked",
+        "a spot check"
+      ],
+      "mission": "Spot-check one thing today and note what you found."
+    },
+    {
+      "word": "better safe than sorry",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌbet.ə ˌseɪf ðən ˈsɒr.i/",
+      "theme": "Security and access",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "it is wiser to be careful now than to regret it later.",
+      "examples": [
+        "Enable two-factor everywhere — better safe than sorry.",
+        "I re-checked the backup. Better safe than sorry."
+      ],
+      "collocations": [
+        "better safe than sorry",
+        "just to be safe"
+      ],
+      "mission": "Justify one careful step with 'better safe than sorry'."
+    },
+    {
+      "word": "tamper with",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˈtæm.pə wɪð/",
+      "theme": "Security and access",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to change something secretly so that it no longer works as it should.",
+      "examples": [
+        "Someone tampered with the config on the shared box.",
+        "Signed builds show if anyone tampers with the binary."
+      ],
+      "forms": [
+        "tampered with",
+        "tampering with",
+        "tampers with",
+        "tampering"
+      ],
+      "collocations": [
+        "tamper with",
+        "tampered with",
+        "evidence of tampering"
+      ],
+      "mission": "Name one file nobody should be able to tamper with."
+    },
+    {
+      "word": "big picture",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˌbɪɡ ˈpɪk.tʃə/",
+      "theme": "Roadmap and strategy",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "the whole situation, not the small details.",
+      "examples": [
+        "Step back and look at the big picture: three products, one platform.",
+        "He's good at the big picture, less at the details."
+      ],
+      "collocations": [
+        "the big picture",
+        "look at the big picture",
+        "big-picture thinking"
+      ],
+      "mission": "Describe the big picture of your project in two sentences."
+    },
+    {
+      "word": "map out",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌmæp ˈaʊt/",
+      "theme": "Roadmap and strategy",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to plan something in detail, showing all the steps.",
+      "examples": [
+        "Let's map out the next two quarters on one page.",
+        "She mapped out the migration in five phases."
+      ],
+      "forms": [
+        "mapped out",
+        "mapping out",
+        "maps out",
+        "map it out"
+      ],
+      "collocations": [
+        "map out the plan",
+        "mapped out",
+        "map it out"
+      ],
+      "mission": "Map out one project in five lines."
+    },
+    {
+      "word": "milestone",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈmaɪl.stəʊn/",
+      "theme": "Roadmap and strategy",
+      "level": "B2",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "an important point in a project that shows real progress.",
+      "examples": [
+        "First milestone: real users on the beta by March.",
+        "We hit every milestone except the last one."
+      ],
+      "forms": [
+        "milestones"
+      ],
+      "collocations": [
+        "hit a milestone",
+        "the first milestone",
+        "a key milestone"
+      ],
+      "mission": "Name the next milestone and its date."
+    },
+    {
+      "word": "bet",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/bet/",
+      "theme": "Roadmap and strategy",
+      "level": "B2",
+      "source": "Oxford 3000",
+      "cognate": "none",
+      "trap": "Second sense of a known word: to bet on a strategy is to commit to it, not to gamble money.",
+      "definition": "to choose one direction because you believe it will succeed, accepting the risk.",
+      "examples": [
+        "We're betting on mobile for next year.",
+        "The company bet big on the platform and it paid off."
+      ],
+      "forms": [
+        "betting",
+        "bets"
+      ],
+      "collocations": [
+        "bet on",
+        "betting on",
+        "bet big on"
+      ],
+      "mission": "Say what your team is betting on this year."
+    },
+    {
+      "word": "down the line",
+      "type": "chunk",
+      "pos": "adverb",
+      "ipa": "/ˌdaʊn ðə ˈlaɪn/",
+      "theme": "Roadmap and strategy",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "at some point in the future.",
+      "examples": [
+        "We can add multi-region down the line.",
+        "Six months down the line, we'll have the data to decide."
+      ],
+      "collocations": [
+        "down the line",
+        "further down the line",
+        "six months down the line"
+      ],
+      "mission": "Say what you would add down the line, not now."
+    },
+    {
+      "word": "double down",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌdʌb.əl ˈdaʊn/",
+      "theme": "Roadmap and strategy",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to put even more effort or money into something you already chose.",
+      "examples": [
+        "The numbers are good — let's double down on onboarding.",
+        "They doubled down on the API after the first big client."
+      ],
+      "forms": [
+        "doubled down",
+        "doubling down",
+        "doubles down"
+      ],
+      "collocations": [
+        "double down on",
+        "doubled down",
+        "double down"
+      ],
+      "mission": "Say what your team should double down on, and what to drop."
+    },
+    {
+      "word": "achieve",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/əˈtʃiːv/",
+      "theme": "Roadmap and strategy",
+      "level": "B1",
+      "source": "Oxford 3000",
+      "cognate": "false-friend",
+      "trap": "Not 'achever' (to finish) — for that say finish or complete. Achieve means reach a goal.",
+      "definition": "to succeed in reaching a goal after effort.",
+      "examples": [
+        "We achieved the latency target a month early.",
+        "What do we want to achieve by the end of the year?"
+      ],
+      "forms": [
+        "achieved",
+        "achieving",
+        "achieves"
+      ],
+      "collocations": [
+        "achieve a goal",
+        "achieve the target",
+        "achieved"
+      ],
+      "mission": "Say what you want to achieve this quarter — not 'finish'."
+    },
+    {
+      "word": "moonshot",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈmuːn.ʃɒt/",
+      "theme": "Roadmap and strategy",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "a very ambitious project that is unlikely to succeed but would change everything if it did.",
+      "examples": [
+        "Real-time translation is our moonshot for next year.",
+        "One moonshot per year, the rest must pay the bills."
+      ],
+      "forms": [
+        "moonshots"
+      ],
+      "collocations": [
+        "a moonshot",
+        "our moonshot",
+        "a moonshot project"
+      ],
+      "mission": "Name one moonshot your team could try."
+    },
+    {
+      "word": "north star",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ˌnɔːθ ˈstɑː/",
+      "theme": "Roadmap and strategy",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "the one goal or measure that guides every decision.",
+      "examples": [
+        "Our north star is weekly active teams, not sign-ups.",
+        "When in doubt, check the decision against the north star."
+      ],
+      "collocations": [
+        "the north star",
+        "our north star metric",
+        "a north star"
+      ],
+      "mission": "Say what the north star of your product is, in five words."
+    },
+    {
+      "word": "shelve",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/ʃelv/",
+      "theme": "Roadmap and strategy",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to decide not to continue a plan for now, perhaps forever.",
+      "examples": [
+        "We shelved the redesign to focus on reliability.",
+        "The idea was shelved, not killed."
+      ],
+      "forms": [
+        "shelved",
+        "shelving",
+        "shelves"
+      ],
+      "collocations": [
+        "shelve the plan",
+        "shelved",
+        "shelve it for now"
+      ],
+      "mission": "Say what you would shelve to make room for the priority."
+    },
+    {
+      "word": "in the works",
+      "type": "chunk",
+      "pos": "adjective",
+      "ipa": "/ɪn ðə ˈwɜːks/",
+      "theme": "Roadmap and strategy",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "being planned or developed, but not finished.",
+      "examples": [
+        "A self-service portal is in the works.",
+        "Several fixes are in the works for the next release."
+      ],
+      "collocations": [
+        "in the works",
+        "in the works for",
+        "something in the works"
+      ],
+      "mission": "Say what is in the works without promising a date."
+    },
+    {
+      "word": "stakes",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/steɪks/",
+      "theme": "Roadmap and strategy",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "what can be won or lost in a situation; how much it matters.",
+      "examples": [
+        "The stakes are high: this client is a third of revenue.",
+        "Low stakes — it's an internal tool."
+      ],
+      "collocations": [
+        "the stakes are high",
+        "high stakes",
+        "low stakes"
+      ],
+      "mission": "Say how high the stakes are for one decision, and why."
+    },
+    {
+      "word": "play it by ear",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˌpleɪ ɪt baɪ ˈɪə/",
+      "theme": "Roadmap and strategy",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to decide what to do as things happen, rather than planning in advance.",
+      "examples": [
+        "No plan for Q4 yet — we'll play it by ear.",
+        "We played it by ear during the beta and it worked."
+      ],
+      "forms": [
+        "played it by ear",
+        "playing it by ear",
+        "plays it by ear"
+      ],
+      "collocations": [
+        "play it by ear",
+        "let's play it by ear",
+        "played it by ear"
+      ],
+      "mission": "Say where you can play it by ear, and where you cannot."
+    },
+    {
+      "word": "sunset",
+      "type": "word",
+      "pos": "verb",
+      "ipa": "/ˈsʌn.set/",
+      "theme": "Roadmap and strategy",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Second sense of a known word: to sunset a product is to retire it — not the evening sky.",
+      "definition": "to stop supporting a product or feature gradually, until it is switched off.",
+      "examples": [
+        "We're sunsetting the v1 API in June.",
+        "Sunset the old plans before the pricing change."
+      ],
+      "forms": [
+        "sunsetting",
+        "sunsets",
+        "sunsetted"
+      ],
+      "collocations": [
+        "sunset the API",
+        "sunsetting",
+        "be sunset"
+      ],
+      "mission": "Name one feature that should be sunset, and when."
+    },
+    {
+      "word": "tie up loose ends",
+      "type": "chunk",
+      "pos": "verb",
+      "ipa": "/ˌtaɪ ʌp ˌluːs ˈendz/",
+      "theme": "Closing a project",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to finish the small remaining tasks so that something is completely done.",
+      "examples": [
+        "Two days to tie up loose ends, then we hand over.",
+        "She tied up the loose ends before her leave."
+      ],
+      "forms": [
+        "tied up the loose ends",
+        "tied up loose ends",
+        "tying up loose ends"
+      ],
+      "collocations": [
+        "tie up loose ends",
+        "tie up the loose ends",
+        "loose ends"
+      ],
+      "mission": "List the loose ends of one project and tie up one today."
+    },
+    {
+      "word": "closure",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈkləʊ.ʒə/",
+      "theme": "Closing a project",
+      "level": "C1",
+      "source": "Oxford 5000",
+      "cognate": "partial",
+      "trap": "Not 'clôture' as in a fence or a closing ceremony: closure is the feeling of having finished.",
+      "definition": "the feeling that something has properly ended, so people can move on.",
+      "examples": [
+        "A short retro gives the team closure.",
+        "Without a final demo there was no closure on the project."
+      ],
+      "collocations": [
+        "get closure",
+        "give the team closure",
+        "a sense of closure"
+      ],
+      "mission": "Plan one small ritual that gives a project closure."
+    },
+    {
+      "word": "phase out",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌfeɪz ˈaʊt/",
+      "theme": "Closing a project",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to stop using something gradually, in stages.",
+      "examples": [
+        "We'll phase out the old dashboard over two months.",
+        "The legacy exports were phased out last year."
+      ],
+      "forms": [
+        "phased out",
+        "phasing out",
+        "phases out",
+        "phase it out"
+      ],
+      "collocations": [
+        "phase out the old",
+        "phased out",
+        "phase it out"
+      ],
+      "mission": "Say what should be phased out, and over how long."
+    },
+    {
+      "word": "shout-out",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˈʃaʊt.aʊt/",
+      "theme": "Closing a project",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "public thanks or praise for a person, usually in a meeting or a message.",
+      "examples": [
+        "Shout-out to Sara for the migration runbook.",
+        "A quick shout-out before we close: QA found the last bug."
+      ],
+      "forms": [
+        "shout-outs"
+      ],
+      "collocations": [
+        "shout-out to",
+        "a quick shout-out",
+        "give a shout-out"
+      ],
+      "mission": "Give one shout-out in the team channel today."
+    },
+    {
+      "word": "switch off",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌswɪtʃ ˈɒf/",
+      "theme": "Closing a project",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Two senses: to switch a machine off, and, for people, to stop thinking about work.",
+      "definition": "to stop thinking about work and relax.",
+      "examples": [
+        "After a launch, take a day and really switch off.",
+        "I can't switch off when the pager is next to me."
+      ],
+      "forms": [
+        "switched off",
+        "switching off",
+        "switches off"
+      ],
+      "collocations": [
+        "switch off after",
+        "really switch off",
+        "switched off"
+      ],
+      "mission": "Say what helps you switch off after a big release."
+    },
+    {
+      "word": "farewell",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/ˌfeəˈwel/",
+      "theme": "Closing a project",
+      "level": "C1",
+      "source": "Oxford 5000",
+      "cognate": "none",
+      "definition": "the act of saying goodbye, especially at the end of a job or a project.",
+      "examples": [
+        "We're doing a farewell lunch for Karim on Friday.",
+        "Her farewell email thanked the whole team."
+      ],
+      "forms": [
+        "farewells"
+      ],
+      "collocations": [
+        "a farewell lunch",
+        "farewell email",
+        "say farewell"
+      ],
+      "mission": "Plan one farewell moment for a colleague or a project."
+    },
+    {
+      "word": "rest",
+      "type": "word",
+      "pos": "noun",
+      "ipa": "/rest/",
+      "theme": "Closing a project",
+      "level": "B1",
+      "source": "Oxford 3000",
+      "cognate": "false-friend",
+      "trap": "Not 'rester' (to stay) — for that say stay. A rest is a break. 'The rest' also means the others.",
+      "definition": "a period of relaxing or sleeping after work or effort.",
+      "examples": [
+        "Take a proper rest after the launch — you've earned it.",
+        "The team needs a rest before the next big push."
+      ],
+      "forms": [
+        "rests"
+      ],
+      "collocations": [
+        "take a rest",
+        "a proper rest",
+        "a rest from"
+      ],
+      "mission": "Tell someone to take a rest — and mean the English sense."
+    },
+    {
+      "word": "hand back",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌhænd ˈbæk/",
+      "theme": "Closing a project",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "to return something to the person or team that owned it before.",
+      "examples": [
+        "We hand the servers back to the client on Friday.",
+        "Hand back the badges and laptops before you leave."
+      ],
+      "forms": [
+        "hand the servers back",
+        "handed back",
+        "handing back",
+        "hands back",
+        "hand it back"
+      ],
+      "collocations": [
+        "hand back the",
+        "hand it back",
+        "handed back"
+      ],
+      "mission": "List what you will hand back at the end of one project."
+    },
+    {
+      "word": "cheers",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/tʃɪəz/",
+      "theme": "Closing a project",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Informal and British; with a client, say thank you.",
+      "definition": "an informal British way to say thank you or goodbye.",
+      "examples": [
+        "Cheers for the quick review!",
+        "That's everything from me — cheers, all."
+      ],
+      "collocations": [
+        "cheers for",
+        "cheers, all",
+        "cheers!"
+      ],
+      "mission": "End one chat message with 'cheers'."
+    },
+    {
+      "word": "wind down",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌwaɪnd ˈdaʊn/",
+      "theme": "Closing a project",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Say /waɪnd/ like 'find' — not like the wind that blows.",
+      "definition": "to reduce activity gradually before stopping completely.",
+      "examples": [
+        "The project winds down in March; two people stay on.",
+        "We're winding down support for the old version."
+      ],
+      "forms": [
+        "winds down",
+        "winding down",
+        "wound down"
+      ],
+      "collocations": [
+        "wind down the project",
+        "winding down",
+        "wound down"
+      ],
+      "mission": "Say what winds down first at the end of your project."
+    },
+    {
+      "word": "a job well done",
+      "type": "chunk",
+      "pos": "noun",
+      "ipa": "/ə ˌdʒɒb wel ˈdʌn/",
+      "theme": "Closing a project",
+      "level": "B2",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "work that was completed well, usually said when praising someone.",
+      "examples": [
+        "Congratulations on a job well done.",
+        "The client's email was one line: 'a job well done'."
+      ],
+      "collocations": [
+        "a job well done",
+        "congratulations on a job well done"
+      ],
+      "mission": "Congratulate one person on a job well done, by name."
+    },
+    {
+      "word": "chuffed",
+      "type": "word",
+      "pos": "adjective",
+      "ipa": "/tʃʌft/",
+      "theme": "Closing a project",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "trap": "Informal and British; in a report say pleased.",
+      "definition": "very pleased (informal, British).",
+      "examples": [
+        "I'm chuffed with how the launch went.",
+        "The team was chuffed to see the numbers."
+      ],
+      "collocations": [
+        "chuffed with",
+        "chuffed to",
+        "really chuffed"
+      ],
+      "mission": "Say what you are chuffed about this month."
+    },
+    {
+      "word": "onwards and upwards",
+      "type": "chunk",
+      "pos": "expression",
+      "ipa": "/ˌɒn.wədz ənd ˈʌp.wədz/",
+      "theme": "Closing a project",
+      "level": "C1",
+      "source": "everyday",
+      "cognate": "none",
+      "definition": "said to encourage people to move on to the next, better thing after finishing something.",
+      "examples": [
+        "That's the project closed — onwards and upwards!",
+        "Onwards and upwards: the next sprint starts Monday."
+      ],
+      "collocations": [
+        "onwards and upwards",
+        "onwards and upwards!"
+      ],
+      "mission": "Close one project with 'onwards and upwards'."
+    },
+    {
+      "word": "carry on",
+      "type": "phrasal-verb",
+      "pos": "verb",
+      "ipa": "/ˌkær.i ˈɒn/",
+      "theme": "Closing a project",
+      "level": "B2",
+      "source": "PHaVE",
+      "cognate": "none",
+      "definition": "to continue doing something.",
+      "examples": [
+        "Carry on with the cleanup; I'll join after the call.",
+        "The team carried on as normal during the handover."
+      ],
+      "forms": [
+        "carried on",
+        "carrying on",
+        "carries on"
+      ],
+      "collocations": [
+        "carry on with",
+        "carry on as normal",
+        "carried on"
+      ],
+      "mission": "Tell someone to carry on, and say with what."
     }
   ]
 }
